@@ -1,0 +1,3 @@
+P_DesertDungeon,-4663,-4611,-2745,-2692
+DinosaurSkeleton,-5008,-4999,-2598,-2552
+RLCraft_UndergroundFarm,-4802,-4760,-2686,-2643

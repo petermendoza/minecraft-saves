@@ -1,0 +1,2 @@
+PeacefulCrypt,684,700,-5512,-5488
+StonePlantMound,827,832,-5466,-5461

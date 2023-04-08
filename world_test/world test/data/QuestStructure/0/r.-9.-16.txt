@@ -1,0 +1,4 @@
+PeacefulCrypt,-4694,-4678,-8207,-8183
+StonePlantMound1,-4614,-4608,-8332,-8326
+StonePlantMound3,-4626,-4615,-8347,-8338
+RLCraft_SmallUndergroundSkeleton,-4686,-4678,-8321,-8313

@@ -1,0 +1,3 @@
+DesertWatchtower,7304,7314,796,806
+RLCraft_BasicWitch,7420,7420,583,583
+RLCraft_UndergroundRuin1,7417,7426,577,586

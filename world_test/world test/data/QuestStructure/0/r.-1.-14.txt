@@ -1,0 +1,2 @@
+StoneIceBoulder,-700,-690,-7362,-7353
+RLCraft_xKOSMOS42,-658,-632,-7270,-7241

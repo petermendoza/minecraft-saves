@@ -1,0 +1,4 @@
+P_CultIsland,3280,3490,9330,9500
+RLCraft_SmallUndergroundSkeleton,3117,3125,9377,9385
+RLCraft_SmallUndergroundSkeleton,3124,3132,9374,9382
+RLCraft_SmallUndergroundSkeleton,3121,3129,9420,9428

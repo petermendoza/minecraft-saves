@@ -1,0 +1,15 @@
+StonePlantBoulder,6138,6148,-3746,-3736
+StonePlantBoulder,6086,6096,-3783,-3773
+ShrineSmallFire,6079,6089,-3804,-3794
+JokerTower,6032,6040,-3608,-3600
+RLCraft_DecentWitch,5995,5995,-3646,-3646
+RLCraft_UndergroundRuin2,5990,5997,-3651,-3641
+DinosaurSkull,6023,6042,-3913,-3902
+StonePlantMound4,6098,6105,-3947,-3940
+DinosaurSkeleton,6047,6093,-3950,-3941
+MeteorSite,6052,6067,-3979,-3949
+MeteorSite,6066,6081,-3990,-3960
+RLCraft_DecentWitch,6004,6004,-3990,-3990
+RLCraft_UndergroundRuin2,5999,6009,-3992,-3985
+RLCraft_DecentSpider,5946,5946,-3814,-3814
+RLCraft_UndergroundRuin3,5943,5951,-3820,-3812

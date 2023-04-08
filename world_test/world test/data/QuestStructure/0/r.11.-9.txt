@@ -1,0 +1,11 @@
+StonePlantMound2,5696,5708,-5125,-5112
+ThreeTowers,5637,5668,-4728,-4696
+StonePlantMound3,5753,5764,-5105,-5096
+SeasonsGreenhouse,5686,5698,-4823,-4813
+P_Village2Story,5647,5660,-4794,-4788
+VillageTriplets,5686,5700,-4790,-4776
+P_VillageFarmhouse,5659,5671,-4771,-4759
+VillageForgeLarge,5674,5690,-4771,-4759
+VillageLargeLibrary,5734,5754,-4773,-4754
+RLCraft_Vineyard,5638,5666,-4750,-4730
+RLCraft_SmallUndergroundSkeleton,5639,5647,-4755,-4747

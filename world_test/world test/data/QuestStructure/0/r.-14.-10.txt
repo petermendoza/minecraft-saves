@@ -1,0 +1,12 @@
+StonePlantBoulder,-7551,-7541,-5240,-5230
+StoneLeafMound,-7573,-7566,-5182,-5173
+StoneLeafMound,-7582,-7575,-5181,-5172
+StoneBoulder,-7475,-7466,-5179,-5170
+RLCraft_SmallUndergroundSkeleton,-7523,-7515,-5294,-5286
+RLCraft_BasicWitch,-7596,-7596,-5282,-5282
+RLCraft_UndergroundRuin1,-7599,-7590,-5288,-5279
+StonePlantMound1,-7599,-7593,-5133,-5127
+StoneLeafMound,-7436,-7427,-5291,-5284
+StoneLeafMound,-7393,-7386,-5169,-5160
+RLCraft_SmallUndergroundSkeleton,-7591,-7583,-5468,-5460
+StonePlantMound2,-7661,-7649,-5474,-5461

@@ -1,0 +1,8 @@
+StoneBoulder,4565,4574,-6628,-6619
+RLCraft_cryo_bit,4491,4516,-6612,-6587
+StoneLeafMound,4396,4405,-6589,-6582
+StonePlantMound,4356,4361,-6611,-6606
+RLCraft_DecentSkeleton,4344,4344,-6574,-6574
+RLCraft_UndergroundRuin3,4342,4350,-6577,-6569
+StonePlantMound4,4337,4344,-6558,-6551
+StonePlantMound3,4350,4361,-6548,-6539

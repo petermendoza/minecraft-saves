@@ -1,0 +1,5 @@
+StoneLeafMound,-4074,-4065,-8318,-8311
+StonePlantMound2,-4021,-4009,-8231,-8218
+StonePlantMound4,-4009,-4002,-8259,-8252
+StonePlantMound3,-3970,-3961,-8217,-8206
+StonePlantMound3,-3910,-3901,-8231,-8220

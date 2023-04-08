@@ -1,0 +1,9 @@
+RLCraft_DecentZombie,2396,2396,-7913,-7913
+RLCraft_UndergroundRuin2,2394,2401,-7918,-7908
+MeteorSite,2288,2303,-7938,-7908
+RLCraft_DecentCaveSpider,2308,2308,-7930,-7930
+RLCraft_UndergroundRuin2,2303,2313,-7932,-7925
+StoneLeafMound,2546,2553,-7728,-7719
+StonePlantMound4,2555,2562,-7767,-7760
+StonePlantMound2,2536,2549,-7718,-7706
+StonePlantMound3,2514,2525,-7688,-7679
