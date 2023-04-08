@@ -1,0 +1,8 @@
+P_SmallShip,-2094,-2088,-1952,-1932
+RLCraft_DecentSpider,-2151,-2151,-1958,-1958
+RLCraft_UndergroundRuin2,-2156,-2149,-1963,-1953
+RLCraft_BasicZombie,-2182,-2182,-1990,-1990
+RLCraft_UndergroundRuin1,-2185,-2176,-1996,-1987
+SmallAbandonedMine,-2391,-2366,-1693,-1678
+IceThorn2,-2388,-2378,-1854,-1842
+SmallAbandonedMine,-2558,-2533,-1861,-1846

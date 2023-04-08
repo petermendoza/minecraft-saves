@@ -1,0 +1,13 @@
+WoodWallRemains,-7572,-7544,-8398,-8390
+RLCraft_DecentSkeleton,-7505,-7505,-8593,-8593
+RLCraft_UndergroundRuin3,-7510,-7502,-8595,-8587
+SmallAbandonedMine,-7608,-7583,-8618,-8603
+StoneLeafMound,-7395,-7386,-8400,-8393
+StoneBoulder,-7353,-7344,-8417,-8408
+ClayWaterMound,-7315,-7307,-8371,-8364
+StonePlantMound3,-7294,-7283,-8481,-8472
+StonePlantBoulder,-7262,-7252,-8444,-8434
+StonePlantMound,-7190,-7185,-8452,-8447
+StoneBoulder,-7293,-7284,-8340,-8331
+StoneLeafMound,-7203,-7196,-8606,-8597
+StonePlantMound1,-7174,-7168,-8635,-8629

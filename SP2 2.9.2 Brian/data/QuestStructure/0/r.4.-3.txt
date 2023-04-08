@@ -1,0 +1,6 @@
+StoneLeafMound,2126,2133,-2009,-2000
+StonePlantMound3,2075,2084,-1772,-1761
+SmallAbandonedMine,2072,2097,-1731,-1716
+StonePlantMound,2093,2098,-1833,-1828
+StoneLeafMound,2086,2093,-1786,-1777
+StoneLeafMound,2083,2092,-1692,-1685

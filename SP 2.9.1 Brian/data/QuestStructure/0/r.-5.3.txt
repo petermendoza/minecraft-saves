@@ -1,0 +1,3 @@
+RLCraft_DecentCaveSpider,-2712,-2712,1573,1573
+RLCraft_UndergroundRuin3,-2718,-2710,1570,1578
+P_LargeShip,-2651,-2633,1684,1744

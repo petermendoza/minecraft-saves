@@ -1,0 +1,12 @@
+StoneIceBoulder1,-7183,-7173,-237,-227
+StoneIceBoulder1,-7249,-7239,-272,-262
+StoneIceBoulder2,-7179,-7170,-285,-276
+BlazeSpawnerCrystal,-7203,-7197,-304,-298
+StoneIceBoulder,-7450,-7441,-114,-104
+RLCraft_LargeUndergroundTown,-7519,-7406,-235,-98
+P_Tent,-7349,-7340,161,170
+RLCraft_BasicSpider,-7542,-7542,20,20
+RLCraft_UndergroundRuin1,-7545,-7536,14,23
+RLCraft_DecentWitch,-7531,-7531,-31,-31
+RLCraft_UndergroundRuin2,-7536,-7526,-33,-26
+StoneIceBoulder2,-7560,-7551,140,149

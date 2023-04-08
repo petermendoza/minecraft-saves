@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,1158,1201,-2199,-2157
+ShrineSmallAir,1262,1270,-2079,-2071
+RLCraft_UndergroundFarm,1400,1443,-2121,-2079
+DinosaurSkull,1308,1327,-2365,-2354
+UndergroundCultChamber,1266,1298,-2438,-2396

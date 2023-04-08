@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,1620,1620,-3615,-3615
+RLCraft_UndergroundRuin3,1617,1625,-3617,-3609
+ElvenPond,1597,1627,-3660,-3631
+RLCraft_SmallUndergroundSkeleton,1623,1631,-3660,-3652
+P_Tent,1846,1855,-3675,-3666

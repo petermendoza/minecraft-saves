@@ -1,0 +1,16 @@
+StoneBoulder,2079,2088,-2552,-2543
+StonePlantMound1,2085,2091,-2503,-2497
+StonePlantBoulder,2163,2173,-2467,-2457
+StonePlantMound2,2178,2190,-2452,-2439
+RLCraft_SmallTown,2130,2201,-2497,-2422
+StoneBoulder,2084,2093,-2473,-2464
+DinosaurSkeleton,2219,2265,-2543,-2534
+SmallAbandonedMine,2309,2324,-2444,-2419
+DinosaurSkeleton,2316,2325,-2510,-2464
+StonePlantMound4,2336,2343,-2524,-2517
+StonePlantMound2,2334,2346,-2434,-2421
+StoneLeafMound,2339,2348,-2545,-2538
+RLCraft_SmallUndergroundSkeleton,2065,2073,-2131,-2123
+StonePlantMound2,2095,2108,-2135,-2123
+StonePlantMound2,2091,2104,-2148,-2136
+BrickHenge,2116,2132,-2183,-2167

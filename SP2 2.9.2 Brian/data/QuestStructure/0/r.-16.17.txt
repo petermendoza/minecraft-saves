@@ -1,0 +1,5 @@
+WoodWallRemains,-8645,-8617,8875,8883
+ShrineSmallAir,-8633,-8625,9045,9053
+PeacefulCrypt,-8556,-8540,8887,8911
+RLCraft_4Towers,-8604,-8544,8831,8883
+ShrineSmallAir,-8707,-8699,9189,9197

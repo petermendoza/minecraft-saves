@@ -1,0 +1,16 @@
+StoneBoulder,-1542,-1533,-1665,-1656
+RLCraft_UndergroundFarm,-1608,-1566,-1581,-1538
+RLCraft_SmallUndergroundSkeleton,-1593,-1585,-1725,-1717
+SmallOutpost,-1628,-1606,-1609,-1579
+StoneBoulder,-1641,-1632,-1577,-1568
+ShrineSmallAir,-1647,-1639,-1661,-1653
+SmallAbandonedMine,-1691,-1676,-1612,-1587
+DinosaurSkull,-1729,-1710,-1778,-1767
+UndergroundTreeoid,-1823,-1800,-2037,-2011
+ShrineSmallWater,-1895,-1887,-2046,-2038
+UndergroundCrypt,-2041,-2027,-1994,-1966
+SmallWoodenCottage2,-1932,-1924,-1604,-1596
+MeteorSite,-1987,-1972,-1589,-1559
+RLCraft_BasicSpider,-1902,-1902,-1565,-1565
+RLCraft_UndergroundRuin1,-1905,-1896,-1571,-1562
+StonePlantMound,-1809,-1804,-1545,-1540

@@ -1,0 +1,8 @@
+StoneMazeFountain,5276,5284,-5120,-5112
+StoneMazePathBig,5285,5293,-5120,-5112
+StoneMazePath,5270,5272,-5120,-5118
+StoneMazePath,5267,5269,-5120,-5118
+StoneMazePath,5264,5266,-5120,-5118
+StoneMazePath,5264,5266,-5117,-5115
+StoneMazePath,5264,5266,-5114,-5112
+StoneMazeEndChest,5261,5263,-5114,-5112

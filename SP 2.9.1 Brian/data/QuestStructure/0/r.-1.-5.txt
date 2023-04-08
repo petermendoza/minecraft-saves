@@ -1,0 +1,5 @@
+StonePlantMound4,-527,-520,-2672,-2665
+ShrineSmallFire,-615,-605,-2832,-2822
+UndergroundCrypt,-684,-670,-2693,-2665
+RLCraft_DecentZombie,-816,-816,-2697,-2697
+RLCraft_UndergroundRuin2,-821,-811,-2702,-2695

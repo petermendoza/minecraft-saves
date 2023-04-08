@@ -1,0 +1,2 @@
+ShrineSmallFire,-144,-134,2636,2646
+P_WitchDungeon,-98,-64,2555,2572

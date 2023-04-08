@@ -1,0 +1,2 @@
+ForestBeacon,-511,-503,3958,3966
+StonePlantMound1,-492,-486,3987,3993

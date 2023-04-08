@@ -1,0 +1,7 @@
+StonePlantMound,930,935,-1533,-1528
+StonePlantMound3,880,891,-1513,-1504
+RLCraft_DecentCaveSpider,897,897,-1356,-1356
+RLCraft_UndergroundRuin2,895,902,-1361,-1351
+RLCraft_UndergroundFarm,712,754,-1380,-1337
+RLCraft_DecentZombie,912,912,-1158,-1158
+RLCraft_UndergroundRuin3,909,917,-1164,-1156

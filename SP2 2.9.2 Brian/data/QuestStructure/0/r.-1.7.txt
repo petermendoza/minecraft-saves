@@ -1,0 +1,7 @@
+RLCraft_BasicSkeleton,-642,-642,3982,3982
+RLCraft_UndergroundRuin1,-648,-639,3976,3985
+StonePlantMound4,-626,-619,3908,3915
+BlazeSpawnerCrystal,-519,-513,3880,3886
+StonePlantMound4,-702,-695,3829,3836
+StonePlantMound1,-574,-568,3828,3834
+StonePlantMound1,-541,-535,3794,3800
