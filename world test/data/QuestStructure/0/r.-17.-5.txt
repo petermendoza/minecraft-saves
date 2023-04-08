@@ -1,0 +1,10 @@
+StoneLeafMound,-9135,-9128,-3060,-3051
+StonePlantMound3,-9179,-9170,-3019,-3008
+RLCraft_DecentZombie,-9187,-9187,-2941,-2941
+RLCraft_UndergroundRuin2,-9192,-9182,-2943,-2936
+StonePlantMound3,-9208,-9199,-2989,-2978
+StonePlantMound1,-9202,-9196,-3047,-3041
+RLCraft_SmallUndergroundSkeleton,-9197,-9189,-2930,-2922
+StonePlantMound,-9165,-9160,-2824,-2819
+SmallAbandonedMine,-9087,-9072,-2806,-2781
+WoodenClockTower,-9172,-9140,-2804,-2764

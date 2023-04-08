@@ -1,0 +1,4 @@
+StonePlantMound,9726,9731,8353,8358
+SmallWoodenCottage1,9890,9901,8343,8349
+UndergroundCultChamber,9809,9841,8343,8385
+ClayWaterMound,9774,9782,8417,8424

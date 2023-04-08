@@ -1,0 +1,7 @@
+DinosaurSkeleton,3444,3453,-8206,-8160
+StoneBoulder,3262,3271,-8145,-8136
+ClayWaterMound1,3407,3417,-8124,-8113
+ShrineSmallAir,3364,3372,-8089,-8081
+StonePlantMound3,3318,3327,-8079,-8068
+StoneLeafMound,3332,3339,-7991,-7982
+RLCraft_PhilbosaurusRex,3348,3422,-8017,-7984

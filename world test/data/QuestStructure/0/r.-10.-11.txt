@@ -1,0 +1,15 @@
+BrickHenge,-5315,-5299,-5748,-5732
+PeacefulCrypt,-5365,-5349,-5783,-5759
+RLCraft_SmallUndergroundSkeleton,-5205,-5197,-5867,-5859
+RLCraft_SmallUndergroundSkeleton,-5257,-5249,-5861,-5853
+RLCraft_SmallUndergroundSkeleton,-5243,-5235,-5947,-5939
+DinosaurSkull,-5247,-5228,-6015,-6004
+ElvenPond,-5187,-5158,-6033,-6003
+RLCraft_DecentZombie,-5376,-5376,-5991,-5991
+RLCraft_UndergroundRuin2,-5381,-5371,-5996,-5989
+RLCraft_Airtes,-5200,-5185,-6056,-6041
+RLCraft_4Towers,-5363,-5303,-6084,-6032
+UndergroundTreeoid,-5192,-5166,-6101,-6078
+ShrineSmallFire,-5289,-5279,-6104,-6094
+DinosaurSkull,-5354,-5343,-6151,-6132
+StonePlantMound,-5487,-5482,-5971,-5966

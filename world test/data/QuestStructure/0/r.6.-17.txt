@@ -1,0 +1,2 @@
+UndergroundTreeoid,3214,3240,-8734,-8711
+DinosaurSkeleton,3185,3194,-8848,-8802

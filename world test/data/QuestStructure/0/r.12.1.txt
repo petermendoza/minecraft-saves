@@ -1,0 +1,5 @@
+P_Lighthouse,6444,6484,505,542
+P_SmallShip,6599,6619,679,685
+RLCraft_DecentSpider,6587,6587,695,695
+RLCraft_UndergroundRuin2,6582,6592,693,700
+StonePlantMound,6646,6651,561,566

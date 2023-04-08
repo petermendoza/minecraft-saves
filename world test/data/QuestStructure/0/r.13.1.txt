@@ -1,0 +1,6 @@
+ShrineSmallAir,6687,6695,621,629
+RLCraft_DecentZombie,6713,6713,710,710
+RLCraft_UndergroundRuin3,6710,6718,708,716
+RLCraft_DecentZombie,6659,6659,860,860
+RLCraft_UndergroundRuin3,6656,6664,854,862
+StonePlantMound4,6687,6694,1001,1008

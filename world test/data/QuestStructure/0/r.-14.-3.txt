@@ -1,0 +1,10 @@
+StonePlantMound,-7183,-7178,-1727,-1722
+CorruptedEnderTree,-7184,-7173,-1721,-1708
+StonePlantMound,-7245,-7240,-1735,-1730
+StonePlantMound4,-7244,-7237,-1864,-1857
+SmallFortRuins,-7234,-7204,-1880,-1848
+RLCraft_DecentWitch,-7319,-7319,-1565,-1565
+RLCraft_UndergroundRuin2,-7324,-7317,-1570,-1560
+RLCraft_DecentSkeleton,-7322,-7322,-1617,-1617
+RLCraft_UndergroundRuin3,-7324,-7316,-1620,-1612
+IceThorn,-7311,-7285,-1552,-1537

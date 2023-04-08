@@ -1,0 +1,13 @@
+RLCraft_DecentWitch,-2475,-2475,-5434,-5434
+RLCraft_UndergroundRuin3,-2480,-2472,-5440,-5432
+StonePlantMound2,-2422,-2410,-5424,-5411
+StonePlantMound2,-2419,-2407,-5451,-5438
+BrickHenge,-2407,-2391,-5347,-5331
+ShrineSmallAir,-2376,-2368,-5439,-5431
+StonePlantMound2,-2455,-2443,-5282,-5269
+StonePlantMound1,-2442,-2436,-5284,-5278
+ShrineSmallAir,-2368,-2360,-5282,-5274
+RLCraft_DecentSkeleton,-2329,-2329,-5340,-5340
+RLCraft_UndergroundRuin2,-2334,-2327,-5345,-5335
+BrickHenge,-2482,-2466,-5625,-5609
+StonePlantMound,-2328,-2323,-5435,-5430

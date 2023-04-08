@@ -1,0 +1,9 @@
+RLCraft_FriendlyOutpost,-673,-634,-4105,-4037
+StoneIceBoulder,-619,-610,-4006,-3996
+StoneIceBoulder1,-890,-880,-3826,-3816
+RLCraft_UndergroundFarm,-810,-768,-4029,-3986
+RLCraft_BasicCaveSpider,-515,-515,-3959,-3959
+RLCraft_UndergroundRuin1,-518,-509,-3962,-3953
+StoneIceBoulder2,-629,-620,-3935,-3926
+StoneIceBoulder2,-706,-697,-3939,-3930
+ShrineSmallFire,-574,-564,-3902,-3892

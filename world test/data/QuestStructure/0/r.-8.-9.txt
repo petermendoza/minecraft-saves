@@ -66,3 +66,4 @@ RLCraft_PlainsWindmill,-4610,-4539,-5090,-5005
 StoneLeafMound,-4180,-4171,-4913,-4906
 StonePlantMound,-4514,-4509,-4883,-4878
 StoneBoulder,-4527,-4518,-4871,-4862
+StoneBoulder,-4233,-4224,-4848,-4839

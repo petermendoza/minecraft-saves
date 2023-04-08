@@ -1,0 +1,10 @@
+SmallAbandonedMine,-4417,-4402,-5689,-5664
+MysticalTree1,-4534,-4521,-5720,-5709
+StoneIceBoulder,-4367,-4357,-5751,-5742
+IceThorn,-4525,-4510,-5757,-5731
+StonePlantMound2,-4544,-4531,-5815,-5803
+StoneLeafMound,-4511,-4504,-5813,-5804
+StonePlantBoulder,-4526,-4516,-5852,-5842
+StonePlantMound,-4510,-4505,-5859,-5854
+StonePlantMound4,-4431,-4424,-5905,-5898
+StoneBoulder,-4609,-4600,-5921,-5912

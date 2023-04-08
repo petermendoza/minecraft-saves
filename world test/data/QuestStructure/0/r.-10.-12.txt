@@ -1,0 +1,6 @@
+StonePlantMound4,-5213,-5206,-6158,-6151
+DinosaurSkeleton,-5413,-5367,-6192,-6183
+ClayWaterMound1,-5231,-5221,-6205,-6194
+RLCraft_BasicSpider,-5258,-5258,-6256,-6256
+RLCraft_UndergroundRuin1,-5261,-5252,-6262,-6253
+StonePlantMound4,-5129,-5122,-6272,-6265

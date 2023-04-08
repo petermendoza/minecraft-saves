@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,1807,1850,-3620,-3578
+ClayWaterMound,1576,1583,-3593,-3585
+RLCraft_DecentSpider,1603,1603,-3746,-3746
+RLCraft_UndergroundRuin2,1598,1608,-3748,-3741
+PeacefulCrypt,1536,1560,-3625,-3609

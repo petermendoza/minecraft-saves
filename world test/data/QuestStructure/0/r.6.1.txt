@@ -1,0 +1,5 @@
+DinosaurSkull,3511,3530,967,978
+DesertBeacon,3278,3284,938,944
+RLCraft_SmallUndergroundSkeleton,3294,3302,792,800
+ThreeTowers,3284,3316,763,794
+StoneBoulder,3234,3243,930,939

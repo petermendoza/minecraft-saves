@@ -1,0 +1,5 @@
+StonePlantBoulder,-5308,-5298,-5172,-5162
+StoneBoulder,-5324,-5315,-5158,-5149
+StoneBoulder,-5313,-5304,-5169,-5160
+DinosaurSkull,-5159,-5148,-5459,-5440
+RLCraft_SmallUndergroundSkeleton,-5181,-5173,-5398,-5390

@@ -1,0 +1,9 @@
+RLCraft_BasicZombie,6708,6708,8378,8378
+RLCraft_UndergroundRuin1,6705,6714,8375,8384
+RLCraft_DecentZombie,6749,6749,8440,8440
+RLCraft_UndergroundRuin2,6747,6754,8435,8445
+RLCraft_DecentSpider,6806,6806,8258,8258
+RLCraft_UndergroundRuin2,6801,6811,8256,8263
+RLCraft_SmallUndergroundSkeleton,6802,6810,8452,8460
+ShrineSmallFire,6830,6840,8376,8386
+SmallAbandonedMine,6846,6871,8284,8299

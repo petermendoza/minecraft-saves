@@ -105,3 +105,15 @@ ClayWaterMound,-4259,-4252,-5345,-5337
 StoneLeafMound,-4245,-4236,-5190,-5183
 StonePlantMound1,-4250,-4244,-5137,-5131
 StoneBoulder,-4224,-4215,-5346,-5337
+StonePlantMound3,-4360,-4351,-5480,-5469
+StoneBoulder,-4411,-4402,-5502,-5493
+WoodThorn,-4522,-4511,-5523,-5512
+ClayWaterMound,-4418,-4411,-5520,-5512
+StoneLeafMound,-4385,-4378,-5527,-5518
+WoodThorn,-4591,-4580,-5525,-5514
+StonePlantMound2,-4601,-4589,-5562,-5549
+RLCraft_SmallUndergroundSkeleton,-4550,-4542,-5613,-5605
+ShrineSmallEarth,-4298,-4286,-5597,-5585
+StoneIceBoulder2,-4301,-4292,-5608,-5599
+StonePlantMound4,-4603,-4596,-5206,-5199
+P_IceSkeletonLookout,-4259,-4249,-5632,-5622

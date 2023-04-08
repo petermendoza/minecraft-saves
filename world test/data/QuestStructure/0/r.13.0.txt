@@ -1,0 +1,4 @@
+RLCraft_BasicSpider,6665,6665,467,467
+RLCraft_UndergroundRuin1,6659,6668,464,473
+P_Lighthouse,6663,6703,373,410
+StoneLeafMound,6797,6806,449,456

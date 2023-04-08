@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,9582,9590,8314,8322
+StoneLeafMound,9572,9581,8352,8359
+DinosaurSkeleton,9564,9573,8185,8231
+StonePlantMound4,9664,9671,8402,8409
+RLCraft_SmallUndergroundSkeleton,9645,9653,8411,8419
+SmallWoodenCottage2,9548,9556,8447,8455
+StonePlantMound3,9680,9691,8448,8457

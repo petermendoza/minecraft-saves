@@ -1,0 +1,4 @@
+SmallWoodenCottage1,3702,3708,-8196,-8185
+StonePlantMound4,3602,3609,-8136,-8129
+StonePlantMound,3700,3705,-8163,-8158
+StoneLeafMound,3591,3598,-8014,-8005

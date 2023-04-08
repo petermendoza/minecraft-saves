@@ -1,0 +1,6 @@
+AbandonedWoodTower,-7160,-7124,-1737,-1707
+StonePlantMound1,-7044,-7038,-1812,-1806
+WoodThornBig,-7076,-7063,-1863,-1850
+P_WizardTower,-7178,-7148,-1636,-1606
+ShrineSmallFire,-7064,-7054,-1624,-1614
+MeteorSite,-7054,-7039,-1897,-1867

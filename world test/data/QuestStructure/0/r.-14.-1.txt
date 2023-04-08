@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,-7677,-7677,-880,-880
+RLCraft_UndergroundRuin3,-7679,-7671,-885,-877
+StoneIceBoulder2,-7598,-7589,-917,-908
+ShrineSmallFire,-7540,-7530,-777,-767
+DinosaurSkull,-7543,-7524,-864,-853
