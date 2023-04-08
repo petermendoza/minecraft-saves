@@ -1,8 +1,0 @@
-StonePlantMound2,-1043,-1031,1295,1308
-StonePlantBoulder,-1096,-1086,1451,1461
-StonePlantBoulder,-1109,-1099,1484,1494
-StonePlantMound3,-1119,-1108,1239,1248
-StonePlantMound4,-1163,-1156,1163,1170
-StonePlantMound3,-1158,-1147,1395,1404
-StonePlantMound2,-1160,-1147,1256,1268
-StoneLeafMound,-1168,-1159,1355,1362

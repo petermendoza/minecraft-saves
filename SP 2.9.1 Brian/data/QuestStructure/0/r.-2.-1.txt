@@ -1,2 +1,0 @@
-StoneBoulder,-1463,-1454,-1012,-1003
-SmallWoodenCottage,-1506,-1495,-967,-959

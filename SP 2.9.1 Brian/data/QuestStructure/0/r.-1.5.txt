@@ -1,4 +1,0 @@
-StonePlantMound,-913,-908,2560,2565
-RLCraft_BasicZombie,-659,-659,2647,2647
-RLCraft_UndergroundRuin1,-665,-656,2641,2650
-UndergroundCultChamber,-802,-770,2787,2829

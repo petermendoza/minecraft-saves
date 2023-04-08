@@ -1,7 +1,0 @@
-ShrineSmallFire,2054,2064,-983,-973
-ElvenPond,2042,2072,-828,-799
-RLCraft_BasicZombie,2067,2067,-827,-827
-RLCraft_UndergroundRuin1,2061,2070,-833,-824
-RLCraft_DecentZombie,2084,2084,-943,-943
-RLCraft_UndergroundRuin2,2082,2089,-948,-938
-ClayWaterMound,2070,2078,-872,-865
