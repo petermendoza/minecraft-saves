@@ -1,0 +1,8 @@
+RLCraft_DecentSpider,8125,8125,6127,6127
+RLCraft_UndergroundRuin2,8123,8130,6122,6132
+P_WizardTower,7954,7984,6097,6127
+StoneIceBoulder3,8108,8118,6026,6036
+StoneIceBoulder2,8157,8166,6020,6029
+RLCraft_SmallUndergroundSkeleton,8005,8013,6018,6026
+RLCraft_BasicZombie,7983,7983,6030,6030
+RLCraft_UndergroundRuin1,7977,7986,6024,6033

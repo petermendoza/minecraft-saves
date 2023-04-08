@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-04-08 06:25:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-04-08 01:26:39 -0500"
@@ -699,7 +705,8 @@
     "criteria": {
       "skeleton": "2023-04-08 01:49:17 -0500",
       "cave_spider": "2023-04-08 01:37:04 -0500",
-      "zombie": "2023-04-08 01:37:12 -0500"
+      "zombie": "2023-04-08 01:37:12 -0500",
+      "creeper": "2023-04-08 06:25:42 -0500"
     },
     "done": false
   },

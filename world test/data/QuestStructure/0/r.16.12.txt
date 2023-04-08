@@ -1,0 +1,2 @@
+StoneIceBoulder2,8195,8204,6149,6158
+SmallAbandonedOutpost,8198,8228,6282,6304
