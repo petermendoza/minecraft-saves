@@ -1,0 +1,8 @@
+SeasonsGreenhouse,-3962,-3950,-4088,-4078
+VillageInn,-3962,-3935,-4073,-4053
+VillageTriplets,-3947,-3933,-4090,-4076
+VillageForgeLarge,-3996,-3980,-4060,-4048
+RLCraft_Vineyard,-3997,-3977,-4046,-4018
+P_Village2Story,-3925,-3919,-4073,-4060
+P_VillageInn,-4021,-4010,-4032,-4023
+UndergroundCrypt,-3989,-3975,-3954,-3926

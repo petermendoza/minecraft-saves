@@ -6,3 +6,7 @@ StoneIceBoulder,8137,8146,6268,6278
 IceThorn1,7928,7944,6209,6230
 RLCraft_LargeUndergroundTown,7935,8048,6116,6253
 IceThorn4,8069,8085,6285,6311
+StoneIceBoulder2,7927,7936,6265,6274
+RLCraft_SmallUndergroundSkeleton,7882,7890,6275,6283
+RLCraft_SmallTown,7872,7943,6210,6285
+StoneIceBoulder,7930,7940,6301,6310

@@ -62,3 +62,5 @@ RLCraft_BasicSpider,-4858,-4858,-4991,-4991
 RLCraft_BasicSpider,-4838,-4838,-4991,-4991
 RLCraft_BasicSkeleton,-4848,-4848,-4983,-4983
 RLCraft_MegaBattleTower_Water,-4876,-4820,-5029,-4973
+MysticalTree2,-4634,-4624,-4967,-4957
+RLCraft_SmallUndergroundSkeleton,-4668,-4660,-4949,-4941

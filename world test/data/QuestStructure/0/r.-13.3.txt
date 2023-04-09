@@ -1,0 +1,2 @@
+ShrineSmallFire,-6832,-6822,1835,1845
+StonePlantMound2,-7035,-7022,1887,1899

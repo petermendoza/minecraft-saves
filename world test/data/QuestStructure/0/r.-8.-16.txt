@@ -19,3 +19,5 @@ ClayWaterMound1,-4175,-4164,-8382,-8372
 StoneBoulder,-4383,-4374,-8392,-8383
 StonePlantMound4,-4197,-4190,-8406,-8399
 StonePlantMound1,-4157,-4151,-8408,-8402
+StoneLeafMound,-4133,-4126,-8462,-8453
+StoneBoulder,-4442,-4433,-8431,-8422

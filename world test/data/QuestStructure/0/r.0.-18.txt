@@ -1,0 +1,3 @@
+P_WizardTower,432,462,-9280,-9250
+StoneBoulder,127,136,-9267,-9258
+StonePlantMound2,100,112,-9272,-9259

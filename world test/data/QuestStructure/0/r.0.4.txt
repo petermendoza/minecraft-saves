@@ -1,0 +1,12 @@
+StoneBoulder,-130,-121,2066,2075
+RLCraft_PlainsCamp,-242,-203,2051,2097
+DinosaurSkeleton,-255,-246,2114,2160
+UndergroundTreeoid,-324,-301,2098,2124
+DinosaurSkeleton,-42,-33,2126,2172
+RLCraft_DecentSkeleton,-19,-19,2062,2062
+RLCraft_UndergroundRuin3,-24,-16,2056,2064
+RLCraft_DecentZombie,-32,-32,2183,2183
+RLCraft_UndergroundRuin3,-38,-30,2178,2186
+PeacefulCrypt,-332,-316,2048,2072
+RLCraft_DecentWitch,24,24,2226,2226
+RLCraft_UndergroundRuin2,19,26,2221,2231

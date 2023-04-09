@@ -1,0 +1,12 @@
+AbandonedWoodTower,-3043,-3013,-7252,-7216
+RLCraft_PlainsCamp,-2930,-2884,-7293,-7254
+Tree_Oak_TheMushroomOak_v3,-3028,-2978,-7423,-7364
+StoneBoulder,-2921,-2912,-7413,-7404
+StonePlantBoulder,-2864,-2854,-7395,-7385
+RLCraft_FriendlyOutpost,-2883,-2815,-7252,-7213
+StonePlantMound,-2910,-2905,-7425,-7420
+MeteorSite,-3076,-3061,-7441,-7411
+StonePlantMound4,-2774,-2767,-7399,-7392
+DinosaurSkeleton,-2752,-2743,-7394,-7348
+RLCraft_DecentWitch,-2704,-2704,-7352,-7352
+RLCraft_UndergroundRuin3,-2706,-2698,-7355,-7347

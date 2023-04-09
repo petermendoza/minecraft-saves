@@ -1,0 +1,8 @@
+BrickHenge,405,421,-9176,-9160
+StonePlantMound3,374,385,-9014,-9005
+RLCraft_DecentCaveSpider,267,267,-9195,-9195
+RLCraft_UndergroundRuin3,262,270,-9197,-9189
+StonePlantMound4,369,376,-8948,-8941
+StonePlantMound2,183,196,-9194,-9182
+StonePlantMound3,166,175,-9053,-9042
+StonePlantMound2,16,28,-9065,-9052

@@ -1,0 +1,3 @@
+IceThorn3,570,584,-5060,-5046
+SmallAbandonedMine,579,604,-4970,-4955
+IceThorn4,670,696,-4965,-4949

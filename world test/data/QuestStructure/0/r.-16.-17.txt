@@ -1,0 +1,17 @@
+VillageMarketplace,-8697,-8683,-8812,-8798
+VillageChurch,-8677,-8651,-8812,-8800
+StonePlantMound2,-8612,-8600,-8771,-8758
+StonePlantMound1,-8593,-8587,-8821,-8815
+VillageTriplets,-8675,-8661,-8841,-8827
+VillageForgeLarge,-8698,-8686,-8838,-8822
+VillageGuardTower,-8698,-8686,-8867,-8855
+SmallWoodenCottage,-8641,-8630,-8848,-8840
+OldWatchtower,-8594,-8582,-8852,-8839
+StoneLeafMound,-8705,-8698,-8879,-8870
+StonePlantMound1,-8605,-8599,-8891,-8885
+RLCraft_DecentZombie,-8569,-8569,-8918,-8918
+RLCraft_UndergroundRuin2,-8574,-8564,-8923,-8916
+StonePlantBoulder,-8565,-8555,-8850,-8840
+StoneLeafMound,-8562,-8555,-8746,-8737
+StonePlantMound1,-8661,-8655,-9067,-9061
+StonePlantMound2,-8494,-8482,-8729,-8716

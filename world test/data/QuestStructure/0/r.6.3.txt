@@ -1,0 +1,14 @@
+P_SmallShip,3555,3561,1611,1631
+RLCraft_DecentCaveSpider,3482,3482,1990,1990
+RLCraft_UndergroundRuin2,3480,3487,1985,1995
+RLCraft_SmallUndergroundSkeleton,3431,3439,1976,1984
+RLCraft_SmallUndergroundSkeleton,3282,3290,1982,1990
+RLCraft_BasicZombie,3391,3391,1952,1952
+RLCraft_UndergroundRuin1,3385,3394,1946,1955
+ShrineSmallFire,3258,3268,1930,1940
+UndergroundTreeoid,3434,3460,1892,1915
+ThreeTowers,3190,3221,1792,1824
+ShrineSmallFire,3094,3104,2009,2019
+P_Village2Story,3239,3245,1774,1787
+VillageForgeLarge,3239,3251,1790,1806
+RLCraft_Vineyard,3254,3274,1764,1792

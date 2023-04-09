@@ -29,3 +29,5 @@ DinosaurSkeleton,2638,2684,-8811,-8802
 RLCraft_UndergroundFarm,2620,2663,-8829,-8787
 RLCraft_SmallUndergroundSkeleton,2852,2860,-9130,-9122
 RLCraft_SmallUndergroundSkeleton,2570,2578,-9044,-9036
+RLCraft_BasicSkeleton,2893,2893,-9155,-9155
+RLCraft_UndergroundRuin1,2887,2896,-9161,-9152

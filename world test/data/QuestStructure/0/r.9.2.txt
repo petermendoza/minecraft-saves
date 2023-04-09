@@ -1,0 +1,8 @@
+P_Village2Story,4621,4634,1046,1052
+P_VillageHouse,4646,4655,1058,1069
+P_VillageLibrary,4615,4634,1069,1085
+VillageWoodMill,4666,4679,1046,1062
+RLCraft_DecentZombie,4767,4767,1220,1220
+RLCraft_UndergroundRuin2,4762,4772,1215,1222
+P_SeasidePort,4834,4862,1164,1189
+ShrineSmallFire,4945,4955,1126,1136

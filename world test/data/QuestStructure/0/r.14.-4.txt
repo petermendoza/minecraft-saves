@@ -1,0 +1,15 @@
+StoneLeafMound,7665,7674,-2280,-2273
+StonePlantMound3,7643,7654,-2468,-2459
+RLCraft_UndergroundFarm,7628,7670,-2495,-2452
+StoneBoulder,7642,7651,-2512,-2503
+RLCraft_DecentZombie,7618,7618,-2493,-2493
+RLCraft_UndergroundRuin2,7616,7623,-2498,-2488
+ClayWaterMound,7560,7567,-2454,-2446
+StonePlantBoulder,7574,7584,-2561,-2551
+StonePlantMound3,7530,7541,-2438,-2429
+StoneBoulder,7510,7519,-2370,-2361
+RLCraft_FriendlyOutpost,7475,7514,-2377,-2309
+ElvenPond,7406,7436,-2350,-2321
+StonePlantMound3,7412,7421,-2561,-2550
+StonePlantMound,7413,7418,-2478,-2473
+StonePlantMound3,7367,7376,-2436,-2425

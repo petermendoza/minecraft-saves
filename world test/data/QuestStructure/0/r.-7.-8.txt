@@ -1,0 +1,10 @@
+DinosaurSkeleton,-4055,-4046,-4609,-4563
+P_SkyCastle,-4089,-4048,-4365,-4324
+StoneLeafMound,-3917,-3910,-4488,-4479
+StonePlantMound,-3973,-3968,-4255,-4250
+StonePlantMound1,-3959,-3953,-4196,-4190
+ThreeTowers,-3962,-3931,-4129,-4097
+SpiderPit,-4076,-4066,-4102,-4093
+RLCraft_SmallUndergroundSkeleton,-3838,-3830,-4384,-4376
+DinosaurSkeleton,-3880,-3871,-4377,-4331
+DinosaurSkull,-3836,-3817,-4167,-4156

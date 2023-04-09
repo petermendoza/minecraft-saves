@@ -1,0 +1,10 @@
+StonePlantMound1,7771,7777,-2595,-2589
+StonePlantMound4,7715,7722,-2701,-2694
+StonePlantMound1,7707,7713,-2723,-2717
+StonePlantMound1,7732,7738,-2850,-2844
+StonePlantMound4,7723,7730,-2756,-2749
+StonePlantMound2,7728,7741,-2907,-2895
+StonePlantMound1,7769,7775,-2978,-2972
+RLCraft_BasicWitch,7779,7779,-2863,-2863
+RLCraft_UndergroundRuin1,7776,7785,-2869,-2860
+StonePlantMound1,7823,7829,-2836,-2830

@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,4088,4088,868,868
+RLCraft_UndergroundRuin3,4085,4093,862,870
+RLCraft_DecentSkeleton,3774,3774,1006,1006
+RLCraft_UndergroundRuin2,3769,3779,1001,1008
+P_LargeShip,3953,3971,937,997

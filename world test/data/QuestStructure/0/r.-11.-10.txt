@@ -1,0 +1,6 @@
+RLCraft_BasicSkeleton,-5724,-5724,-5472,-5472
+RLCraft_UndergroundRuin1,-5727,-5718,-5478,-5469
+RLCraft_SmallUndergroundSkeleton,-5776,-5768,-5480,-5472
+StonePlantMound2,-5828,-5816,-5536,-5523
+SmallWoodenCottage2,-5690,-5682,-5631,-5623
+StoneBoulder,-5797,-5788,-5635,-5626

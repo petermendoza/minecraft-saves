@@ -1,0 +1,2 @@
+StoneLeafMound,-2542,-2533,-6627,-6620
+ClayWaterMound1,-2515,-2505,-6611,-6600

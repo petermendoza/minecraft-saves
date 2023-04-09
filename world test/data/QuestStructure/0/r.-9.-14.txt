@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-4625,-4617,-7194,-7186
+BrickHenge,-4626,-4610,-7208,-7192
+StoneLeafMound,-4662,-4653,-7209,-7202
+P_WitchDungeon,-4662,-4645,-7225,-7191
+StonePlantMound2,-4672,-4660,-7349,-7336
+ClayWaterMound1,-4748,-4737,-7218,-7208
+RLCraft_DecentZombie,-4735,-4735,-7224,-7224
+RLCraft_UndergroundRuin3,-4738,-4730,-7230,-7222

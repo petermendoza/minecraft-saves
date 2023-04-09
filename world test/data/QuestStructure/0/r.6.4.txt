@@ -1,0 +1,14 @@
+StonePlantMound,3523,3528,2401,2406
+ShrineSmallFire,3567,3577,2423,2433
+RLCraft_BasicSpider,3561,3561,2450,2450
+RLCraft_UndergroundRuin1,3558,3567,2444,2453
+StonePlantMound4,3478,3485,2470,2477
+RLCraft_BasicCaveSpider,3371,3371,2470,2470
+RLCraft_UndergroundRuin1,3365,3374,2464,2473
+StoneLeafMound,3539,3546,2509,2518
+SmallAbandonedMine,3290,3305,2201,2226
+RLCraft_SmallUndergroundSkeleton,3265,3273,2439,2447
+RLCraft_DecentWitch,3267,3267,2072,2072
+RLCraft_UndergroundRuin2,3265,3272,2067,2077
+RLCraft_SmallUndergroundSkeleton,3210,3218,2103,2111
+DesertHut,3164,3174,2144,2153

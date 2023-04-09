@@ -1,0 +1,6 @@
+IceThorn1,290,306,-4838,-4817
+StoneIceBoulder2,374,383,-4878,-4869
+RLCraft_AgentStarbuck_VikingHouse,419,454,-4987,-4938
+BlazeSpawnerCrystal,363,369,-5048,-5042
+DinosaurSkeleton,406,415,-5045,-4999
+UndergroundCrypt,129,143,-4929,-4901

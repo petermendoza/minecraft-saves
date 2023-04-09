@@ -1,0 +1,11 @@
+RLCraft_BasicSkeleton,3589,3589,2103,2103
+RLCraft_UndergroundRuin1,3586,3595,2100,2109
+StonePlantBoulder,3605,3615,2167,2177
+RLCraft_BasicWitch,3752,3752,2305,2305
+RLCraft_UndergroundRuin1,3746,3755,2299,2308
+SmallWoodenCottage1,3668,3674,2390,2401
+RLCraft_DecentWitch,3687,3687,2454,2454
+RLCraft_UndergroundRuin2,3682,3692,2449,2456
+StoneBoulder,3683,3692,2462,2471
+MysticalTree1,3651,3664,2457,2468
+StoneBoulder,3594,3603,2511,2520

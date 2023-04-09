@@ -1,0 +1,6 @@
+RLCraft_DecentSpider,-9010,-9010,-8543,-8543
+RLCraft_UndergroundRuin3,-9015,-9007,-8549,-8541
+P_WitchDungeon,-9064,-9047,-8505,-8471
+ShrineSmallAir,-9085,-9077,-8447,-8439
+SmallWoodenCottage2,-9171,-9163,-8414,-8406
+ShrineSmallAir,-9193,-9185,-8372,-8364

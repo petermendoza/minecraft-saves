@@ -1,1 +1,6 @@
 SpiderPit,3396,3406,1035,1044
+RLCraft_BasicSpider,3515,3515,1455,1455
+RLCraft_UndergroundRuin1,3509,3518,1449,1458
+RLCraft_BasicWitch,3536,3536,1466,1466
+RLCraft_UndergroundRuin1,3533,3542,1460,1469
+RLCraft_UndergroundFarm,3461,3503,1482,1525

@@ -62,3 +62,11 @@ StoneMazePath,-3790,-3788,-7966,-7964
 StoneMazeEndChest,-3787,-3785,-7966,-7964
 StoneMazeSmall,-3796,-3773,-7966,-7943
 RLCraft_SmallUndergroundSkeleton,-3745,-3737,-8048,-8040
+GiganticTree1,-3950,-3872,-7957,-7894
+StonePlantBoulder,-3777,-3767,-7881,-7871
+StonePlantMound1,-3787,-3781,-7922,-7916
+ForestBeacon,-3870,-3862,-7786,-7778
+ShrineSmallFire,-4001,-3991,-7761,-7751
+SmallFortRuins,-3725,-3695,-7722,-7690
+RLCraft_DecentSkeleton,-3606,-3606,-7718,-7718
+RLCraft_UndergroundRuin3,-3609,-3601,-7720,-7712

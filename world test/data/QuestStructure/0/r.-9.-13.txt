@@ -1,0 +1,7 @@
+StonePlantMound3,-4674,-4663,-7122,-7113
+StoneIceBoulder2,-4625,-4616,-7026,-7017
+StoneLeafMound,-4721,-4714,-7148,-7139
+P_IceSkeletonLookout,-4633,-4623,-7007,-6997
+StoneIceBoulder,-4667,-4658,-6981,-6971
+StonePlantMound3,-4723,-4712,-7089,-7080
+StoneIceBoulder,-4747,-4737,-6963,-6954

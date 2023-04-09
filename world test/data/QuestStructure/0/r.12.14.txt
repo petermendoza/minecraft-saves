@@ -1,0 +1,5 @@
+StonePlantMound1,6213,6219,7344,7350
+StoneBoulder,6320,6329,7536,7545
+StonePlantMound1,6256,6262,7575,7581
+BlazeSpawnerCrystal,6174,6180,7300,7306
+ClayWaterMound,6155,6162,7296,7304

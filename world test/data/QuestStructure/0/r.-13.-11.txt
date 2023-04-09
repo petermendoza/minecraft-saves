@@ -1,0 +1,10 @@
+MysticalTree1,-6672,-6659,-5993,-5982
+ClayWaterMound,-6675,-6668,-6086,-6078
+RLCraft_SmallUndergroundSkeleton,-6669,-6661,-6142,-6134
+StonePlantMound4,-6729,-6722,-6114,-6107
+RLCraft_SmallUndergroundSkeleton,-6767,-6759,-5996,-5988
+VillageLargeLibrary,-6822,-6802,-6122,-6103
+StonePlantMound,-6792,-6787,-6007,-6002
+SeasonsGreenhouse,-6848,-6838,-6092,-6080
+VillageWoodMill,-6879,-6866,-6101,-6085
+StonePlantMound4,-6894,-6887,-5917,-5910

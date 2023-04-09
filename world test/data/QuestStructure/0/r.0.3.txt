@@ -1,0 +1,6 @@
+RLCraft_DecentSkeleton,-142,-142,1997,1997
+RLCraft_UndergroundRuin3,-145,-137,1995,2003
+StoneBoulder,-79,-70,2006,2015
+WoodWallRemains,-29,-21,1968,1996
+StoneLeafMound,-18,-9,1983,1990
+DinosaurSkull,-269,-258,1839,1858

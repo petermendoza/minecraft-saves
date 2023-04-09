@@ -1,0 +1,16 @@
+RLCraft_DecentZombie,4388,4388,1087,1087
+RLCraft_UndergroundRuin3,4383,4391,1085,1093
+DinosaurSkull,4280,4299,1064,1075
+RLCraft_Vineyard,4301,4321,1115,1143
+VillageWoodMill,4282,4295,1142,1158
+VillageMarketplace,4257,4271,1142,1156
+VillageMarketplace,4257,4271,1142,1156
+RLCraft_BasicZombie,4135,4135,1033,1033
+RLCraft_UndergroundRuin1,4129,4138,1027,1036
+RLCraft_UndergroundFarm,4091,4133,1080,1123
+P_VillageLibrary,4260,4279,1179,1195
+P_VillageFarmhouse,4243,4255,1179,1191
+RLCraft_SmallUndergroundSkeleton,4112,4120,1183,1191
+StoneBoulder,4225,4234,1212,1221
+RLCraft_SmallUndergroundSkeleton,4109,4117,1289,1297
+ShrineSmallWater,4335,4343,1302,1310

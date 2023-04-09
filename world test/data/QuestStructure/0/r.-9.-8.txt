@@ -3,3 +3,9 @@ RLCraft_UndergroundRuin1,-5112,-5103,-4595,-4586
 RLCraft_DecentSkeleton,-4844,-4844,-4566,-4566
 RLCraft_UndergroundRuin3,-4850,-4842,-4569,-4561
 StoneLeafMound,-4857,-4850,-4544,-4535
+StoneLeafMound,-4617,-4608,-4298,-4291
+StonePlantMound2,-4626,-4613,-4355,-4343
+StonePlantMound1,-4662,-4656,-4418,-4412
+StonePlantBoulder,-4654,-4644,-4444,-4434
+StonePlantMound1,-4713,-4707,-4424,-4418
+ShrineSmallAir,-4770,-4762,-4188,-4180

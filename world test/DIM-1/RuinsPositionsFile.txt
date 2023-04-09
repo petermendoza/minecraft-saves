@@ -14,7 +14,10 @@
 204 29 -1079 212 36 -1071 LargeNetherHouse.tml
 300 99 -999 312 145 -987 Tower-edit.tml
 311 30 -1217 320 36 -1209 NetherShrine.tml
+316 29 86 324 36 94 LargeNetherHouse.tml
+344 54 194 356 60 203 VanillaVillageEmptyHouse-r.tml
 415 71 -1126 425 77 -1118 VanillaVillageForge-r.tml
+447 30 145 457 41 155 DoomHouse.tml
 1139 50 1087 1149 65 1097 DoomTower.tml
 1146 69 892 1158 93 904 Tower-ruined-short.tml
 1235 34 894 1245 43 906 StoneHouseMruined.tml

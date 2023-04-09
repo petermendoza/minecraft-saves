@@ -67,3 +67,13 @@ StoneLeafMound,-4180,-4171,-4913,-4906
 StonePlantMound,-4514,-4509,-4883,-4878
 StoneBoulder,-4527,-4518,-4871,-4862
 StoneBoulder,-4233,-4224,-4848,-4839
+DinosaurSkeleton,-4142,-4096,-4920,-4911
+MeteorSite,-4217,-4187,-4814,-4799
+RLCraft_BasicCaveSpider,-4253,-4253,-4786,-4786
+RLCraft_UndergroundRuin1,-4259,-4250,-4792,-4783
+StoneLeafMound,-4197,-4188,-4735,-4728
+StonePlantMound2,-4261,-4249,-4717,-4704
+SmallWoodenCottage,-4160,-4152,-4642,-4631
+ShrineSmallAir,-4150,-4142,-4626,-4618
+StoneLeafMound,-4288,-4279,-4627,-4620
+StonePlantMound1,-4388,-4382,-4732,-4726

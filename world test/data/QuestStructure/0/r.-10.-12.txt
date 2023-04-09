@@ -4,3 +4,11 @@ ClayWaterMound1,-5231,-5221,-6205,-6194
 RLCraft_BasicSpider,-5258,-5258,-6256,-6256
 RLCraft_UndergroundRuin1,-5261,-5252,-6262,-6253
 StonePlantMound4,-5129,-5122,-6272,-6265
+StonePlantMound3,-5573,-5564,-6168,-6157
+StonePlantBoulder,-5613,-5603,-6250,-6240
+StoneLeafMound,-5624,-5615,-6332,-6325
+ShrineSmallFire,-5636,-5626,-6404,-6394
+P_SwampHouse,-5616,-5574,-6439,-6409
+StoneBoulder,-5612,-5603,-6632,-6623
+ShrineSmallAir,-5610,-5602,-6638,-6630
+StonePlantMound1,-5157,-5151,-6320,-6314

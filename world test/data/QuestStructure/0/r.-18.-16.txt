@@ -1,0 +1,13 @@
+StoneBoulder,-9239,-9230,-8650,-8641
+StonePlantMound4,-9240,-9233,-8665,-8658
+ShrineSmallAir,-9318,-9310,-8511,-8503
+SmallWoodenCottage,-9292,-9281,-8449,-8441
+RLCraft_PlainsCamp,-9359,-9320,-8448,-8402
+StonePlantMound3,-9342,-9333,-8693,-8682
+StoneBoulder,-9253,-9244,-8398,-8389
+StonePlantBoulder,-9286,-9276,-8381,-8371
+StonePlantMound1,-9380,-9374,-8676,-8670
+StonePlantBoulder,-9390,-9380,-8463,-8453
+RLCraft_BasicSpider,-9395,-9395,-8601,-8601
+RLCraft_UndergroundRuin1,-9401,-9392,-8607,-8598
+SmallOutpost,-9435,-9413,-8483,-8453
