@@ -2,3 +2,8 @@ ShrineSmallFire,-5146,-5136,-6759,-6749
 SmallAbandonedMine,-5208,-5193,-6783,-6758
 WoodWallRemains,-5359,-5351,-6781,-6753
 DinosaurSkull,-5201,-5190,-6900,-6881
+SmallOutpost,-5256,-5234,-6938,-6908
+SmallWoodenCottage,-5345,-5337,-6999,-6988
+RLCraft_Vineyard,-5427,-5407,-6921,-6893
+P_VillageInn,-5440,-5429,-6910,-6901
+VillageForgeLarge,-5427,-5415,-6976,-6960

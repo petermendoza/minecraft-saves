@@ -25,3 +25,6 @@ IceThorn4,-4481,-4465,-6416,-6390
 RLCraft_LargeUndergroundTown,-4297,-4160,-6230,-6117
 StoneIceBoulder1,-4523,-4513,-6194,-6184
 IceThorn3,-4586,-4572,-6371,-6357
+RLCraft_DecentSkeleton,-4580,-4580,-6584,-6584
+RLCraft_UndergroundRuin3,-4585,-4577,-6586,-6578
+DinosaurSkeleton,-4589,-4543,-6460,-6451

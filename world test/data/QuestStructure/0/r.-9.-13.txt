@@ -7,3 +7,15 @@ StonePlantMound3,-4723,-4712,-7089,-7080
 StoneIceBoulder,-4747,-4737,-6963,-6954
 IceThorn1,-5123,-5102,-6722,-6706
 PeacefulCrypt,-5119,-5103,-6826,-6802
+StoneIceBoulder,-4808,-4798,-6685,-6676
+PeacefulCrypt,-4896,-4880,-6730,-6706
+StonePlantBoulder,-4896,-4886,-6764,-6754
+RLCraft_DecentCaveSpider,-4881,-4881,-6800,-6800
+RLCraft_UndergroundRuin3,-4886,-4878,-6806,-6798
+WoodThorn,-4864,-4853,-6861,-6850
+StonePlantMound1,-4964,-4958,-6899,-6893
+SmallWoodenCottage,-4800,-4789,-6898,-6890
+StonePlantMound,-4890,-4885,-6919,-6914
+StonePlantMound1,-4994,-4988,-6971,-6965
+IceThorn2,-4632,-4622,-6743,-6731
+RLCraft_SmallUndergroundSkeleton,-4975,-4967,-7092,-7084

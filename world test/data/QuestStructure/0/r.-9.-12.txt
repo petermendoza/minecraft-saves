@@ -20,3 +20,12 @@ RLCraft_BasicZombie,-5080,-5080,-6599,-6599
 RLCraft_UndergroundRuin1,-5083,-5074,-6605,-6596
 RLCraft_DecentWitch,-5042,-5042,-6516,-6516
 RLCraft_UndergroundRuin3,-5045,-5037,-6522,-6514
+RLCraft_BasicSpider,-4750,-4750,-6326,-6326
+RLCraft_UndergroundRuin1,-4753,-4744,-6329,-6320
+AbandonedWoodTower,-4982,-4952,-6413,-6377
+StoneIceBoulder1,-4888,-4878,-6465,-6455
+StoneIceBoulder2,-4869,-4860,-6490,-6481
+StoneIceBoulder3,-4779,-4769,-6525,-6515
+DinosaurSkull,-4783,-4772,-6606,-6587
+StoneIceBoulder2,-4695,-4686,-6654,-6645
+DinosaurSkull,-4645,-4634,-6642,-6623
