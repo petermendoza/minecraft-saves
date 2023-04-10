@@ -1,0 +1,4 @@
+StonePlantMound,-2994,-2989,-5655,-5650
+StonePlantMound3,-3045,-3034,-5699,-5690
+RLCraft_UndergroundFarm,-2892,-2850,-5716,-5673
+StonePlantBoulder,-3051,-3041,-5719,-5709

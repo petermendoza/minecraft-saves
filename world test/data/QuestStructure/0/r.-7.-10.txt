@@ -20,3 +20,12 @@ ShrineSmallAir,-3654,-3646,-5258,-5250
 StonePlantBoulder,-3633,-3623,-5353,-5343
 StonePlantBoulder,-3703,-3693,-5297,-5287
 StonePlantBoulder,-3709,-3699,-5293,-5283
+MeteorSite,-3777,-3747,-5540,-5525
+StonePlantMound,-3693,-3688,-5469,-5464
+StonePlantMound2,-3703,-3690,-5443,-5431
+StonePlantMound4,-3657,-3650,-5420,-5413
+DinosaurSkull,-3609,-3590,-5451,-5440
+StoneIceBoulder1,-3704,-3694,-5578,-5568
+StonePlantMound3,-3598,-3587,-5635,-5626
+StoneIceBoulder1,-3812,-3802,-5597,-5587
+StoneIceBoulder2,-3956,-3947,-5592,-5583

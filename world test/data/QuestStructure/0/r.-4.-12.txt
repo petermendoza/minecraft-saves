@@ -7,3 +7,7 @@ StonePlantMound1,-2159,-2153,-6547,-6541
 StonePlantBoulder,-2300,-2290,-6536,-6526
 StonePlantMound1,-2539,-2533,-6350,-6344
 StonePlantMound4,-2345,-2338,-6492,-6485
+StonePlantMound4,-2383,-2376,-6427,-6420
+StoneLeafMound,-2334,-2327,-6421,-6412
+StonePlantMound,-2270,-2265,-6415,-6410
+StonePlantMound2,-2254,-2241,-6422,-6410

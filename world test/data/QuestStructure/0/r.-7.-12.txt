@@ -1,3 +1,10 @@
 RLCraft_DecentCaveSpider,-4094,-4094,-6582,-6582
 RLCraft_UndergroundRuin3,-4099,-4091,-6588,-6580
 ShrineSmallFire,-4081,-4071,-6325,-6315
+StoneBoulder,-3641,-3632,-6236,-6227
+RLCraft_BasicSpider,-3647,-3647,-6174,-6174
+RLCraft_UndergroundRuin1,-3650,-3641,-6177,-6168
+StonePlantMound3,-3677,-3666,-6304,-6295
+StoneBoulder,-3682,-3673,-6301,-6292
+StoneLeafMound,-3625,-3618,-6497,-6488
+StonePlantBoulder,-3595,-3585,-6546,-6536

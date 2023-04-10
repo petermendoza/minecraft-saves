@@ -1,3 +1,4 @@
 RLCraft_SmallUndergroundSkeleton,-2632,-2624,-6377,-6369
 RLCraft_BasicCaveSpider,-2566,-2566,-6389,-6389
 RLCraft_UndergroundRuin1,-2569,-2560,-6392,-6383
+StonePlantMound,-2568,-2563,-6497,-6492

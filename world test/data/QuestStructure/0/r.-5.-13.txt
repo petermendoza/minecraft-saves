@@ -167,3 +167,7 @@ RLCraft_BasicZombie,-2736,-2736,-6666,-6666
 RLCraft_BasicSkeleton,-2716,-2716,-6666,-6666
 RLCraft_BasicWitch,-2726,-2726,-6658,-6658
 RLCraft_MegaBattleTower,-2754,-2698,-6704,-6648
+StoneLeafMound,-3014,-3007,-6817,-6808
+StonePlantMound4,-2991,-2984,-6828,-6821
+StoneLeafMound,-2955,-2946,-6803,-6796
+SmallWoodenCottage1,-2901,-2890,-6728,-6722

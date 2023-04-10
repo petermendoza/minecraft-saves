@@ -29,3 +29,8 @@ StoneLeafMound,-3098,-3091,-6838,-6829
 WoodThorn,-3171,-3160,-6819,-6808
 StonePlantMound2,-3139,-3126,-6820,-6808
 StonePlantMound,-3143,-3138,-6783,-6778
+StoneLeafMound,-3443,-3436,-6688,-6679
+StonePlantMound2,-3242,-3230,-6697,-6684
+StonePlantMound4,-3231,-3224,-6760,-6753
+StoneBoulder,-3096,-3087,-6674,-6665
+RLCraft_SmallUndergroundSkeleton,-3076,-3068,-6666,-6658

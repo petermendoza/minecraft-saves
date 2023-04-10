@@ -15,3 +15,6 @@ SmallFortRuinsJapanese,3716,3762,7761,7807
 StonePlantMound4,3622,3629,7774,7781
 BlazeSpawnerCrystal,3640,3646,8080,8086
 StonePlantMound1,3794,3800,7713,7719
+StonePlantMound3,3747,3758,7690,7699
+RLCraft_BasicSkeleton,3950,3950,7718,7718
+RLCraft_UndergroundRuin1,3944,3953,7715,7724
