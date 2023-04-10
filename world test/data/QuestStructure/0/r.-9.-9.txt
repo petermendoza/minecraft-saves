@@ -64,3 +64,8 @@ RLCraft_BasicSkeleton,-4848,-4848,-4983,-4983
 RLCraft_MegaBattleTower_Water,-4876,-4820,-5029,-4973
 MysticalTree2,-4634,-4624,-4967,-4957
 RLCraft_SmallUndergroundSkeleton,-4668,-4660,-4949,-4941
+StonePlantMound2,-4645,-4633,-5113,-5100
+Tree_Oak_TheMushroomOak_v3,-4683,-4633,-5121,-5062
+MeteorSite,-4735,-4720,-5030,-5000
+StonePlantMound2,-4730,-4717,-5049,-5037
+StonePlantMound4,-4806,-4799,-4937,-4930

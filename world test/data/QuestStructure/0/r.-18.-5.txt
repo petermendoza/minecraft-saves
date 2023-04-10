@@ -88,3 +88,6 @@ RLCraft_BasicCaveSpider,-9311,-9311,-2958,-2958
 RLCraft_BasicWitch,-9291,-9291,-2958,-2958
 RLCraft_BasicSpider,-9301,-9301,-2950,-2950
 RLCraft_MegaBattleTower,-9329,-9273,-2996,-2940
+RLCraft_SmallUndergroundSkeleton,-9537,-9529,-2585,-2577
+RLCraft_SmallUndergroundSkeleton,-9612,-9604,-2629,-2621
+StonePlantMound4,-9587,-9580,-2641,-2634

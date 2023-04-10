@@ -1,1 +1,12 @@
 StonePlantMound3,6767,6778,1020,1029
+VillageSavannaGlassworks,7067,7079,1366,1376
+VillageSavannaKitchen,7046,7056,1378,1390
+RLCraft_Vineyard,7032,7060,1350,1370
+VillageTriplets,7047,7061,1314,1328
+RLCraft_DecentSkeleton,7147,7147,1297,1297
+RLCraft_UndergroundRuin3,7144,7152,1291,1299
+VillageSavannaLibrary,7007,7017,1350,1361
+VillageMarketplace,7030,7044,1314,1328
+VillageMarketplace,7030,7044,1314,1328
+RLCraft_DecentWitch,6986,6986,1403,1403
+RLCraft_UndergroundRuin3,6983,6991,1397,1405

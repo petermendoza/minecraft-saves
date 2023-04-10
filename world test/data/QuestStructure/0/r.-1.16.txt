@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,-866,-866,8356,8356
+RLCraft_UndergroundRuin3,-868,-860,8353,8361
+ShrineSmallFire,-738,-728,8203,8213
+RLCraft_AgentStarbuck_WaterBase,-955,-938,8460,8472

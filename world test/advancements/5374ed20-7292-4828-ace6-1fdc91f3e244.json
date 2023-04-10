@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-04-09 17:15:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
@@ -230,6 +236,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2023-04-08 01:37:38 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2023-04-09 19:11:29 -0500"
     },
     "done": true
   },
@@ -260,6 +272,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 07:28:14 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_block_uncraft": {
+    "criteria": {
+      "has_material": "2023-04-09 15:55:01 -0500"
     },
     "done": true
   },
@@ -385,6 +403,7 @@
       "raw_salmon": "2023-04-08 21:44:58 -0500",
       "mutton": "2023-04-08 21:50:31 -0500",
       "bread": "2023-04-08 01:34:18 -0500",
+      "golden_apple": "2023-04-09 17:54:05 -0500",
       "raw_cod": "2023-04-08 01:54:07 -0500",
       "cooked_chicken": "2023-04-08 01:33:16 -0500",
       "cooked_salmon": "2023-04-08 01:33:55 -0500",
@@ -401,6 +420,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2023-04-08 14:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-04-09 19:17:54 -0500"
     },
     "done": true
   },
@@ -448,6 +473,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "forest_vilespine": "2023-04-09 19:11:23 -0500",
       "swamp_defiled": "2023-04-08 15:34:59 -0500"
     },
     "done": false
@@ -467,6 +493,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2023-04-08 01:21:22 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
     },
     "done": true
   },
@@ -596,6 +628,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2023-04-09 19:11:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-08 21:32:41 -0500"
@@ -620,15 +658,15 @@
     },
     "done": true
   },
-  "spartanweaponry:root": {
-    "criteria": {
-      "handle_in_inventory": "2023-04-08 14:24:06 -0500"
-    },
-    "done": true
-  },
   "craftablechainmail:craft_iron_nugget": {
     "criteria": {
       "iron_nugget": "2023-04-08 11:16:18 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2023-04-08 14:24:06 -0500"
     },
     "done": true
   },
@@ -903,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2023-04-09 19:17:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
@@ -938,15 +982,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-09 19:33:31 -0500"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/tears_flame": {
     "criteria": {
       "has_material": "2023-04-08 08:09:20 -0500"
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-04-09 18:28:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2023-04-08 08:42:54 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2023-04-09 19:11:29 -0500"
     },
     "done": true
   },
@@ -971,6 +1033,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-04-09 19:33:31 -0500"
     },
     "done": true
   },
@@ -1040,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-04-09 15:48:48 -0500"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2023-04-08 12:10:04 -0500"
@@ -1067,6 +1141,12 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_quartz": "2023-04-08 07:12:52 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2023-04-09 19:13:09 -0500"
     },
     "done": true
   },
@@ -1109,6 +1189,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2023-04-08 01:21:22 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
     },
     "done": true
   },
@@ -1163,6 +1249,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2023-04-08 01:25:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2023-04-09 17:58:12 -0500"
     },
     "done": true
   },
@@ -1298,15 +1390,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2023-04-08 21:54:05 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-04-08 11:07:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-04-08 21:54:05 -0500"
     },
     "done": true
   },
@@ -1325,6 +1417,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2023-04-08 07:15:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2023-04-09 18:29:49 -0500"
     },
     "done": true
   },
@@ -1430,6 +1528,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/umbrium_block": {
+    "criteria": {
+      "has_material": "2023-04-09 15:55:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
@@ -1502,6 +1606,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 07:28:14 -0500"
@@ -1529,6 +1639,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-04-08 08:28:19 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2023-04-09 19:11:29 -0500"
     },
     "done": true
   },
@@ -1670,6 +1786,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-04-08 07:44:06 -0500"
@@ -1691,6 +1813,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2023-04-08 12:10:04 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2023-04-09 18:54:32 -0500"
     },
     "done": true
   },
@@ -1763,6 +1891,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-04-09 19:33:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-04-08 01:37:38 -0500"
@@ -1826,6 +1960,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-04-08 11:07:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2023-04-09 19:34:15 -0500"
     },
     "done": true
   },
@@ -1907,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2023-04-09 17:09:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2023-04-08 01:16:41 -0500"
@@ -1934,6 +2080,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
     },
     "done": true
   },
@@ -2009,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2023-04-09 17:09:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2023-04-08 06:55:34 -0500"
@@ -2054,6 +2212,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2023-04-08 08:09:20 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2023-04-09 18:54:32 -0500"
     },
     "done": true
   },

@@ -1,0 +1,6 @@
+RLCraft_AgentStarbuck_WaterBase,-4742,-4725,585,597
+RLCraft_DecentSkeleton,-4894,-4894,612,612
+RLCraft_UndergroundRuin3,-4896,-4888,607,615
+RLCraft_DecentSpider,-4930,-4930,628,628
+RLCraft_UndergroundRuin2,-4935,-4928,623,633
+PeacefulCrypt,-4669,-4653,687,711

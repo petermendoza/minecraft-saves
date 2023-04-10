@@ -210,3 +210,6 @@ RLCraft_UndergroundRuin2,2467,2474,-8938,-8928
 DinosaurSkull,2477,2496,-8977,-8966
 StoneBoulder,2435,2444,-8982,-8973
 StonePlantMound3,2402,2413,-8978,-8969
+ClayWaterMound,2376,2383,-9182,-9174
+RLCraft_DecentCaveSpider,2059,2059,-9160,-9160
+RLCraft_UndergroundRuin3,2054,2062,-9166,-9158

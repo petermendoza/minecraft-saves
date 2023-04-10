@@ -1,0 +1,5 @@
+ShrineSmallWater,3559,3567,8034,8042
+DinosaurSkeleton,3460,3506,7747,7756
+RLCraft_DecentCaveSpider,3572,3572,7713,7713
+RLCraft_UndergroundRuin3,3566,3574,7710,7718
+StoneBoulder,3563,3572,7693,7702

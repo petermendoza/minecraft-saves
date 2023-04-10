@@ -1,0 +1,4 @@
+ShrineSmallFire,-5146,-5136,-6759,-6749
+SmallAbandonedMine,-5208,-5193,-6783,-6758
+WoodWallRemains,-5359,-5351,-6781,-6753
+DinosaurSkull,-5201,-5190,-6900,-6881

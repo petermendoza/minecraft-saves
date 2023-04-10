@@ -1,0 +1,5 @@
+RLCraft_BasicSpider,-1619,-1619,-5903,-5903
+RLCraft_UndergroundRuin1,-1625,-1616,-5909,-5900
+RLCraft_DecentWitch,-1582,-1582,-6034,-6034
+RLCraft_UndergroundRuin3,-1584,-1576,-6037,-6029
+MeteorSite,-1644,-1629,-5819,-5789

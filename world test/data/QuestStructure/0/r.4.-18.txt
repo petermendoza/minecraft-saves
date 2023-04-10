@@ -1,0 +1,4 @@
+StonePlantMound1,2313,2319,-9228,-9222
+StonePlantMound3,2353,2362,-9258,-9247
+P_RuinedHouse,2355,2380,-9290,-9273
+SmallOutpost,2338,2368,-9322,-9300

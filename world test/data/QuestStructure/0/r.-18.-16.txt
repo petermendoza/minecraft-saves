@@ -11,3 +11,16 @@ StonePlantBoulder,-9390,-9380,-8463,-8453
 RLCraft_BasicSpider,-9395,-9395,-8601,-8601
 RLCraft_UndergroundRuin1,-9401,-9392,-8607,-8598
 SmallOutpost,-9435,-9413,-8483,-8453
+StoneLeafMound,-9326,-9317,-8261,-8254
+BrickHenge,-9328,-9312,-8249,-8233
+StonePlantMound2,-9311,-9299,-8232,-8219
+StonePlantMound,-9331,-9326,-8229,-8224
+StonePlantMound2,-9365,-9353,-8212,-8199
+StonePlantMound2,-9368,-9355,-8364,-8352
+StoneBoulder,-9389,-9380,-8400,-8391
+StonePlantMound1,-9412,-9406,-8259,-8253
+StonePlantBoulder,-9469,-9459,-8311,-8301
+RLCraft_BasicSkeleton,-9459,-9459,-8348,-8348
+RLCraft_UndergroundRuin1,-9465,-9456,-8351,-8342
+StoneLeafMound,-9547,-9538,-8375,-8368
+StonePlantMound4,-9554,-9547,-8362,-8355

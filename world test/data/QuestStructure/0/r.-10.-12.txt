@@ -12,3 +12,8 @@ P_SwampHouse,-5616,-5574,-6439,-6409
 StoneBoulder,-5612,-5603,-6632,-6623
 ShrineSmallAir,-5610,-5602,-6638,-6630
 StonePlantMound1,-5157,-5151,-6320,-6314
+WoodWallRemains,-5188,-5180,-6408,-6380
+SmallWoodenCottage2,-5236,-5228,-6432,-6424
+RLCraft_DecentSpider,-5168,-5168,-6474,-6474
+RLCraft_UndergroundRuin3,-5174,-5166,-6479,-6471
+SmallAbandonedMine,-5380,-5365,-6402,-6377

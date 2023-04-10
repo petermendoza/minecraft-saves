@@ -1,2 +1,9 @@
 StoneLeafMound,-2542,-2533,-6627,-6620
 ClayWaterMound1,-2515,-2505,-6611,-6600
+P_Deqing,-2310,-2258,-6600,-6553
+MeteorSite,-2530,-2500,-6563,-6548
+RLCraft_SmallUndergroundSkeleton,-2297,-2289,-6554,-6546
+StonePlantMound1,-2159,-2153,-6547,-6541
+StonePlantBoulder,-2300,-2290,-6536,-6526
+StonePlantMound1,-2539,-2533,-6350,-6344
+StonePlantMound4,-2345,-2338,-6492,-6485

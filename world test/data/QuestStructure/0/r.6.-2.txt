@@ -1,0 +1,6 @@
+StoneBoulder,3436,3445,-1481,-1472
+SmallAbandonedMine,3414,3429,-1541,-1516
+RLCraft_BasicSpider,3144,3144,-1399,-1399
+RLCraft_UndergroundRuin1,3138,3147,-1405,-1396
+RLCraft_SmallUndergroundSkeleton,3132,3140,-1512,-1504
+StoneBoulder,3089,3098,-1457,-1448

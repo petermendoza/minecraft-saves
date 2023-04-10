@@ -1,0 +1,4 @@
+StonePlantMound2,7358,7371,9254,9266
+RLCraft_SmallUndergroundSkeleton,7177,7185,9340,9348
+StatueTemple,7160,7231,9325,9427
+P_MayanTemple1,7271,7317,9380,9410

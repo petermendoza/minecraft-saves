@@ -3,3 +3,10 @@ StoneBoulder,-5324,-5315,-5158,-5149
 StoneBoulder,-5313,-5304,-5169,-5160
 DinosaurSkull,-5159,-5148,-5459,-5440
 RLCraft_SmallUndergroundSkeleton,-5181,-5173,-5398,-5390
+WoodWallRemains,-5571,-5543,-5261,-5253
+StonePlantMound3,-5546,-5537,-5158,-5147
+RLCraft_DecentSpider,-5531,-5531,-5252,-5252
+RLCraft_UndergroundRuin3,-5537,-5529,-5255,-5247
+StonePlantBoulder,-5473,-5463,-5197,-5187
+ClayWaterMound1,-5550,-5540,-5318,-5307
+StonePlantMound2,-5406,-5394,-5213,-5200

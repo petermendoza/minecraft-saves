@@ -1,0 +1,3 @@
+StonePlantBoulder,-1570,-1560,-6194,-6184
+RLCraft_DecentZombie,-1621,-1621,-6226,-6226
+RLCraft_UndergroundRuin3,-1626,-1618,-6232,-6224

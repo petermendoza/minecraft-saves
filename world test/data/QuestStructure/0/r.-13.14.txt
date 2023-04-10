@@ -1,0 +1,12 @@
+RLCraft_DecentWitch,-6754,-6754,7584,7584
+RLCraft_UndergroundRuin2,-6759,-6752,7579,7589
+DesertWatchtower,-6902,-6892,7600,7610
+SmallClockworkSite,-6912,-6893,7572,7594
+RLCraft_SmallUndergroundSkeleton,-6684,-6676,7622,7630
+SmallAbandonedMine,-6966,-6941,7630,7645
+ShrineSmallFire,-6950,-6940,7471,7481
+StoneBoulder,-6679,-6670,7467,7476
+RLCraft_SmallUndergroundSkeleton,-6924,-6916,7408,7416
+P_WitchDungeon,-6981,-6964,7287,7321
+DesertBeacon,-7001,-6995,7342,7348
+RLCraft_SmallUndergroundSkeleton,-6998,-6990,7488,7496

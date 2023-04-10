@@ -1,0 +1,9 @@
+RLCraft_BasicSpider,1312,1312,-7575,-7575
+RLCraft_UndergroundRuin1,1306,1315,-7581,-7572
+P_VillageFarmhouse,1168,1180,-7562,-7550
+RLCraft_BasicSkeleton,1367,1367,-7510,-7510
+RLCraft_UndergroundRuin1,1364,1373,-7516,-7507
+DinosaurSkull,1376,1395,-7510,-7499
+StonePlantMound3,1445,1454,-7410,-7399
+RLCraft_Vineyard,1475,1503,-7580,-7560
+VillageGuardTower,1478,1490,-7611,-7599

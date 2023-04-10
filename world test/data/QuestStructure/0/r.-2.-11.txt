@@ -1,0 +1,6 @@
+StoneIceBoulder3,-1413,-1403,-5942,-5932
+ShrineSmallFire,-1437,-1427,-6024,-6014
+MeteorSite,-1448,-1433,-6020,-5990
+ShrineSmallFire,-1352,-1342,-5920,-5910
+RLCraft_SmallUndergroundSkeleton,-1339,-1331,-6050,-6042
+StoneIceBoulder2,-1340,-1331,-5946,-5937

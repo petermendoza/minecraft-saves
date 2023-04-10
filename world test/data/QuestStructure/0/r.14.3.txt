@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,7368,7368,1662,1662
+RLCraft_UndergroundRuin3,7362,7370,1659,1667
+SmallAbandonedMine,7373,7388,1526,1551
+P_WitchDungeon,7387,7404,1589,1623

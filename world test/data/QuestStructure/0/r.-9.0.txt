@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,-4717,-4717,473,473
+RLCraft_UndergroundRuin3,-4720,-4712,467,475
+RLCraft_DecentSkeleton,-4666,-4666,484,484
+RLCraft_UndergroundRuin3,-4671,-4663,478,486
+RLCraft_AgentStarbuck_WaterBase,-4658,-4641,467,479

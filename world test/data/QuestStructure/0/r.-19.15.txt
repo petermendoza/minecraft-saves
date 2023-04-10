@@ -1,0 +1,2 @@
+GiganticTree,-9951,-9882,7644,7722
+StonePlantMound1,-9851,-9845,7825,7831

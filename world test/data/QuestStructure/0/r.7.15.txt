@@ -1,0 +1,17 @@
+Tree_Oak_TheMushroomOak_v3,3751,3801,7866,7925
+VillageLargeLibrary,3654,3673,7923,7943
+P_Village2Story,3674,3687,7910,7916
+RLCraft_SmallUndergroundSkeleton,3682,3690,7891,7899
+SeasonsGreenhouse,3654,3666,7886,7896
+VillageForgeLarge,3625,3637,7927,7943
+VillageMarketplace,3625,3639,7910,7924
+VillageTriplets,3625,3639,7879,7893
+StoneBoulder,3783,3792,7812,7821
+RLCraft_DecentWitch,3761,3761,8042,8042
+RLCraft_UndergroundRuin3,3756,3764,8036,8044
+StonePlantMound1,3758,3764,7776,7782
+StoneBoulder,3712,3721,7783,7792
+SmallFortRuinsJapanese,3716,3762,7761,7807
+StonePlantMound4,3622,3629,7774,7781
+BlazeSpawnerCrystal,3640,3646,8080,8086
+StonePlantMound1,3794,3800,7713,7719

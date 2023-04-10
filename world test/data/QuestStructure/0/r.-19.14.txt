@@ -1,0 +1,8 @@
+StonePlantMound2,-9798,-9786,7626,7639
+ClayWaterMound,-9733,-9726,7674,7682
+RLCraft_Defiled_Cult_OG,-9945,-9901,7582,7609
+StonePlantMound1,-9765,-9759,7500,7506
+RLCraft_DecentCaveSpider,-9731,-9731,7455,7455
+RLCraft_UndergroundRuin3,-9734,-9726,7453,7461
+StonePlantBoulder,-9738,-9728,7438,7448
+StonePlantMound1,-9767,-9761,7334,7340

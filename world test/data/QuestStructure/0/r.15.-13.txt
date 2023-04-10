@@ -1,0 +1,12 @@
+StonePlantMound,7683,7688,-7124,-7119
+RLCraft_DecentSkeleton,7691,7691,-7000,-7000
+RLCraft_UndergroundRuin3,7686,7694,-7006,-6998
+StoneLeafMound,7698,7705,-7142,-7133
+StoneBoulder,7701,7710,-7088,-7079
+RLCraft_SmallUndergroundSkeleton,7722,7730,-7156,-7148
+MeteorSite,7703,7733,-7158,-7143
+StoneLeafMound,7703,7712,-6799,-6792
+RLCraft_UndergroundFarm,7716,7759,-7054,-7012
+StoneBoulder,7759,7768,-6883,-6874
+StonePlantMound4,7757,7764,-7056,-7049
+StonePlantMound4,7767,7774,-7036,-7029

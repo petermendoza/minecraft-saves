@@ -1,0 +1,17 @@
+DinosaurSkull,-9706,-9687,7668,7679
+StonePlantMound,-9699,-9694,7604,7609
+StonePlantMound4,-9677,-9670,7603,7610
+StoneBoulder,-9692,-9683,7569,7578
+StonePlantMound2,-9661,-9649,7562,7575
+RLCraft_SmallUndergroundSkeleton,-9587,-9579,7674,7682
+StoneBoulder,-9569,-9560,7638,7647
+StoneLeafMound,-9553,-9546,7551,7560
+RLCraft_SmallUndergroundSkeleton,-9681,-9673,7490,7498
+StonePlantMound,-9707,-9702,7481,7486
+StonePlantMound2,-9600,-9587,7478,7490
+StonePlantMound2,-9553,-9541,7432,7445
+StonePlantBoulder,-9523,-9513,7623,7633
+StonePlantMound2,-9506,-9494,7415,7428
+StonePlantBoulder,-9512,-9502,7480,7490
+StonePlantMound1,-9577,-9571,7379,7385
+StonePlantMound3,-9619,-9610,7345,7356

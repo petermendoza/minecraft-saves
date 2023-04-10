@@ -242,3 +242,4 @@ StoneMaze,-4259,-4224,-5915,-5880
 RLCraft_SmallUndergroundSkeleton,-4206,-4198,-6024,-6016
 StoneIceBoulder,-4191,-4182,-6042,-6032
 SmallAbandonedMine,-4234,-4209,-6116,-6101
+P_IceSkeletonLookout,-4117,-4107,-6059,-6049

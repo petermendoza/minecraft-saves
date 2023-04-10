@@ -264,3 +264,6 @@ StonePlantMound4,-4738,-4731,-5962,-5955
 StoneBoulder,-4754,-4745,-6077,-6068
 RLCraft_SmallUndergroundSkeleton,-4776,-4768,-5945,-5937
 SmallOutpost,-4805,-4783,-5870,-5840
+UndergroundTreeoid,-4854,-4831,-5713,-5687
+SmallAbandonedOutpost,-4827,-4797,-5748,-5726
+SmallWoodenCottage,-4799,-4791,-5803,-5792

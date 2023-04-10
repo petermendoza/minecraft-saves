@@ -1,0 +1,9 @@
+StonePlantMound4,7112,7119,8941,8948
+StonePlantMound2,7045,7058,9194,9206
+ShrineSmallAir,7012,7020,9136,9144
+SpiderPit,6995,7005,9176,9185
+RLCraft_FriendlyOutpost,6885,6953,9187,9226
+RLCraft_SmallUndergroundSkeleton,6951,6959,9182,9190
+StonePlantBoulder,6933,6943,9139,9149
+StonePlantMound,6931,6936,9147,9152
+StonePlantMound1,6869,6875,9186,9192

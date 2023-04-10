@@ -77,3 +77,4 @@ SmallWoodenCottage,-4160,-4152,-4642,-4631
 ShrineSmallAir,-4150,-4142,-4626,-4618
 StoneLeafMound,-4288,-4279,-4627,-4620
 StonePlantMound1,-4388,-4382,-4732,-4726
+StonePlantBoulder,-4465,-4455,-4763,-4753

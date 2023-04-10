@@ -5,3 +5,5 @@ P_IceSkeletonLookout,-4633,-4623,-7007,-6997
 StoneIceBoulder,-4667,-4658,-6981,-6971
 StonePlantMound3,-4723,-4712,-7089,-7080
 StoneIceBoulder,-4747,-4737,-6963,-6954
+IceThorn1,-5123,-5102,-6722,-6706
+PeacefulCrypt,-5119,-5103,-6826,-6802

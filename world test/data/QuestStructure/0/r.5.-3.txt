@@ -1,0 +1,6 @@
+ClayWaterMound1,3062,3073,-1557,-1547
+StonePlantMound,3031,3036,-1628,-1623
+WitchPillars,3014,3031,-1601,-1584
+StonePlantMound,2932,2937,-1596,-1591
+StonePlantBoulder,2796,2806,-1569,-1559
+RLCraft_4Towers,2787,2839,-1607,-1547

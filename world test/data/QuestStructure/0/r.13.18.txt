@@ -1,0 +1,4 @@
+RLCraft_PlainsCamp,7135,7181,9221,9260
+StonePlantMound3,7096,7107,9222,9231
+StonePlantMound,7016,7021,9225,9230
+RLCraft_LargeUndergroundTown,6895,7008,9152,9289

@@ -1,0 +1,9 @@
+PeacefulCrypt,-6214,-6190,-5611,-5595
+RLCraft_DecentSkeleton,-6297,-6297,-5588,-5588
+RLCraft_UndergroundRuin3,-6299,-6291,-5593,-5585
+StonePlantMound4,-6205,-6198,-5546,-5539
+RLCraft_DecentSkeleton,-6242,-6242,-5532,-5532
+RLCraft_UndergroundRuin3,-6245,-6237,-5538,-5530
+StonePlantMound,-6186,-6181,-5525,-5520
+ShrineSmallFire,-6183,-6173,-5489,-5479
+SmallWoodenCottage2,-6217,-6209,-5444,-5436
