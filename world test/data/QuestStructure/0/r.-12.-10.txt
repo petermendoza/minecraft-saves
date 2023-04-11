@@ -7,3 +7,17 @@ RLCraft_UndergroundRuin3,-6245,-6237,-5538,-5530
 StonePlantMound,-6186,-6181,-5525,-5520
 ShrineSmallFire,-6183,-6173,-5489,-5479
 SmallWoodenCottage2,-6217,-6209,-5444,-5436
+StonePlantMound1,-6451,-6445,-5625,-5619
+StoneLeafMound,-6497,-6488,-5630,-5623
+RLCraft_BasicCaveSpider,-6510,-6510,-5576,-5576
+RLCraft_UndergroundRuin1,-6516,-6507,-5582,-5573
+RLCraft_SmallUndergroundSkeleton,-6565,-6557,-5604,-5596
+StonePlantBoulder,-6592,-6582,-5470,-5460
+StoneBoulder,-6563,-6554,-5470,-5461
+StonePlantMound1,-6586,-6580,-5484,-5478
+P_PlainsCity,-6605,-6423,-5669,-5463
+WoodWallRemains,-6305,-6297,-5458,-5430
+StonePlantMound4,-6294,-6287,-5452,-5445
+StonePlantMound2,-6630,-6618,-5426,-5413
+StoneBoulder,-6528,-6519,-5436,-5427
+ShrineSmallAir,-6268,-6260,-5405,-5397

@@ -33,3 +33,8 @@ StonePlantBoulder,-6439,-6429,-5795,-5785
 StoneLeafMound,-6545,-6538,-6002,-5993
 StonePlantMound1,-6627,-6621,-6044,-6038
 RLCraft_SmallUndergroundSkeleton,-6624,-6616,-5979,-5971
+StonePlantMound4,-6632,-6625,-5876,-5869
+DinosaurSkeleton,-6651,-6642,-5797,-5751
+RLCraft_SmallUndergroundSkeleton,-6641,-6633,-5709,-5701
+StonePlantMound,-6645,-6640,-5679,-5674
+StoneLeafMound,-6659,-6652,-5655,-5646
