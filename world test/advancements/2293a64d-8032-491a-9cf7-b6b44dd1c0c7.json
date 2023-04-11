@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2023-04-10 20:50:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-04-08 01:24:45 -0500"
@@ -283,7 +289,8 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
-      "ice_plains_defiled": "2023-04-08 22:14:06 -0500"
+      "ice_plains_defiled": "2023-04-08 22:14:06 -0500",
+      "swamp_defiled": "2023-04-10 20:48:47 -0500"
     },
     "done": false
   },
@@ -525,6 +532,7 @@
       "husk": "2023-04-08 21:28:08 -0500",
       "cave_spider": "2023-04-08 14:27:39 -0500",
       "zombie": "2023-04-08 14:10:14 -0500",
+      "silverfish": "2023-04-10 20:57:05 -0500",
       "witch": "2023-04-10 14:54:30 -0500",
       "spider": "2023-04-08 17:22:52 -0500",
       "creeper": "2023-04-08 16:02:54 -0500",
@@ -541,6 +549,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2023-04-08 14:11:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-04-10 22:03:44 -0500"
     },
     "done": true
   },
@@ -631,6 +645,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2023-04-08 01:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-04-10 21:28:22 -0500"
     },
     "done": true
   },
@@ -1001,6 +1021,7 @@
       "taiga_cold": "2023-04-08 14:01:42 -0500",
       "ocean": "2023-04-08 01:17:09 -0500",
       "extreme_hills": "2023-04-08 01:25:48 -0500",
+      "roofed_forest": "2023-04-10 20:58:13 -0500",
       "cold_beach": "2023-04-08 22:13:57 -0500",
       "river": "2023-04-08 01:18:18 -0500",
       "desert": "2023-04-08 18:45:13 -0500",
@@ -1029,6 +1050,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2023-04-08 01:28:27 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2023-04-10 20:50:00 -0500"
     },
     "done": true
   },
@@ -1350,6 +1377,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2023-04-10 20:50:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 01:28:27 -0500"
@@ -1395,6 +1428,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2023-04-08 01:25:40 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_block_uncraft": {
+    "criteria": {
+      "has_material": "2023-04-10 20:54:29 -0500"
     },
     "done": true
   },
@@ -2112,6 +2151,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/umbrium_block": {
+    "criteria": {
+      "has_material": "2023-04-10 20:54:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-08 01:28:27 -0500"
@@ -2172,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-04-10 21:28:22 -0500"
+    },
+    "done": true
+  },
   "qualitytools:recipes/qualitytools/reforging_station": {
     "criteria": {
       "has_anvil": "2023-04-10 14:51:01 -0500"
@@ -2205,6 +2256,12 @@
   "defiledlands:recipes/tools/concussion_smasher": {
     "criteria": {
       "has_material": "2023-04-10 01:58:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-04-10 21:28:22 -0500"
     },
     "done": true
   },
@@ -2307,6 +2364,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-08 17:50:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2023-04-10 20:24:15 -0500"
     },
     "done": true
   },

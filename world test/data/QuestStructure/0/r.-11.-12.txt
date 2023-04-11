@@ -57,3 +57,5 @@ StonePlantMound1,-6133,-6127,-6324,-6318
 StoneLeafMound,-6069,-6060,-6165,-6158
 StoneLeafMound,-6100,-6093,-6372,-6363
 P_SwampHouse,-6116,-6074,-6535,-6505
+RLCraft_DecentWitch,-6128,-6128,-6654,-6654
+RLCraft_UndergroundRuin3,-6130,-6122,-6659,-6651

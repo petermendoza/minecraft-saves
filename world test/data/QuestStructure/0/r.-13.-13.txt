@@ -1,0 +1,6 @@
+StoneLeafMound,-6704,-6695,-6705,-6698
+StoneBoulder,-6705,-6696,-6804,-6795
+StoneBoulder,-6688,-6679,-6835,-6826
+ClayWaterMound1,-6856,-6846,-6855,-6844
+SmallWoodenCottage1,-6874,-6868,-6858,-6847
+StoneBoulder,-6662,-6653,-6888,-6879

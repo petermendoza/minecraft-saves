@@ -41,3 +41,12 @@ MesoMazePath,-6485,-6483,-6733,-6731
 SnakeTemple,-6521,-6475,-6741,-6711
 StonePlantMound4,-6361,-6354,-6693,-6686
 RLCraft_SmallUndergroundSkeleton,-6296,-6288,-6667,-6659
+StonePlantBoulder,-6187,-6177,-6682,-6672
+RLCraft_BasicZombie,-6255,-6255,-6729,-6729
+RLCraft_UndergroundRuin1,-6258,-6249,-6735,-6726
+StonePlantMound3,-6192,-6183,-6740,-6729
+StonePlantMound1,-6312,-6306,-6762,-6756
+StonePlantMound1,-6350,-6344,-6765,-6759
+StonePlantMound2,-6658,-6646,-6732,-6719
+StonePlantMound4,-6561,-6554,-6768,-6761
+WitchPillars,-6570,-6553,-6772,-6755

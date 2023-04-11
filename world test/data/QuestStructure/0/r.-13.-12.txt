@@ -24,3 +24,10 @@ StonePlantMound3,-6685,-6674,-6629,-6620
 RLCraft_BasicSkeleton,-6704,-6704,-6634,-6634
 RLCraft_UndergroundRuin1,-6707,-6698,-6637,-6628
 StonePlantMound4,-6661,-6654,-6644,-6637
+RLCraft_DecentWitch,-7066,-7066,-6450,-6450
+RLCraft_UndergroundRuin2,-7068,-7061,-6455,-6445
+StoneLeafMound,-7107,-7100,-6577,-6568
+UndergroundTreeoid,-7139,-7113,-6652,-6629
+ShrineSmallAir,-7117,-7109,-6574,-6566
+StoneLeafMound,-7140,-7133,-6594,-6585
+StonePlantMound1,-7148,-7142,-6505,-6499
