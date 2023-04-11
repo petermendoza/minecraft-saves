@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-7225,-7217,-4214,-4206
+RLCraft_SmallUndergroundSkeleton,-7460,-7452,-4190,-4182
+ShrineSmallFire,-7677,-7667,-4197,-4187
+RLCraft_DecentSpider,-7633,-7633,-4359,-4359
+RLCraft_UndergroundRuin3,-7635,-7627,-4364,-4356

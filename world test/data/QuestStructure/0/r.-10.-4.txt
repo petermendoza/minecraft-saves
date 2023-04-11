@@ -1,1 +1,6 @@
 RLCraft_SmallUndergroundSkeleton,-5143,-5135,-2313,-2305
+UndergroundCrypt,-5260,-5246,-2368,-2340
+HobbitHole,-5417,-5345,-2139,-2042
+BlazeSpawnerCrystal,-5541,-5535,-2123,-2117
+RLCraft_DecentSkeleton,-5598,-5598,-2070,-2070
+RLCraft_UndergroundRuin2,-5603,-5593,-2072,-2065

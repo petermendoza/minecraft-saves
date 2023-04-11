@@ -1,0 +1,16 @@
+RLCraft_DecentSkeleton,-5696,-5696,-1835,-1835
+RLCraft_UndergroundRuin3,-5699,-5691,-1841,-1833
+ShrineSmallWater,-5671,-5663,-1719,-1711
+P_CultIsland,-5831,-5661,-1888,-1678
+RLCraft_SmallUndergroundSkeleton,-5849,-5841,-1864,-1856
+StoneBoulder,-5896,-5887,-1823,-1814
+StonePlantBoulder,-5893,-5883,-1695,-1685
+Tree_Oak_TheMushroomOak_v3,-5854,-5795,-1657,-1607
+RLCraft_DecentZombie,-5726,-5726,-1595,-1595
+RLCraft_UndergroundRuin2,-5731,-5721,-1597,-1590
+StonePlantMound1,-5917,-5911,-1652,-1646
+StoneLeafMound,-5933,-5924,-1642,-1635
+RLCraft_BasicSkeleton,-5885,-5885,-1949,-1949
+RLCraft_UndergroundRuin1,-5891,-5882,-1952,-1943
+StonePlantMound4,-5952,-5945,-1997,-1990
+StonePlantBoulder,-5877,-5867,-2041,-2031

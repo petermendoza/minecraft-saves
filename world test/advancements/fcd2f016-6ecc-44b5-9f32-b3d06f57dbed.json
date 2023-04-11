@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2023-04-10 19:11:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-08 01:31:03 -0500"
@@ -269,7 +275,9 @@
       "cooked_beef": "2023-04-08 17:45:02 -0500",
       "baked_potato": "2023-04-08 01:34:56 -0500",
       "apple": "2023-04-08 01:22:16 -0500",
-      "bread": "2023-04-08 18:13:57 -0500"
+      "bread": "2023-04-08 18:13:57 -0500",
+      "golden_apple": "2023-04-10 19:14:20 -0500",
+      "carrot": "2023-04-10 18:57:11 -0500"
     },
     "done": false
   },
@@ -306,6 +314,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2023-04-08 18:40:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-04-10 19:10:43 -0500"
     },
     "done": true
   },
@@ -629,10 +643,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2023-04-10 19:13:47 -0500",
       "wither_skeleton": "2023-04-09 18:10:07 -0500",
       "vindicator": "2023-04-08 18:33:08 -0500",
       "skeleton": "2023-04-08 15:43:26 -0500",
+      "blaze": "2023-04-10 19:03:33 -0500",
       "zombie": "2023-04-08 15:53:47 -0500",
+      "cave_spider": "2023-04-10 19:10:50 -0500",
       "witch": "2023-04-09 18:18:01 -0500",
       "spider": "2023-04-08 15:53:52 -0500",
       "creeper": "2023-04-08 15:55:15 -0500"
@@ -642,6 +659,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-04-08 19:07:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-10 19:21:59 -0500"
     },
     "done": true
   },
@@ -660,6 +683,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-04-08 17:59:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-04-10 19:21:59 -0500"
     },
     "done": true
   },
@@ -1154,8 +1183,11 @@
       "deep_ocean": "2023-04-08 01:24:56 -0500",
       "beaches": "2023-04-08 01:25:34 -0500",
       "extreme_hills_with_trees": "2023-04-08 01:20:43 -0500",
+      "desert_hills": "2023-04-10 19:01:13 -0500",
       "forest_hills": "2023-04-08 18:39:35 -0500",
       "plains": "2023-04-08 01:09:32 -0500",
+      "savanna": "2023-04-10 19:01:32 -0500",
+      "savanna_rock": "2023-04-10 19:01:33 -0500",
       "ice_mountains": "2023-04-08 18:30:04 -0500",
       "taiga": "2023-04-08 01:28:09 -0500",
       "redwood_taiga": "2023-04-08 17:50:30 -0500",
@@ -1168,7 +1200,8 @@
       "roofed_forest": "2023-04-08 18:40:47 -0500",
       "cold_beach": "2023-04-09 19:08:59 -0500",
       "river": "2023-04-08 01:30:11 -0500",
-      "desert": "2023-04-08 01:25:39 -0500"
+      "desert": "2023-04-08 01:25:39 -0500",
+      "stone_beach": "2023-04-10 19:00:02 -0500"
     },
     "done": false
   },
@@ -1274,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2023-04-10 19:11:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-04-08 17:59:54 -0500"
@@ -1295,6 +1334,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2023-04-09 18:18:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2023-04-10 19:11:15 -0500"
     },
     "done": true
   },

@@ -19,3 +19,9 @@ StonePlantMound,-4890,-4885,-6919,-6914
 StonePlantMound1,-4994,-4988,-6971,-6965
 IceThorn2,-4632,-4622,-6743,-6731
 RLCraft_SmallUndergroundSkeleton,-4975,-4967,-7092,-7084
+RLCraft_DecentSpider,-4610,-4610,-6870,-6870
+RLCraft_UndergroundRuin3,-4615,-4607,-6876,-6868
+RLCraft_DecentSpider,-4670,-4670,-6889,-6889
+RLCraft_UndergroundRuin3,-4676,-4668,-6892,-6884
+StoneIceBoulder2,-4787,-4778,-6905,-6896
+StoneIceBoulder3,-4825,-4815,-6910,-6900

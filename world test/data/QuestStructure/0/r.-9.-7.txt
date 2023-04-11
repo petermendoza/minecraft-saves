@@ -1,0 +1,11 @@
+RLCraft_BasicCaveSpider,-4907,-4907,-4085,-4085
+RLCraft_UndergroundRuin1,-4913,-4904,-4088,-4079
+ShrineSmallWater,-4658,-4650,-3903,-3895
+StonePlantMound3,-4734,-4725,-3905,-3894
+SmallOutpost,-4809,-4779,-3869,-3847
+StonePlantMound1,-4913,-4907,-3813,-3807
+StonePlantMound1,-4884,-4878,-3754,-3748
+ClayWaterMound,-4955,-4947,-3739,-3732
+StonePlantMound,-5002,-4997,-3693,-3688
+ShrineSmallWater,-4864,-4856,-3678,-3670
+StonePlantMound,-5088,-5083,-3600,-3595

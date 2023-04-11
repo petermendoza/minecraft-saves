@@ -6,3 +6,5 @@ StonePlantMound4,-5616,-5609,-4995,-4988
 StonePlantMound2,-5522,-5510,-5069,-5056
 RLCraft_SmallTown,-5547,-5476,-5136,-5061
 BlazeSpawnerCrystal,-5383,-5377,-5016,-5010
+ShrineSmallAir,-5456,-5448,-4635,-4627
+StonePlantMound3,-5587,-5578,-4833,-4822

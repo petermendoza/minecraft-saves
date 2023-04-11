@@ -1,0 +1,8 @@
+ShrineSmallAir,-6699,-6691,-4842,-4834
+StonePlantMound1,-6773,-6767,-4703,-4697
+PeacefulCrypt,-6817,-6793,-4743,-4727
+ShrineSmallFire,-6835,-6825,-4750,-4740
+ShrineSmallFire,-6848,-6838,-4613,-4603
+StonePlantMound2,-6891,-6879,-4621,-4608
+StoneBoulder,-6673,-6664,-4880,-4871
+StonePlantMound4,-6709,-6702,-4905,-4898

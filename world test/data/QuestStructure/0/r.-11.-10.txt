@@ -32,3 +32,5 @@ RLCraft_DecentZombie,-5789,-5789,-5122,-5122
 RLCraft_UndergroundRuin3,-5791,-5783,-5125,-5117
 RLCraft_SmallUndergroundSkeleton,-5724,-5716,-5237,-5229
 SmallOutpost,-5720,-5690,-5216,-5194
+ClayWaterMound1,-5651,-5641,-5548,-5537
+StonePlantMound1,-5720,-5714,-5395,-5389

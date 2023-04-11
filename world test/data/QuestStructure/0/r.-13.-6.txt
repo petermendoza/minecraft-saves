@@ -1,0 +1,7 @@
+P_MayanTemple3,-7155,-7102,-3482,-3438
+RLCraft_SmallUndergroundSkeleton,-7069,-7061,-3405,-3397
+RLCraft_BasicSkeleton,-6826,-6826,-3332,-3332
+RLCraft_UndergroundRuin1,-6829,-6820,-3335,-3326
+ShrineSmallWater,-6936,-6928,-3304,-3296
+RLCraft_DecentCaveSpider,-6960,-6960,-3304,-3304
+RLCraft_UndergroundRuin2,-6965,-6955,-3306,-3299

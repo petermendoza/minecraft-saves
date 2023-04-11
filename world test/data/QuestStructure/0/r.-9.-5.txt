@@ -1,3 +1,9 @@
 P_DesertDungeon,-4663,-4611,-2745,-2692
 DinosaurSkeleton,-5008,-4999,-2598,-2552
 RLCraft_UndergroundFarm,-4802,-4760,-2686,-2643
+DesertHut,-5109,-5099,-2914,-2905
+RLCraft_BasicZombie,-4984,-4984,-2920,-2920
+RLCraft_UndergroundRuin1,-4990,-4981,-2923,-2914
+RLCraft_DecentSpider,-5041,-5041,-2850,-2850
+RLCraft_UndergroundRuin3,-5044,-5036,-2856,-2848
+RLCraft_SmallUndergroundSkeleton,-5020,-5012,-2809,-2801
