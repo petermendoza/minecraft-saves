@@ -31,3 +31,4 @@ StonePlantBoulder,-7670,-7660,-6666,-6656
 StonePlantMound2,-7368,-7356,-7118,-7105
 StonePlantMound4,-7677,-7670,-6792,-6785
 DinosaurSkull,-7679,-7660,-7122,-7111
+StoneBoulder,-7680,-7671,-7156,-7147
