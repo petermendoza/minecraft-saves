@@ -1,0 +1,3 @@
+StonePlantMound2,1837,1849,-6046,-6033
+StonePlantBoulder,1803,1813,-6093,-6083
+StonePlantMound,1836,1841,-6071,-6066

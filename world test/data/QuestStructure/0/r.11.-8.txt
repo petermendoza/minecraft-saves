@@ -1,0 +1,8 @@
+RLCraft_BasicSpider,5646,5646,-4537,-4537
+RLCraft_UndergroundRuin1,5643,5652,-4543,-4534
+RLCraft_BasicZombie,5641,5641,-4524,-4524
+RLCraft_UndergroundRuin1,5635,5644,-4530,-4521
+WoodWallRemains,5768,5776,-4496,-4468
+P_SkyCastle,5802,5843,-4611,-4570
+UndergroundTreeoid,5846,5872,-4600,-4577
+StoneLeafMound,5871,5878,-4520,-4511

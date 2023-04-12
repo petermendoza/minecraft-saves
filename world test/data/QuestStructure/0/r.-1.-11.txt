@@ -68,3 +68,5 @@ StoneIceBoulder3,-568,-558,-5811,-5801
 SmallWoodenCottage2,-837,-829,-5790,-5782
 RLCraft_BasicCaveSpider,-626,-626,-5789,-5789
 RLCraft_UndergroundRuin1,-632,-623,-5795,-5786
+RLCraft_BasicCaveSpider,-518,-518,-5687,-5687
+RLCraft_UndergroundRuin1,-521,-512,-5690,-5681

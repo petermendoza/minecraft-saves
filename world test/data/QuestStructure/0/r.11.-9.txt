@@ -9,3 +9,13 @@ VillageForgeLarge,5674,5690,-4771,-4759
 VillageLargeLibrary,5734,5754,-4773,-4754
 RLCraft_Vineyard,5638,5666,-4750,-4730
 RLCraft_SmallUndergroundSkeleton,5639,5647,-4755,-4747
+WoodWallRemains,5812,5820,-4704,-4676
+P_WitchDungeon,5827,5844,-4706,-4672
+RLCraft_SmallUndergroundSkeleton,5853,5861,-4918,-4910
+SmallWoodenCottage2,5920,5928,-4939,-4931
+BrickHenge,5940,5956,-4748,-4732
+DinosaurSkull,5943,5954,-4848,-4829
+ClayWaterMound1,5951,5962,-4623,-4613
+StoneBoulder,6016,6025,-4954,-4945
+StonePlantMound2,6136,6149,-4842,-4830
+StoneLeafMound,6087,6094,-5012,-5003

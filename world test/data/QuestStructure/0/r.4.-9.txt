@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,2517,2525,-5101,-5093
+ThreeTowers,2532,2564,-5091,-5060
+VillageForgeLarge,2294,2306,-4975,-4959
+VillageWoodMill,2297,2310,-4938,-4922
+P_VillageFarmhouse,2294,2306,-4921,-4909
+VillageGuardTower,2320,2332,-4938,-4926

@@ -1,2 +1,7 @@
 PeacefulCrypt,684,700,-5512,-5488
 StonePlantMound,827,832,-5466,-5461
+StonePlantMound4,533,540,-5536,-5529
+StonePlantMound3,578,589,-5549,-5540
+RLCraft_DecentSpider,638,638,-5380,-5380
+RLCraft_UndergroundRuin2,633,643,-5382,-5375
+ShrineSmallAir,1002,1010,-5412,-5404

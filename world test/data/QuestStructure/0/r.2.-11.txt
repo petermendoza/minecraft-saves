@@ -1,0 +1,5 @@
+DinosaurSkull,1191,1210,-5807,-5796
+StonePlantBoulder,1212,1222,-5863,-5853
+P_WitchDungeon,1251,1285,-5685,-5668
+MysticalTree2,1281,1291,-5979,-5969
+StonePlantMound2,1327,1339,-5643,-5630

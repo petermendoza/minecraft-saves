@@ -1,0 +1,3 @@
+ShrineSmallFire,3088,3098,-5146,-5136
+UndergroundTreeoid,3280,3306,-5182,-5159
+StonePlantBoulder,3574,3584,-5272,-5262

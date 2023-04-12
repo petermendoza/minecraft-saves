@@ -1,0 +1,15 @@
+StonePlantMound2,530,543,-5760,-5748
+StonePlantMound1,544,550,-5686,-5680
+StoneBoulder,656,665,-5900,-5891
+StonePlantMound2,710,722,-5971,-5958
+SmallWoodenCottage1,593,599,-5992,-5981
+StonePlantMound,654,659,-5986,-5981
+RLCraft_BasicWitch,980,980,-5809,-5809
+RLCraft_UndergroundRuin1,974,983,-5812,-5803
+P_IslandCity,797,1131,-5846,-5540
+StonePlantMound2,654,666,-6030,-6017
+ClayWaterMound,651,658,-6055,-6047
+StonePlantMound4,538,545,-6012,-6005
+StonePlantMound2,532,544,-5975,-5962
+StoneLeafMound,509,518,-5973,-5966
+StonePlantMound3,509,520,-6102,-6093

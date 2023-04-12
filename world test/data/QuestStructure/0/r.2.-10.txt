@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,1106,1106,-5606,-5606
+RLCraft_UndergroundRuin3,1100,1108,-5611,-5603
+P_LargeShip,1268,1328,-5429,-5411
+StoneLeafMound,1527,1534,-5360,-5351
+StonePlantMound3,1498,1509,-5346,-5337
+StonePlantBoulder,1506,1516,-5264,-5254
+StoneLeafMound,1469,1476,-5265,-5256

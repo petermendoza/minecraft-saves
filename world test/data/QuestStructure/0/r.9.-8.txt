@@ -1,0 +1,8 @@
+ShrineSmallAir,4621,4629,-4366,-4358
+StonePlantMound2,4660,4673,-4608,-4596
+RLCraft_BasicSkeleton,4710,4710,-4520,-4520
+RLCraft_UndergroundRuin1,4704,4713,-4526,-4517
+StonePlantMound3,4858,4869,-4512,-4503
+StonePlantMound3,4873,4882,-4529,-4518
+UndergroundCultChamber,4909,4941,-4498,-4456
+StoneBoulder,5032,5041,-4490,-4481

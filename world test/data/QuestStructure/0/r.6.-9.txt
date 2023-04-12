@@ -1,0 +1,6 @@
+ShrineSmallAir,3122,3130,-4978,-4970
+RLCraft_DecentSpider,3297,3297,-4937,-4937
+RLCraft_UndergroundRuin2,3292,3299,-4942,-4932
+ShrineSmallFire,3357,3367,-4873,-4863
+UndergroundCultChamber,3390,3432,-5101,-5069
+DinosaurSkull,3459,3478,-4932,-4921

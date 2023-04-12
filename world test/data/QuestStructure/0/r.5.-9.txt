@@ -1,0 +1,13 @@
+VillageMarketplace,2561,2575,-5114,-5100
+P_VillageFarmhouse,2581,2593,-5114,-5102
+P_VillageLibrary,2570,2589,-5077,-5061
+VillageLargeLibrary,2598,2617,-5109,-5089
+P_VillageHouse,2618,2629,-5114,-5105
+DesertWatchtower,2693,2703,-4946,-4936
+RLCraft_SmallUndergroundSkeleton,2712,2720,-5003,-4995
+RLCraft_LargeUndergroundTown,2816,2929,-5132,-4995
+BigClockworkSite,2894,2939,-4844,-4809
+P_SmallShip,2959,2965,-4960,-4940
+RLCraft_BasicCaveSpider,3052,3052,-4825,-4825
+RLCraft_UndergroundRuin1,3046,3055,-4828,-4819
+UndergroundCultChamber,2812,2854,-4695,-4663
