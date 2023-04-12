@@ -11,3 +11,14 @@ RLCraft_DecentSkeleton,-2329,-2329,-5340,-5340
 RLCraft_UndergroundRuin2,-2334,-2327,-5345,-5335
 BrickHenge,-2482,-2466,-5625,-5609
 StonePlantMound,-2328,-2323,-5435,-5430
+MonolythUnholy,-2245,-2231,-5137,-5123
+MysticalTree1,-2333,-2320,-5209,-5198
+StonePlantBoulder,-2120,-2110,-5133,-5123
+SmallOutpost,-2142,-2120,-5206,-5176
+StonePlantMound1,-2478,-2472,-5248,-5242
+StonePlantBoulder,-2513,-2503,-5246,-5236
+RLCraft_BasicWitch,-2309,-2309,-5371,-5371
+RLCraft_UndergroundRuin1,-2312,-2303,-5374,-5365
+StonePlantMound,-2545,-2540,-5150,-5145
+RLCraft_SwampHut,-2105,-2065,-5157,-5125
+SmallFortRuins,-2112,-2082,-5227,-5195

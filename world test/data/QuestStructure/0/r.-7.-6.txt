@@ -1,0 +1,17 @@
+SmallAbandonedMine,-3659,-3644,-3539,-3514
+StonePlantMound2,-3677,-3664,-3443,-3431
+StonePlantMound,-3687,-3682,-3417,-3412
+StonePlantBoulder,-3750,-3740,-3516,-3506
+StonePlantMound2,-3793,-3781,-3323,-3310
+StonePlantMound1,-3820,-3814,-3443,-3437
+StoneBoulder,-3827,-3818,-3431,-3422
+MeteorSite,-3838,-3808,-3415,-3400
+ClayWaterMound,-3841,-3833,-3275,-3268
+StonePlantMound2,-3831,-3819,-3247,-3234
+StonePlantMound3,-3881,-3870,-3203,-3194
+UndergroundCrypt,-3805,-3777,-3199,-3185
+ClayWaterMound,-3912,-3904,-3503,-3496
+StonePlantBoulder,-3928,-3918,-3316,-3306
+RLCraft_DecentSpider,-3959,-3959,-3233,-3233
+RLCraft_UndergroundRuin2,-3964,-3954,-3238,-3231
+StonePlantBoulder,-3997,-3987,-3298,-3288

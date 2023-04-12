@@ -6,3 +6,15 @@ RLCraft_Vineyard,-3997,-3977,-4046,-4018
 P_Village2Story,-3925,-3919,-4073,-4060
 P_VillageInn,-4021,-4010,-4032,-4023
 UndergroundCrypt,-3989,-3975,-3954,-3926
+StoneBoulder,-3610,-3601,-3979,-3970
+RLCraft_DecentCaveSpider,-3688,-3688,-4032,-4032
+RLCraft_UndergroundRuin3,-3691,-3683,-4034,-4026
+RLCraft_SmallUndergroundSkeleton,-3697,-3689,-3827,-3819
+RLCraft_DecentZombie,-3720,-3720,-4043,-4043
+RLCraft_UndergroundRuin3,-3722,-3714,-4048,-4040
+UndergroundTreeoid,-3752,-3729,-4045,-4019
+ShrineSmallAir,-3761,-3753,-4006,-3998
+RLCraft_UndergroundFarm,-3735,-3692,-3645,-3603
+ShrineSmallFire,-4074,-4064,-3866,-3856
+AbandonedWoodTower,-3800,-3770,-3793,-3757
+P_IslandCity,-4233,-3899,-3742,-3436

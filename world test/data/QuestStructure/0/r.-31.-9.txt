@@ -1,0 +1,11 @@
+StoneIceBoulder1,-15937,-15927,-5122,-5112
+StoneIceBoulder3,-16213,-16203,-5105,-5095
+PeacefulCrypt,-16245,-16229,-5111,-5087
+StonePlantMound2,-16248,-16236,-5017,-5004
+RLCraft_DecentCaveSpider,-16304,-16304,-5034,-5034
+RLCraft_UndergroundRuin2,-16309,-16299,-5039,-5032
+RLCraft_SmallUndergroundSkeleton,-16293,-16285,-5008,-5000
+DinosaurSkeleton,-16355,-16309,-5022,-5013
+DinosaurSkeleton,-16391,-16345,-5072,-5063
+RLCraft_BasicZombie,-16381,-16381,-5056,-5056
+RLCraft_UndergroundRuin1,-16387,-16378,-5062,-5053

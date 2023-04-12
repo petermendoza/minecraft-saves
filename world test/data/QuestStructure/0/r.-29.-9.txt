@@ -1,0 +1,3 @@
+StoneIceBoulder3,-14863,-14853,-5097,-5087
+RLCraft_SmallUndergroundSkeleton,-15136,-15128,-5066,-5058
+GiganticTree1,-15161,-15098,-5132,-5054

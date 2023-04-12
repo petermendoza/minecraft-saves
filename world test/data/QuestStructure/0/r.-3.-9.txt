@@ -1,0 +1,8 @@
+ShrineSmallFire,-2015,-2005,-5062,-5052
+ShrineSmallEarth,-2012,-2000,-5025,-5013
+BlazeSpawnerCrystal,-1939,-1933,-5118,-5112
+MysticalTree1,-1893,-1882,-5083,-5070
+ForestBeacon,-1888,-1880,-5097,-5089
+BrickHenge,-1873,-1857,-5110,-5094
+RLCraft_SmallUndergroundSkeleton,-1809,-1801,-5043,-5035
+SmallFortRuins,-1801,-1771,-5106,-5074

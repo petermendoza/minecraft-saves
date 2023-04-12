@@ -1,0 +1,6 @@
+StonePlantMound3,-12393,-12384,-5524,-5513
+StonePlantMound2,-12430,-12417,-5573,-5561
+StonePlantMound3,-12429,-12420,-5545,-5534
+RLCraft_BasicZombie,-12440,-12440,-5630,-5630
+RLCraft_UndergroundRuin1,-12446,-12437,-5633,-5624
+RLCraft_SmallUndergroundSkeleton,-12748,-12740,-5417,-5409

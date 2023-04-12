@@ -29,3 +29,4 @@ StonePlantMound3,-2755,-2746,-5379,-5368
 StonePlantMound1,-2780,-2774,-5501,-5495
 StonePlantBoulder,-2778,-2768,-5595,-5585
 StonePlantMound4,-2743,-2736,-5504,-5497
+StonePlantMound3,-2601,-2592,-5146,-5135

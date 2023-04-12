@@ -1,0 +1,4 @@
+StonePlantMound4,-14279,-14272,-5121,-5114
+RLCraft_DecentCaveSpider,-14285,-14285,-5111,-5111
+RLCraft_UndergroundRuin3,-14291,-14283,-5114,-5106
+StonePlantMound,-14246,-14241,-5088,-5083

@@ -259,3 +259,13 @@ WoodThorn,-3418,-3407,-4788,-4777
 WoodWallRemains,-3581,-3553,-4691,-4683
 StoneLeafMound,-3544,-3537,-4690,-4681
 StonePlantMound1,-3374,-3368,-4748,-4742
+StoneBoulder,-3338,-3329,-4703,-4694
+RLCraft_DecentCaveSpider,-3350,-3350,-4697,-4697
+RLCraft_UndergroundRuin3,-3352,-3344,-4700,-4692
+StonePlantMound3,-3288,-3279,-4700,-4689
+RLCraft_PlainsCampRuined,-3420,-3375,-4695,-4656
+StoneLeafMound,-3357,-3348,-4669,-4662
+StoneLeafMound,-3360,-3353,-4625,-4616
+RLCraft_DecentSkeleton,-3340,-3340,-4643,-4643
+RLCraft_UndergroundRuin2,-3345,-3335,-4648,-4641
+StonePlantMound3,-3407,-3396,-4644,-4635

@@ -1,0 +1,17 @@
+RLCraft_BasicWitch,-16936,-16936,-5154,-5154
+RLCraft_UndergroundRuin1,-16939,-16930,-5157,-5148
+StonePlantMound2,-16971,-16958,-5255,-5243
+StonePlantMound3,-16974,-16965,-5295,-5284
+StonePlantMound1,-16979,-16973,-5193,-5187
+StonePlantBoulder,-17057,-17047,-5138,-5128
+StoneLeafMound,-17068,-17061,-5133,-5124
+SmallWoodenCottage,-17128,-17120,-5281,-5270
+RLCraft_SmallUndergroundSkeleton,-17174,-17166,-5365,-5357
+BrickHenge,-17193,-17177,-5388,-5372
+RLCraft_DecentSkeleton,-17180,-17180,-5430,-5430
+RLCraft_UndergroundRuin2,-17182,-17175,-5435,-5425
+DinosaurSkeleton,-17205,-17196,-5224,-5178
+StonePlantMound1,-17227,-17221,-5248,-5242
+StonePlantMound4,-17321,-17314,-5132,-5125
+StoneLeafMound,-17341,-17332,-5126,-5119
+StonePlantMound1,-17354,-17348,-5336,-5330

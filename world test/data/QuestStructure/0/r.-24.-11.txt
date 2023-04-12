@@ -1,0 +1,12 @@
+BlazeSpawnerCrystal,-12305,-12299,-5756,-5750
+StonePlantMound3,-12381,-12370,-5726,-5717
+StoneMazeEndChest,-12291,-12289,-5852,-5850
+StoneMazePath,-12291,-12289,-5855,-5853
+StoneMazeEndChest,-12291,-12289,-5876,-5874
+StoneMazePath,-12291,-12289,-5873,-5871
+StoneMazePath,-12291,-12289,-5870,-5868
+StoneMazePath,-12291,-12289,-5879,-5877
+StonePlantMound1,-12433,-12427,-5684,-5678
+StonePlantMound2,-12459,-12446,-5663,-5651
+RLCraft_DecentCaveSpider,-12537,-12537,-5767,-5767
+RLCraft_UndergroundRuin3,-12540,-12532,-5773,-5765

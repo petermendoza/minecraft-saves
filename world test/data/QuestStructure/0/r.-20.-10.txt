@@ -1,0 +1,4 @@
+StoneLeafMound,-10610,-10603,-5635,-5626
+RLCraft_DecentZombie,-10529,-10529,-5592,-5592
+RLCraft_UndergroundRuin3,-10531,-10523,-5595,-5587
+RLCraft_SmallUndergroundSkeleton,-10596,-10588,-5557,-5549

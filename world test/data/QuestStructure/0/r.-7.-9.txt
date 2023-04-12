@@ -135,3 +135,7 @@ WoodWallRemains,-3749,-3741,-4811,-4783
 MysticalTree1,-3719,-3708,-4799,-4786
 RLCraft_SmallUndergroundSkeleton,-3735,-3727,-4795,-4787
 WoodWallRemains,-3791,-3763,-4721,-4713
+StonePlantMound2,-4014,-4002,-4871,-4858
+StonePlantBoulder,-4012,-4002,-4843,-4833
+StonePlantMound,-3817,-3812,-4721,-4716
+SmallWoodenCottage,-3697,-3686,-4635,-4627

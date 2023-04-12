@@ -1,2 +1,5 @@
 P_VillageInn,-4594,-4583,-2530,-2521
 VillageTriplets,-4591,-4577,-2499,-2485
+VillageSavannaStonemason,-4579,-4563,-2466,-2451
+RLCraft_DecentSpider,-4544,-4544,-2421,-2421
+RLCraft_UndergroundRuin3,-4549,-4541,-2423,-2415

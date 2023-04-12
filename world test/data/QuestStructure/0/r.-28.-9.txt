@@ -1,0 +1,9 @@
+StonePlantMound4,-14503,-14496,-5102,-5095
+StoneLeafMound,-14482,-14475,-5086,-5077
+StonePlantBoulder,-14590,-14580,-5124,-5114
+ClayWaterMound,-14636,-14629,-5077,-5069
+StoneIceBoulder,-14788,-14778,-5099,-5090
+RLCraft_BasicSkeleton,-14670,-14670,-5055,-5055
+RLCraft_UndergroundRuin1,-14673,-14664,-5061,-5052
+ClayWaterMound1,-14531,-14520,-5062,-5052
+StonePlantMound,-14491,-14486,-5058,-5053

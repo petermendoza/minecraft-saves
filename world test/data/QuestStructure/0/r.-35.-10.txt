@@ -1,0 +1,7 @@
+StonePlantBoulder,-17934,-17924,-5332,-5322
+RLCraft_SmallUndergroundSkeleton,-17952,-17944,-5226,-5218
+SmallWoodenCottage,-17974,-17963,-5252,-5244
+StonePlantBoulder,-17979,-17969,-5273,-5263
+RLCraft_SmallUndergroundSkeleton,-17991,-17983,-5240,-5232
+RLCraft_DecentSkeleton,-18097,-18097,-5205,-5205
+RLCraft_UndergroundRuin2,-18102,-18095,-5210,-5200

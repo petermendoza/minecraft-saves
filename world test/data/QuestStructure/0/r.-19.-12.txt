@@ -1,0 +1,13 @@
+StonePlantMound2,-9737,-9724,-6646,-6634
+StonePlantMound,-9747,-9742,-6186,-6181
+StonePlantMound3,-9834,-9823,-6161,-6152
+RLCraft_SmallTown,-9875,-9804,-6200,-6125
+ShrineSmallFire,-9735,-9725,-6322,-6312
+StoneLeafMound,-9900,-9891,-6198,-6191
+StoneBoulder,-9921,-9912,-6152,-6143
+StonePlantMound2,-9871,-9858,-6269,-6257
+StonePlantBoulder,-9881,-9871,-6222,-6212
+StonePlantMound,-9968,-9963,-6200,-6195
+RLCraft_SmallUndergroundSkeleton,-10102,-10094,-6167,-6159
+StonePlantMound4,-10167,-10160,-6175,-6168
+StonePlantMound4,-10236,-10229,-6153,-6146

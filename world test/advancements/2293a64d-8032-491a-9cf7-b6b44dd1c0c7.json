@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-04-08 18:00:21 -0500"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "armorunder:recipes/misc/warm_liner_material": {
+    "criteria": {
+      "has_heating_goo": "2023-04-11 21:35:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 01:29:31 -0500"
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2023-04-09 18:53:42 -0500"
@@ -297,7 +315,8 @@
     "criteria": {
       "forest_vilespine": "2023-04-11 01:06:36 -0500",
       "ice_plains_defiled": "2023-04-08 22:14:06 -0500",
-      "swamp_defiled": "2023-04-10 20:48:47 -0500"
+      "swamp_defiled": "2023-04-10 20:48:47 -0500",
+      "plains_defiled": "2023-04-11 22:10:41 -0500"
     },
     "done": false
   },
@@ -537,6 +556,7 @@
       "vindicator": "2023-04-08 21:41:41 -0500",
       "skeleton": "2023-04-08 14:25:40 -0500",
       "husk": "2023-04-08 21:28:08 -0500",
+      "blaze": "2023-04-11 19:14:58 -0500",
       "cave_spider": "2023-04-08 14:27:39 -0500",
       "zombie": "2023-04-08 14:10:14 -0500",
       "silverfish": "2023-04-10 20:57:05 -0500",
@@ -598,6 +618,18 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 01:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2023-04-11 19:15:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-11 19:02:07 -0500"
     },
     "done": true
   },
@@ -871,6 +903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2023-04-11 19:02:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 01:29:31 -0500"
@@ -988,6 +1026,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2023-04-08 01:27:25 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
     },
     "done": true
   },
@@ -1468,6 +1512,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2023-04-08 01:29:31 -0500"
@@ -1506,6 +1556,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-04-11 19:36:25 -0500",
       "cooked_beef": "2023-04-08 17:07:53 -0500",
       "chorus_fruit": "2023-04-10 01:44:30 -0500",
       "beef": "2023-04-08 14:17:53 -0500",
@@ -1651,6 +1702,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-08 19:07:42 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
     },
     "done": true
   },
@@ -1852,9 +1909,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-11 19:02:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2023-04-10 00:27:03 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/idol_sorrow": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
     },
     "done": true
   },
@@ -2260,6 +2329,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2023-04-08 14:11:22 -0500"
@@ -2440,6 +2515,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2023-04-11 18:36:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-04-11 19:02:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2023-04-08 14:14:36 -0500"
@@ -2467,6 +2554,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2023-04-08 14:13:39 -0500"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_warm_liners": {
+    "criteria": {
+      "has_warm_liner_material": "2023-04-11 21:35:44 -0500"
     },
     "done": true
   },

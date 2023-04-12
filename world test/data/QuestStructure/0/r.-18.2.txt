@@ -1,0 +1,8 @@
+RLCraft_BasicWitch,-9236,-9236,1323,1323
+RLCraft_UndergroundRuin1,-9239,-9230,1317,1326
+MeteorSite,-9300,-9285,1245,1275
+ShrineSmallFire,-9324,-9314,1268,1278
+P_WitchDungeon,-9312,-9295,1274,1308
+ShrineSmallFire,-9250,-9240,1361,1371
+RLCraft_DecentWitch,-9350,-9350,1283,1283
+RLCraft_UndergroundRuin2,-9355,-9345,1281,1288

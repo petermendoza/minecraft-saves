@@ -1,0 +1,7 @@
+RLCraft_DecentSpider,-4330,-4330,-1507,-1507
+RLCraft_UndergroundRuin3,-4333,-4325,-1513,-1505
+RLCraft_DecentCaveSpider,-4364,-4364,-1505,-1505
+RLCraft_UndergroundRuin2,-4366,-4359,-1510,-1500
+P_SmallShip,-4405,-4385,-1456,-1450
+RLCraft_BasicSpider,-4240,-4240,-1303,-1303
+RLCraft_UndergroundRuin1,-4243,-4234,-1309,-1300

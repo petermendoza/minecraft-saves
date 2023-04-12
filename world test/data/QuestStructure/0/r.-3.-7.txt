@@ -1,0 +1,8 @@
+UndergroundCultChamber,-1876,-1834,-3658,-3626
+P_RuinedHouse,-2031,-2006,-3619,-3602
+StoneBoulder,-1892,-1883,-3691,-3682
+StoneLeafMound,-2035,-2028,-3657,-3648
+BrickHenge,-2050,-2034,-3704,-3688
+BlazeSpawnerCrystal,-1840,-1834,-3714,-3708
+P_WizardTower,-1864,-1834,-3748,-3718
+ClayWaterMound1,-1896,-1885,-3745,-3735

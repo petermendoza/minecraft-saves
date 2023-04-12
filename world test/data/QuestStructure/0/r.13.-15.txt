@@ -1,0 +1,3 @@
+ShrineSmallFire,6660,6670,-8064,-8054
+RLCraft_cryo_bit,6683,6708,-7743,-7718
+FallenPalmTree,6694,6698,-7696,-7686

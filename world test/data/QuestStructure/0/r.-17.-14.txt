@@ -1,0 +1,10 @@
+StoneBoulder,-9209,-9200,-7585,-7576
+RLCraft_DecentWitch,-9106,-9106,-7536,-7536
+RLCraft_UndergroundRuin2,-9108,-9101,-7541,-7531
+StonePlantBoulder,-9124,-9114,-7466,-7456
+StonePlantMound2,-9032,-9020,-7446,-7433
+PeacefulCrypt,-9115,-9099,-7430,-7406
+StonePlantBoulder,-9048,-9038,-7433,-7423
+StoneBoulder,-9130,-9121,-7395,-7386
+RLCraft_DecentCaveSpider,-9107,-9107,-7322,-7322
+RLCraft_UndergroundRuin3,-9109,-9101,-7327,-7319

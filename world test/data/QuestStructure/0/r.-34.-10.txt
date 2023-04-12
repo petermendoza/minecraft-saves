@@ -1,0 +1,14 @@
+StoneBoulder,-17421,-17412,-5213,-5204
+RLCraft_SmallUndergroundSkeleton,-17452,-17444,-5194,-5186
+RLCraft_BasicSkeleton,-17476,-17476,-5203,-5203
+RLCraft_UndergroundRuin1,-17479,-17470,-5209,-5200
+StoneBoulder,-17516,-17507,-5254,-5245
+StonePlantBoulder,-17523,-17513,-5245,-5235
+PeacefulCrypt,-17553,-17529,-5241,-5225
+P_SwampHouse,-17575,-17533,-5288,-5258
+BigClockworkSite,-17618,-17573,-5196,-5161
+StonePlantMound2,-17635,-17623,-5377,-5364
+WoodWallRemains,-17692,-17684,-5367,-5339
+MeteorSite,-17776,-17761,-5260,-5230
+SpiderPit,-17674,-17665,-5399,-5389
+RLCraft_SmallUndergroundSkeleton,-17811,-17803,-5302,-5294

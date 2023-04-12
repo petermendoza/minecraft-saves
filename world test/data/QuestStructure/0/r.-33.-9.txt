@@ -1,0 +1,8 @@
+SmallWoodenCottage,-16955,-16944,-5109,-5101
+StonePlantBoulder,-16984,-16974,-5081,-5071
+StonePlantMound,-16985,-16980,-5064,-5059
+StoneLeafMound,-17035,-17026,-5047,-5040
+ShrineSmallAir,-17251,-17243,-5076,-5068
+RLCraft_SmallUndergroundSkeleton,-17302,-17294,-5121,-5113
+RLCraft_UndergroundFarm,-17383,-17341,-5119,-5076
+RLCraft_SmallUndergroundSkeleton,-17177,-17169,-5001,-4993

@@ -1,0 +1,17 @@
+StonePlantMound3,-12889,-12880,-5312,-5301
+RLCraft_BasicZombie,-12982,-12982,-5551,-5551
+RLCraft_UndergroundRuin1,-12985,-12976,-5557,-5548
+P_VillageFarmhouse,-13017,-13005,-5418,-5406
+VillageWoodMill,-13034,-13018,-5414,-5401
+RLCraft_DecentCaveSpider,-13033,-13033,-5415,-5415
+RLCraft_UndergroundRuin2,-13038,-13028,-5417,-5410
+RLCraft_SmallUndergroundSkeleton,-13067,-13059,-5479,-5471
+SeasonsGreenhouse,-13062,-13052,-5418,-5406
+VillageGuardTower,-13062,-13050,-5383,-5371
+P_VillageHouse,-13063,-13054,-5400,-5389
+ClayWaterMound1,-12940,-12930,-5284,-5273
+ShrineSmallFire,-13111,-13101,-5538,-5528
+StonePlantMound4,-13123,-13116,-5365,-5358
+ShrineSmallWater,-13123,-13115,-5291,-5283
+StonePlantBoulder,-12856,-12846,-5230,-5220
+ShrineSmallAir,-13276,-13268,-5601,-5593

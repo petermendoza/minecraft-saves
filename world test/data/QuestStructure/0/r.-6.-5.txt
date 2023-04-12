@@ -1,0 +1,11 @@
+RLCraft_UndergroundFarm,-3131,-3088,-3035,-2993
+P_CultIsland,-3240,-3070,-2985,-2775
+ThreeTowers,-3369,-3337,-3002,-2971
+RLCraft_Vineyard,-3390,-3362,-2967,-2947
+VillageMarketplace,-3386,-3372,-2992,-2978
+SeasonsGreenhouse,-3386,-3374,-3017,-3007
+VillageWoodMill,-3386,-3370,-3037,-3024
+P_VillageInn,-3408,-3397,-2967,-2958
+P_VillageFarmhouse,-3408,-3396,-3002,-2990
+P_Village2Story,-3408,-3402,-2989,-2976
+VillageGuardTower,-3443,-3431,-2967,-2955

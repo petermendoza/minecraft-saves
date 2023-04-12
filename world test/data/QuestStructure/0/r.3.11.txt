@@ -27,3 +27,5 @@ RLCraft_DecentSpider,1818,1818,5763,5763
 RLCraft_UndergroundRuin2,1813,1823,5761,5768
 StonePlantMound2,1843,1855,5741,5754
 BlazeSpawnerCrystal,1789,1795,5986,5992
+MysticalTree,1880,1896,5671,5686
+MysticalTree,1879,1894,5832,5848

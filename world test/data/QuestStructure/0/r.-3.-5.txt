@@ -1,0 +1,14 @@
+StoneMazePath,-2047,-2045,-3071,-3069
+StoneMazePath,-2047,-2045,-3068,-3066
+StoneMazePath,-2044,-2042,-3071,-3069
+StoneMazePath,-2041,-2039,-3071,-3069
+StoneMazeEndChest,-2044,-2042,-3068,-3066
+StoneMazeEndChest,-2047,-2045,-3065,-3063
+StoneMazePath,-2038,-2036,-3071,-3069
+StoneMazePath,-2038,-2036,-3068,-3066
+StoneMazePath,-2038,-2036,-3065,-3063
+StoneMazePath,-2041,-2039,-3065,-3063
+StoneMazePath,-2044,-2042,-3065,-3063
+RLCraft_SmallUndergroundSkeleton,-1910,-1902,-2922,-2914
+SmallOutpost,-1738,-1708,-2993,-2971
+P_WitchDungeon,-1648,-1631,-2940,-2906

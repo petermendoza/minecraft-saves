@@ -1,0 +1,8 @@
+RLCraft_BasicWitch,-3929,-3929,-1490,-1490
+RLCraft_UndergroundRuin1,-3935,-3926,-1496,-1487
+RLCraft_DesertTown,-4001,-3935,-1548,-1482
+RLCraft_DecentZombie,-4077,-4077,-1442,-1442
+RLCraft_UndergroundRuin2,-4082,-4072,-1444,-1437
+RLCraft_BasicZombie,-3811,-3811,-1319,-1319
+RLCraft_UndergroundRuin1,-3814,-3805,-1325,-1316
+ShrineSmallWater,-3714,-3706,-1452,-1444

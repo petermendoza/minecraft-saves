@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-11614,-11606,-5597,-5589
+RLCraft_DecentZombie,-11613,-11613,-5578,-5578
+RLCraft_UndergroundRuin2,-11618,-11611,-5583,-5573
+ShrineSmallFire,-11710,-11700,-5562,-5552
+StonePlantMound,-11735,-11730,-5491,-5486
+P_SkyCastle,-11794,-11753,-5496,-5455

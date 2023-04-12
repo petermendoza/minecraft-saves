@@ -1,0 +1,5 @@
+RLCraft_LargeUndergroundTown,-2608,-2495,-4204,-4067
+RLCraft_BasicZombie,-2056,-2056,-4212,-4212
+RLCraft_UndergroundRuin1,-2059,-2050,-4218,-4209
+ShrineSmallAir,-2264,-2256,-4342,-4334
+RLCraft_UndergroundFarm,-2418,-2376,-4470,-4427

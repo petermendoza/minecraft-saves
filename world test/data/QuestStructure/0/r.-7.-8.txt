@@ -8,3 +8,8 @@ SpiderPit,-4076,-4066,-4102,-4093
 RLCraft_SmallUndergroundSkeleton,-3838,-3830,-4384,-4376
 DinosaurSkeleton,-3880,-3871,-4377,-4331
 DinosaurSkull,-3836,-3817,-4167,-4156
+StonePlantBoulder,-3718,-3708,-4608,-4598
+PeacefulCrypt,-3826,-3802,-4556,-4540
+SpiderPit,-3810,-3800,-4526,-4517
+StoneBoulder,-3850,-3841,-4533,-4524
+StonePlantMound,-3695,-3690,-4426,-4421

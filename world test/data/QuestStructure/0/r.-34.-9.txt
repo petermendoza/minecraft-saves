@@ -1,0 +1,12 @@
+P_VillageFarmhouse,-17770,-17758,-4987,-4975
+RLCraft_BasicSkeleton,-17820,-17820,-5077,-5077
+RLCraft_UndergroundRuin1,-17826,-17817,-5080,-5071
+VillageWoodMill,-17792,-17779,-4970,-4954
+VillageLargeLibrary,-17770,-17751,-4965,-4945
+VillageForgeLarge,-17745,-17729,-4970,-4958
+P_WitchDungeon,-17717,-17700,-4999,-4965
+SeasonsGreenhouse,-17814,-17804,-4949,-4937
+P_Village2Story,-17778,-17772,-4947,-4934
+BlazeSpawnerCrystal,-17827,-17821,-4924,-4918
+VillageInn,-17778,-17751,-4928,-4908
+ClayWaterMound,-17715,-17707,-4925,-4918

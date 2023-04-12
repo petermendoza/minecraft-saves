@@ -1,0 +1,8 @@
+StoneLeafMound,-15152,-15145,-5736,-5727
+StonePlantBoulder,-15301,-15291,-5864,-5854
+RLCraft_PlainsCamp,-15242,-15196,-5725,-5686
+StonePlantBoulder,-15202,-15192,-5865,-5855
+StoneLeafMound,-15341,-15334,-5924,-5915
+RLCraft_SmallUndergroundSkeleton,-15017,-15009,-5637,-5629
+StonePlantMound1,-15190,-15184,-5774,-5768
+StonePlantMound3,-15183,-15174,-5854,-5843
