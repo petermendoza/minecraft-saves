@@ -22,3 +22,15 @@ RLCraft_UndergroundRuin1,-2312,-2303,-5374,-5365
 StonePlantMound,-2545,-2540,-5150,-5145
 RLCraft_SwampHut,-2105,-2065,-5157,-5125
 SmallFortRuins,-2112,-2082,-5227,-5195
+StonePlantBoulder,-2263,-2253,-5430,-5420
+StoneBoulder,-2274,-2265,-5444,-5435
+StonePlantMound4,-2243,-2236,-5495,-5488
+StonePlantMound4,-2221,-2214,-5494,-5487
+StonePlantMound4,-2247,-2240,-5544,-5537
+StonePlantMound2,-2228,-2215,-5546,-5534
+P_MayanTemple2,-2202,-2103,-5480,-5412
+ForestMazeTurn,-2093,-2085,-5632,-5624
+ForestMazeTurn,-2084,-2076,-5632,-5624
+ForestMazeTurn,-2066,-2058,-5632,-5624
+ForestMazeTurn,-2075,-2067,-5632,-5624
+ForestMazeEnd,-2102,-2094,-5632,-5624

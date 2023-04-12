@@ -1,0 +1,6 @@
+VillageSavannaKitchen,-18963,-18953,-4815,-4803
+ShrineSmallAir,-18966,-18958,-4975,-4967
+UndergroundTreeoid,-19018,-18995,-4839,-4813
+RLCraft_DecentCaveSpider,-19009,-19009,-4938,-4938
+RLCraft_UndergroundRuin3,-19015,-19007,-4941,-4933
+DinosaurSkull,-19049,-19030,-4995,-4984

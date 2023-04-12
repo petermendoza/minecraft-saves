@@ -7,3 +7,5 @@ RLCraft_UndergroundRuin1,-4253,-4244,-3267,-3258
 RLCraft_DecentSpider,-4453,-4453,-3255,-3255
 RLCraft_UndergroundRuin3,-4455,-4447,-3260,-3252
 ShrineSmallAir,-4361,-4353,-3537,-3529
+RLCraft_DecentSpider,-4402,-4402,-3484,-3484
+RLCraft_UndergroundRuin3,-4407,-4399,-3486,-3478

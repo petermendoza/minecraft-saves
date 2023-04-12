@@ -30,3 +30,8 @@ StonePlantMound1,-2780,-2774,-5501,-5495
 StonePlantBoulder,-2778,-2768,-5595,-5585
 StonePlantMound4,-2743,-2736,-5504,-5497
 StonePlantMound3,-2601,-2592,-5146,-5135
+RLCraft_DecentWitch,-2682,-2682,-5424,-5424
+RLCraft_UndergroundRuin2,-2684,-2677,-5429,-5419
+StoneLeafMound,-2684,-2675,-5207,-5200
+StoneLeafMound,-2667,-2660,-5295,-5286
+StoneLeafMound,-2660,-2651,-5286,-5279

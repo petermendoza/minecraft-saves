@@ -1,0 +1,6 @@
+StoneIceBoulder,-456,-447,-6026,-6016
+ElvenPond,-444,-414,-5893,-5864
+RLCraft_SmallUndergroundSkeleton,-382,-374,-6023,-6015
+DinosaurSkull,-364,-345,-6088,-6077
+StonePlantBoulder,-360,-350,-5963,-5953
+SmallAbandonedMine,-328,-313,-6001,-5976

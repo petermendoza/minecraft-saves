@@ -1,1 +1,4 @@
 BlazeSpawnerCrystal,-1421,-1415,-6184,-6178
+DinosaurSkull,-1290,-1279,-6180,-6161
+RLCraft_SmallUndergroundSkeleton,-1217,-1209,-6214,-6206
+AbandonedWoodTower,-1085,-1055,-6285,-6249

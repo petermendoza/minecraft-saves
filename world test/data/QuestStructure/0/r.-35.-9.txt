@@ -47,3 +47,7 @@ PyramidMazePath,-18281,-18279,-4888,-4886
 PyramidMazePath,-18290,-18288,-4903,-4901
 SmallPyramid,-18305,-18273,-4916,-4880
 ShrineSmallAir,-18184,-18176,-4882,-4874
+ShrineSmallAir,-18277,-18269,-4758,-4750
+RLCraft_BasicWitch,-18367,-18367,-4717,-4717
+RLCraft_UndergroundRuin1,-18370,-18361,-4720,-4711
+RLCraft_4Towers,-18201,-18141,-4732,-4680

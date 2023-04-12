@@ -1,0 +1,9 @@
+StoneIceBoulder1,-995,-985,-6193,-6183
+DinosaurSkull,-941,-930,-6173,-6154
+RLCraft_BasicCaveSpider,-865,-865,-6239,-6239
+RLCraft_UndergroundRuin1,-868,-859,-6245,-6236
+StonePlantMound,-835,-830,-6241,-6236
+StoneIceBoulder2,-838,-829,-6273,-6264
+RLCraft_SmallUndergroundSkeleton,-992,-984,-6297,-6289
+Tree_Oak_TheMushroomOak_v3,-790,-731,-6265,-6215
+StoneBoulder,-711,-702,-6215,-6206
