@@ -1,0 +1,12 @@
+StonePlantMound1,-9269,-9263,-9835,-9829
+P_VillageHouse,-9237,-9226,-9845,-9836
+P_VillageFarmhouse,-9233,-9221,-9882,-9870
+P_VillageLibrary,-9266,-9250,-9902,-9883
+StonePlantMound3,-9261,-9250,-9916,-9907
+StonePlantMound3,-9315,-9304,-9935,-9926
+StonePlantMound4,-9355,-9348,-9952,-9945
+RLCraft_DecentSkeleton,-9285,-9285,-10123,-10123
+RLCraft_UndergroundRuin2,-9287,-9280,-10128,-10118
+StonePlantMound2,-9285,-9272,-10205,-10193
+StonePlantMound2,-9269,-9257,-10233,-10220
+StonePlantMound4,-9228,-9221,-10225,-10218

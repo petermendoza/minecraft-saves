@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "forest_tenebra": "2023-04-12 19:57:12 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-12 00:19:21 -0500"
@@ -1565,6 +1571,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2023-04-12 00:51:53 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "forest_tenebra": "2023-04-12 19:57:12 -0500"
     },
     "done": true
   },

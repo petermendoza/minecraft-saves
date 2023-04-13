@@ -5,3 +5,7 @@ StoneIceBoulder1,-601,-591,-4143,-4133
 StoneIceBoulder3,-602,-592,-4130,-4120
 StoneIceBoulder1,-682,-672,-4238,-4228
 StoneIceBoulder3,-545,-535,-4198,-4188
+RLCraft_BasicWitch,-1011,-1011,-4471,-4471
+RLCraft_UndergroundRuin1,-1014,-1005,-4477,-4468
+PeacefulCrypt,-911,-895,-4579,-4555
+RLCraft_SmallUndergroundSkeleton,-868,-860,-4536,-4528

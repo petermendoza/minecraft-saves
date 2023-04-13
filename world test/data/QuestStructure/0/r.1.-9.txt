@@ -1,3 +1,12 @@
 IceThorn3,570,584,-5060,-5046
 SmallAbandonedMine,579,604,-4970,-4955
 IceThorn4,670,696,-4965,-4949
+P_SmallShip,841,861,-5040,-5034
+RLCraft_NetherPortal2_Felix,664,693,-4822,-4780
+RLCraft_SmallUndergroundSkeleton,574,582,-4864,-4856
+P_WitchDungeon,523,557,-4826,-4809
+RLCraft_BasicSpider,793,793,-4789,-4789
+RLCraft_UndergroundRuin1,790,799,-4795,-4786
+DinosaurSkull,769,780,-4705,-4686
+StoneIceBoulder1,732,742,-4683,-4673
+P_WizardTower,543,573,-4697,-4667

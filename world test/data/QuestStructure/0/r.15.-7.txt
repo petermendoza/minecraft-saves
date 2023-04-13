@@ -1,0 +1,11 @@
+SmallOutpost,7847,7869,-3621,-3591
+RLCraft_BasicSpider,7774,7774,-3660,-3660
+RLCraft_UndergroundRuin1,7771,7780,-3666,-3657
+StonePlantMound4,7717,7724,-3701,-3694
+StonePlantMound2,7709,7721,-3736,-3723
+StonePlantMound1,8158,8164,-3863,-3857
+StonePlantMound2,7834,7847,-3881,-3869
+RLCraft_DecentZombie,7928,7928,-3910,-3910
+RLCraft_UndergroundRuin3,7922,7930,-3915,-3907
+SmallOutpost,7935,7965,-3970,-3948
+RLCraft_SmallUndergroundSkeleton,7937,7945,-4005,-3997

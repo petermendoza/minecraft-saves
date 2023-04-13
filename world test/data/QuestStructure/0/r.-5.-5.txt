@@ -68,3 +68,4 @@ RLCraft_SmallUndergroundSkeleton,-2863,-2855,-2859,-2851
 MeteorSite,-2897,-2867,-2837,-2822
 RLCraft_SmallTown,-2993,-2922,-2997,-2922
 StonePlantMound4,-2909,-2902,-2809,-2802
+P_VillageFarmhouse,-3072,-3060,-2743,-2731

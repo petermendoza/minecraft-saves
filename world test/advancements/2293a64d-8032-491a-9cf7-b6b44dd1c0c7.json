@@ -332,6 +332,12 @@
     },
     "done": true
   },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "slime_defiled": "2023-04-12 19:20:11 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-08 19:07:42 -0500"
@@ -542,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-04-12 19:56:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2023-04-08 14:14:36 -0500"
@@ -563,6 +575,7 @@
       "skeleton": "2023-04-08 14:25:40 -0500",
       "husk": "2023-04-08 21:28:08 -0500",
       "blaze": "2023-04-11 19:14:58 -0500",
+      "evoker": "2023-04-12 18:06:36 -0500",
       "cave_spider": "2023-04-08 14:27:39 -0500",
       "zombie": "2023-04-08 14:10:14 -0500",
       "silverfish": "2023-04-10 20:57:05 -0500",
@@ -639,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-04-12 19:45:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-08 01:28:27 -0500"
@@ -702,6 +721,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-04-10 21:28:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-04-12 19:54:00 -0500"
     },
     "done": true
   },
@@ -1236,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-04-12 19:57:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2023-04-08 16:05:35 -0500"
@@ -1579,6 +1610,7 @@
       "mutton": "2023-04-08 22:08:34 -0500",
       "bread": "2023-04-08 01:28:40 -0500",
       "golden_apple": "2023-04-10 01:48:23 -0500",
+      "cookie": "2023-04-12 17:26:32 -0500",
       "beetroot": "2023-04-08 01:24:06 -0500",
       "cooked_chicken": "2023-04-10 19:11:43 -0500",
       "enchanted_golden_apple": "2023-04-12 12:49:41 -0500",
@@ -1763,6 +1795,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 01:29:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-04-12 20:05:02 -0500"
     },
     "done": true
   },
@@ -2144,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-04-12 19:57:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-04-08 01:25:40 -0500"
@@ -2408,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2023-04-12 20:03:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2023-04-08 17:47:25 -0500"
@@ -2474,6 +2524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2023-04-12 20:03:31 -0500"
+    },
+    "done": true
+  },
   "defiledlands:recipes/storage/scarlite_block_uncraft": {
     "criteria": {
       "has_material": "2023-04-10 15:51:26 -0500"
@@ -2483,6 +2539,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-08 17:50:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-04-12 19:54:00 -0500"
     },
     "done": true
   },

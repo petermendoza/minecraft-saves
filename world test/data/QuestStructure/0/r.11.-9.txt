@@ -19,3 +19,6 @@ ClayWaterMound1,5951,5962,-4623,-4613
 StoneBoulder,6016,6025,-4954,-4945
 StonePlantMound2,6136,6149,-4842,-4830
 StoneLeafMound,6087,6094,-5012,-5003
+StonePlantMound,5976,5981,-5100,-5095
+ShrineSmallEarth,6015,6027,-5120,-5108
+StonePlantMound4,5869,5876,-5075,-5068

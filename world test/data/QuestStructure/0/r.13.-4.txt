@@ -1,0 +1,15 @@
+RLCraft_DecentSpider,6979,6979,-2526,-2526
+RLCraft_UndergroundRuin2,6974,6984,-2528,-2521
+RLCraft_SmallUndergroundSkeleton,6847,6855,-2456,-2448
+DinosaurSkeleton,6989,6998,-2468,-2422
+PeacefulCrypt,6922,6946,-2444,-2428
+RLCraft_SmallUndergroundSkeleton,6814,6822,-2426,-2418
+StonePlantMound1,6864,6870,-2403,-2397
+StonePlantMound,7005,7010,-2380,-2375
+RLCraft_DecentZombie,7077,7077,-2313,-2313
+RLCraft_UndergroundRuin3,7074,7082,-2319,-2311
+RLCraft_SmallUndergroundSkeleton,7083,7091,-2298,-2290
+StonePlantMound,6699,6704,-2408,-2403
+StonePlantMound4,6694,6701,-2371,-2364
+RLCraft_SmallUndergroundSkeleton,6804,6812,-2332,-2324
+BrickHenge,7082,7098,-2083,-2067

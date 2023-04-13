@@ -1,0 +1,14 @@
+IceThorn1,-1006,-985,-4698,-4682
+StoneIceBoulder2,-1003,-994,-4676,-4667
+RLCraft_DecentWitch,-939,-939,-4638,-4638
+RLCraft_UndergroundRuin2,-944,-934,-4640,-4633
+RLCraft_DecentCaveSpider,-878,-878,-4666,-4666
+RLCraft_UndergroundRuin3,-884,-876,-4669,-4661
+RLCraft_DecentSkeleton,-804,-804,-4694,-4694
+RLCraft_UndergroundRuin3,-807,-799,-4700,-4692
+RLCraft_SmallUndergroundSkeleton,-699,-691,-4702,-4694
+SmallAbandonedMine,-636,-611,-4642,-4627
+RLCraft_BasicZombie,-893,-893,-4866,-4866
+RLCraft_UndergroundRuin1,-899,-890,-4869,-4860
+StoneIceBoulder1,-585,-575,-4665,-4655
+StoneIceBoulder1,-849,-839,-4887,-4877

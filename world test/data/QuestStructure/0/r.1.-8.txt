@@ -1,0 +1,6 @@
+RLCraft_AgentStarbuck_VikingHouse,680,715,-4598,-4549
+RLCraft_SmallUndergroundSkeleton,765,773,-4568,-4560
+RLCraft_DecentSkeleton,693,693,-4540,-4540
+RLCraft_UndergroundRuin3,691,699,-4545,-4537
+WoodWallRemains,760,768,-4545,-4517
+ShrineSmallFire,864,874,-4539,-4529

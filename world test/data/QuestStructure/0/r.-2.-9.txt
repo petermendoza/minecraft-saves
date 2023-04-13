@@ -1,0 +1,5 @@
+DinosaurSkeleton,-1382,-1336,-4626,-4617
+RLCraft_SmallUndergroundSkeleton,-1086,-1078,-4636,-4628
+RLCraft_DecentCaveSpider,-1032,-1032,-4701,-4701
+RLCraft_UndergroundRuin2,-1037,-1027,-4706,-4699
+StonePlantMound2,-1236,-1223,-4710,-4698

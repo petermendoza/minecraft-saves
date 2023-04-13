@@ -22,3 +22,11 @@ ForestBeacon,6203,6211,-3553,-3545
 StoneLeafMound,6176,6185,-3560,-3553
 StonePlantMound1,6187,6193,-3567,-3561
 DinosaurSkull,6256,6267,-3577,-3558
+StoneBoulder,6415,6424,-3141,-3132
+StonePlantMound4,6428,6435,-3206,-3199
+StonePlantBoulder,6591,6601,-3174,-3164
+RLCraft_BasicWitch,6619,6619,-3281,-3281
+RLCraft_UndergroundRuin1,6613,6622,-3287,-3278
+StonePlantMound,6565,6570,-3340,-3335
+StonePlantMound4,6580,6587,-3408,-3401
+StonePlantMound,6604,6609,-3416,-3411

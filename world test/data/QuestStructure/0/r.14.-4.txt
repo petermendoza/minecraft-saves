@@ -13,3 +13,14 @@ ElvenPond,7406,7436,-2350,-2321
 StonePlantMound3,7412,7421,-2561,-2550
 StonePlantMound,7413,7418,-2478,-2473
 StonePlantMound3,7367,7376,-2436,-2425
+ElvenPond,7264,7294,-2354,-2325
+StonePlantMound1,7294,7300,-2292,-2286
+RLCraft_SmallUndergroundSkeleton,7285,7293,-2273,-2265
+StonePlantBoulder,7320,7330,-2273,-2263
+StonePlantMound,7313,7318,-2198,-2193
+StonePlantMound3,7353,7364,-2396,-2387
+RLCraft_SmallUndergroundSkeleton,7349,7357,-2156,-2148
+StonePlantMound1,7379,7385,-2297,-2291
+StoneLeafMound,7369,7378,-2315,-2308
+RLCraft_DecentZombie,7377,7377,-2144,-2144
+RLCraft_UndergroundRuin2,7375,7382,-2149,-2139

@@ -6,3 +6,4 @@ ForestBeacon,-1888,-1880,-5097,-5089
 BrickHenge,-1873,-1857,-5110,-5094
 RLCraft_SmallUndergroundSkeleton,-1809,-1801,-5043,-5035
 SmallFortRuins,-1801,-1771,-5106,-5074
+ShrineSmallAir,-1679,-1671,-4692,-4684

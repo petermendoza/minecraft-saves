@@ -3,3 +3,17 @@ StonePlantMound3,6066,6075,-3023,-3012
 StonePlantMound2,6089,6101,-2982,-2969
 StonePlantMound1,6044,6050,-2992,-2986
 StoneLeafMound,6018,6025,-3044,-3035
+SmallFortRuins,5854,5884,-3047,-3015
+StonePlantMound,5940,5945,-2993,-2988
+ShrineSmallFire,5924,5934,-2894,-2884
+StonePlantMound4,6117,6124,-2908,-2901
+MysticalTree,5944,5960,-2899,-2884
+StoneBoulder,6104,6113,-2882,-2873
+ShrineSmallFire,6129,6139,-2856,-2846
+StonePlantMound,6026,6031,-2841,-2836
+StonePlantMound1,6019,6025,-2735,-2729
+ShrineSmallFire,5906,5916,-2780,-2770
+RLCraft_DecentSkeleton,5895,5895,-2887,-2887
+RLCraft_UndergroundRuin2,5890,5897,-2892,-2882
+SmallAbandonedMine,5828,5843,-2903,-2878
+P_WitchDungeon,5757,5791,-2931,-2914

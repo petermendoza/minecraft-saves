@@ -110,3 +110,13 @@ RLCraft_UndergroundRuin2,5400,5410,-4523,-4516
 RLCraft_BasicCaveSpider,5618,5618,-4515,-4515
 RLCraft_UndergroundRuin1,5615,5624,-4521,-4512
 StonePlantBoulder,5385,5395,-4388,-4378
+DinosaurSkeleton,5601,5647,-4133,-4124
+StonePlantBoulder,5607,5617,-4153,-4143
+BlazeSpawnerCrystal,5522,5528,-4178,-4172
+StoneLeafMound,5477,5486,-4146,-4139
+SmallWoodenCottage1,5412,5423,-4187,-4181
+RLCraft_SmallUndergroundSkeleton,5394,5402,-4114,-4106
+MysticalTree2,5386,5396,-4211,-4201
+StonePlantMound4,5373,5380,-4230,-4223
+P_Crater,5283,5359,-4138,-4055
+StonePlantMound2,5343,5356,-4168,-4156

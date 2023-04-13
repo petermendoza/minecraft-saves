@@ -1,3 +1,11 @@
 RLCraft_DecentSpider,-1929,-1929,-4219,-4219
 RLCraft_UndergroundRuin3,-1935,-1927,-4224,-4216
 P_WitchDungeon,-1839,-1822,-4390,-4356
+RLCraft_DecentSkeleton,-1699,-1699,-4564,-4564
+RLCraft_UndergroundRuin2,-1704,-1697,-4569,-4559
+StoneIceBoulder,-1663,-1653,-4308,-4299
+StoneIceBoulder3,-1653,-1643,-4312,-4302
+P_Tent,-1568,-1559,-4308,-4299
+RLCraft_DecentWitch,-1537,-1537,-4449,-4449
+RLCraft_UndergroundRuin3,-1542,-1534,-4455,-4447
+RLCraft_SmallUndergroundSkeleton,-1602,-1594,-4291,-4283

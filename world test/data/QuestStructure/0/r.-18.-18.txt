@@ -1,0 +1,14 @@
+StoneLeafMound,-9264,-9255,-9244,-9237
+StonePlantMound2,-9337,-9325,-9374,-9361
+StonePlantMound1,-9301,-9295,-9363,-9357
+StonePlantMound2,-9225,-9212,-9384,-9372
+AbandonedWoodTower,-9235,-9205,-9384,-9348
+StoneLeafMound,-9283,-9274,-9376,-9369
+StonePlantMound2,-9228,-9216,-9407,-9394
+StonePlantMound3,-9316,-9305,-9462,-9453
+RLCraft_DecentZombie,-9278,-9278,-9457,-9457
+RLCraft_UndergroundRuin2,-9283,-9273,-9459,-9452
+StoneLeafMound,-9233,-9226,-9466,-9457
+StoneBoulder,-9272,-9263,-9617,-9608
+StoneLeafMound,-9279,-9270,-9724,-9717
+StonePlantMound,-9331,-9326,-9703,-9698

@@ -1,0 +1,10 @@
+RLCraft_BasicSkeleton,-594,-594,-5182,-5182
+RLCraft_UndergroundRuin1,-600,-591,-5185,-5176
+StoneIceBoulder1,-523,-513,-5376,-5366
+StoneIceBoulder1,-573,-563,-5340,-5330
+StoneIceBoulder1,-567,-557,-5625,-5615
+StoneIceBoulder3,-600,-590,-5527,-5517
+StoneIceBoulder2,-648,-639,-5612,-5603
+ShrineSmallFire,-663,-653,-5602,-5592
+RLCraft_BasicSpider,-663,-663,-5555,-5555
+RLCraft_UndergroundRuin1,-666,-657,-5558,-5549

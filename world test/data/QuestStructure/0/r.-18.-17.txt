@@ -22,3 +22,6 @@ PeacefulCrypt,-9673,-9649,-8747,-8731
 StonePlantMound2,-9668,-9656,-8870,-8857
 StoneLeafMound,-9678,-9669,-8845,-8838
 ClayWaterMound1,-9729,-9718,-8715,-8705
+RLCraft_SmallUndergroundSkeleton,-9230,-9222,-9141,-9133
+StonePlantMound3,-9320,-9311,-9156,-9145
+RLCraft_SmallUndergroundSkeleton,-9337,-9329,-9148,-9140

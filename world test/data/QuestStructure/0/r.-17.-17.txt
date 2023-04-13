@@ -67,3 +67,5 @@ RLCraft_BasicWitch,-9199,-9199,-8901,-8901
 RLCraft_UndergroundRuin1,-9205,-9196,-8907,-8898
 P_IslandCity,-9267,-8933,-8935,-8629
 RLCraft_SmallUndergroundSkeleton,-9119,-9111,-9048,-9040
+StonePlantMound3,-9059,-9050,-9141,-9130
+P_TreeDungeon,-9174,-9129,-9223,-9181

@@ -1,0 +1,2 @@
+OldWatchtower,-89,-76,-6164,-6152
+StoneLeafMound,25,32,-6173,-6164

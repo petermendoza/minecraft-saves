@@ -17,3 +17,6 @@ RLCraft_SmallUndergroundSkeleton,6349,6357,-5070,-5062
 StonePlantMound3,6398,6409,-4699,-4690
 StonePlantBoulder,6428,6438,-4708,-4698
 StonePlantMound1,6437,6443,-4638,-4632
+RLCraft_DecentSpider,6168,6168,-5100,-5100
+RLCraft_UndergroundRuin3,6162,6170,-5103,-5095
+SmallOutpost,6405,6427,-5117,-5087

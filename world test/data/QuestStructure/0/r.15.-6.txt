@@ -1,0 +1,8 @@
+StonePlantMound1,7714,7720,-3136,-3130
+StonePlantMound3,7745,7756,-3229,-3220
+P_SmallShip,7757,7777,-3455,-3449
+StonePlantMound3,7761,7772,-3205,-3196
+SpiderPit,7823,7833,-3491,-3482
+ShrineSmallWater,8101,8109,-3502,-3494
+RLCraft_BasicSpider,8173,8173,-3509,-3509
+RLCraft_UndergroundRuin1,8170,8179,-3515,-3506

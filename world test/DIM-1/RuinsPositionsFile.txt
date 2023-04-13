@@ -18,6 +18,12 @@
 344 54 194 356 60 203 VanillaVillageEmptyHouse-r.tml
 415 71 -1126 425 77 -1118 VanillaVillageForge-r.tml
 447 30 145 457 41 155 DoomHouse.tml
+548 10 -583 557 16 -571 VanillaVillageEmptyHouse-r.tml
+572 89 -391 584 134 -379 TowerEasy.tml
+642 28 -489 651 35 -480 WoodHouse2_Ruined.tml
+658 29 -630 666 36 -622 LargeNetherHouse.tml
+667 110 -536 673 115 -531 VanillaVillageCobbleHouse-r.tml
+772 50 -485 784 59 -475 StoneHouseMruined.tml
 1139 50 1087 1149 65 1097 DoomTower.tml
 1146 69 892 1158 93 904 Tower-ruined-short.tml
 1235 34 894 1245 43 906 StoneHouseMruined.tml

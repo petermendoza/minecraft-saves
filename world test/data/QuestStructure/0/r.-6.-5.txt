@@ -9,3 +9,4 @@ P_VillageInn,-3408,-3397,-2967,-2958
 P_VillageFarmhouse,-3408,-3396,-3002,-2990
 P_Village2Story,-3408,-3402,-2989,-2976
 VillageGuardTower,-3443,-3431,-2967,-2955
+ShrineSmallWater,-3364,-3356,-2700,-2692
