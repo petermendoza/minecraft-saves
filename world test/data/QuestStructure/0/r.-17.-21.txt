@@ -24,3 +24,17 @@ StoneMazeShootingRange,-8707,-8702,-10872,-10864
 StoneMazePath,-8710,-8708,-10827,-10825
 StoneMazePath,-8710,-8708,-10866,-10864
 RLCraft_SmallTown,-8910,-8839,-10984,-10909
+RLCraft_BasicWitch,-9091,-9091,-11085,-11085
+RLCraft_UndergroundRuin1,-9097,-9088,-11088,-11079
+RLCraft_DecentCaveSpider,-8936,-8936,-11105,-11105
+RLCraft_UndergroundRuin2,-8941,-8931,-11107,-11100
+RLCraft_SmallUndergroundSkeleton,-8768,-8760,-11137,-11129
+RLCraft_DecentWitch,-8849,-8849,-11159,-11159
+RLCraft_UndergroundRuin3,-8851,-8843,-11164,-11156
+PeacefulCrypt,-8999,-8975,-11153,-11137
+StonePlantMound1,-8992,-8986,-11235,-11229
+RLCraft_BasicCaveSpider,-8828,-8828,-11250,-11250
+RLCraft_UndergroundRuin1,-8831,-8822,-11253,-11244
+ShrineSmallAir,-9080,-9072,-11206,-11198
+RLCraft_DecentWitch,-9107,-9107,-11112,-11112
+RLCraft_UndergroundRuin3,-9109,-9101,-11117,-11109

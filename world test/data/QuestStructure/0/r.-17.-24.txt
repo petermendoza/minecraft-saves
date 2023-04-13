@@ -1,0 +1,4 @@
+RLCraft_BasicWitch,-8813,-8813,-12289,-12289
+StonePlantMound,-9080,-9075,-12302,-12297
+RLCraft_DecentSkeleton,-8943,-8943,-12515,-12515
+RLCraft_UndergroundRuin3,-8948,-8940,-12521,-12513
