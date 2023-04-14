@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,-11233,-11233,-21683,-21683
+RLCraft_UndergroundRuin2,-11238,-11228,-21685,-21678
+StonePlantMound,-11100,-11095,-21714,-21709
+ShrineSmallAir,-11141,-11133,-21997,-21989

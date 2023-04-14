@@ -1,0 +1,16 @@
+StoneIceBoulder,-10438,-10429,-15884,-15874
+StoneIceBoulder1,-10682,-10672,-15902,-15892
+StoneIceBoulder,-10728,-10718,-15922,-15913
+P_Tent,-10702,-10693,-15959,-15950
+StoneIceBoulder2,-10688,-10679,-16009,-16000
+RLCraft_SmallUndergroundSkeleton,-10533,-10525,-16061,-16053
+SmallWoodenCottage,-10541,-10533,-16069,-16058
+RLCraft_BasicCaveSpider,-10589,-10589,-16098,-16098
+RLCraft_UndergroundRuin1,-10592,-10583,-16101,-16092
+BrickHenge,-10685,-10669,-16144,-16128
+AbandonedWoodTower,-10743,-10713,-16150,-16114
+P_WitchDungeon,-10560,-10526,-16175,-16158
+DinosaurSkeleton,-10654,-10645,-16256,-16210
+RLCraft_DecentSkeleton,-10611,-10611,-16290,-16290
+RLCraft_UndergroundRuin2,-10616,-10606,-16295,-16288
+RLCraft_SmallUndergroundSkeleton,-10546,-10538,-16375,-16367

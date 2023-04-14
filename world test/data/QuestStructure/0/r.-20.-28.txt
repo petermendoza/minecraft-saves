@@ -1,0 +1,8 @@
+RLCraft_BasicSpider,-10377,-10377,-14352,-14352
+RLCraft_UndergroundRuin1,-10380,-10371,-14358,-14349
+UndergroundCrypt,-10387,-10359,-14433,-14419
+UndergroundCrypt,-10345,-10317,-14737,-14723
+StoneIceBoulder2,-10307,-10298,-14826,-14817
+StoneIceBoulder1,-10247,-10237,-14818,-14808
+RLCraft_DecentSkeleton,-10645,-10645,-14776,-14776
+RLCraft_UndergroundRuin3,-10647,-10639,-14779,-14771

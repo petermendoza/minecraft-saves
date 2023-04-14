@@ -1,0 +1,7 @@
+DinosaurSkeleton,-11419,-11410,-17943,-17897
+RLCraft_PlainsCamp,-11294,-11248,-17946,-17907
+DesertBeacon,-11330,-11324,-17935,-17929
+ShrineSmallFire,-11379,-11369,-17944,-17934
+RLCraft_DecentCaveSpider,-11300,-11300,-18164,-18164
+RLCraft_UndergroundRuin3,-11303,-11295,-18170,-18162
+RLCraft_SmallUndergroundSkeleton,-11285,-11277,-18185,-18177

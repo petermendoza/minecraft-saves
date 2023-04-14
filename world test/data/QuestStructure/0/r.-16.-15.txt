@@ -1,0 +1,7 @@
+P_SmallShip,-8338,-8332,-7921,-7901
+StonePlantMound1,-8357,-8351,-7947,-7941
+P_SmallShip,-8224,-8204,-8079,-8073
+StoneBoulder,-8445,-8436,-7951,-7942
+ShrineSmallAir,-8555,-8547,-8051,-8043
+RLCraft_BasicWitch,-8678,-8678,-8103,-8103
+RLCraft_UndergroundRuin1,-8681,-8672,-8106,-8097

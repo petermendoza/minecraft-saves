@@ -1,0 +1,7 @@
+PeacefulCrypt,-10560,-10544,-16402,-16378
+StoneIceBoulder3,-10657,-10647,-16442,-16432
+StoneIceBoulder,-10702,-10693,-16573,-16563
+StoneIceBoulder1,-10684,-10674,-16613,-16603
+StoneIceBoulder,-10667,-10657,-16637,-16628
+RLCraft_SmallUndergroundSkeleton,-10600,-10592,-16654,-16646
+SmallAbandonedMine,-10697,-10682,-16732,-16707

@@ -1,0 +1,7 @@
+RLCraft_BasicWitch,-10760,-10760,-15612,-15612
+RLCraft_UndergroundRuin1,-10766,-10757,-15618,-15609
+SmallWoodenCottage,-10789,-10778,-15479,-15471
+StoneIceBoulder3,-10814,-10804,-15484,-15474
+RLCraft_BasicCaveSpider,-10784,-10784,-15820,-15820
+RLCraft_UndergroundRuin1,-10787,-10778,-15826,-15817
+StoneIceBoulder3,-10852,-10842,-15636,-15626

@@ -1,0 +1,3 @@
+StoneBoulder,-11460,-11451,-23607,-23598
+UndergroundCultChamber,-11558,-11526,-23618,-23576
+StonePlantMound2,-11595,-11583,-23583,-23570

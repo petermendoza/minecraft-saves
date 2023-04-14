@@ -1,0 +1,10 @@
+StonePlantMound1,-11430,-11424,-21087,-21081
+ShrineSmallAir,-11544,-11536,-21127,-21119
+StoneBoulder,-11504,-11495,-21138,-21129
+ShrineSmallWater,-11418,-11410,-21156,-21148
+StonePlantBoulder,-11524,-11514,-21174,-21164
+StonePlantMound,-11465,-11460,-21183,-21178
+RLCraft_DecentCaveSpider,-11433,-11433,-21237,-21237
+RLCraft_UndergroundRuin2,-11435,-11428,-21242,-21232
+StonePlantMound3,-11505,-11496,-21300,-21289
+BlazeSpawnerCrystal,-11370,-11364,-21444,-21438

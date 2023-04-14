@@ -1,0 +1,12 @@
+StonePlantMound1,-11213,-11207,-22560,-22554
+StonePlantMound,-11151,-11146,-22668,-22663
+Tree_Oak_TheMushroomOak_v3,-11194,-11144,-22765,-22706
+RLCraft_SmallUndergroundSkeleton,-11204,-11196,-22827,-22819
+StonePlantMound3,-11151,-11140,-22818,-22809
+StonePlantMound,-11149,-11144,-22871,-22866
+ClayWaterMound,-11162,-11155,-22884,-22876
+PeacefulCrypt,-11171,-11155,-22893,-22869
+StonePlantMound3,-11230,-11221,-22966,-22955
+StonePlantMound3,-11173,-11164,-22964,-22953
+StonePlantMound2,-11253,-11240,-22999,-22987
+StonePlantBoulder,-11165,-11155,-23023,-23013

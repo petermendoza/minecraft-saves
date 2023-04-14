@@ -1,0 +1,13 @@
+DinosaurSkeleton,-11259,-11250,-19481,-19435
+StonePlantMound,-11077,-11072,-19481,-19476
+DinosaurSkeleton,-11148,-11102,-19538,-19529
+DinosaurSkeleton,-11076,-11030,-19544,-19535
+ClayWaterMound,-10939,-10931,-19644,-19637
+RLCraft_SwampHut,-10990,-10958,-19683,-19643
+StoneLeafMound,-11094,-11087,-19694,-19685
+StonePlantMound3,-11034,-11023,-19712,-19703
+SmallOutpost,-11105,-11075,-19758,-19736
+RLCraft_PhilbosaurusRex,-11247,-11173,-19762,-19729
+BlazeSpawnerCrystal,-11095,-11089,-19869,-19863
+StonePlantMound4,-11238,-11231,-19928,-19921
+DinosaurSkeleton,-10895,-10886,-19957,-19911

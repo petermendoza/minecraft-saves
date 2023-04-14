@@ -1,2 +1,15 @@
 RLCraft_Airtes,-8001,-7986,-7256,-7241
 StoneLeafMound,-8162,-8155,-7407,-7398
+RLCraft_BasicZombie,-7833,-7833,-7212,-7212
+RLCraft_UndergroundRuin1,-7839,-7830,-7218,-7209
+RLCraft_SmallUndergroundSkeleton,-7727,-7719,-7243,-7235
+SpiderPit,-7851,-7842,-7346,-7336
+StonePlantMound,-7761,-7756,-7389,-7384
+StonePlantMound4,-7750,-7743,-7396,-7389
+RLCraft_DecentWitch,-7723,-7723,-7409,-7409
+RLCraft_UndergroundRuin2,-7728,-7721,-7414,-7404
+StonePlantMound3,-7731,-7720,-7457,-7448
+P_CultIsland,-8072,-7862,-7582,-7412
+UndergroundCrypt,-7964,-7950,-7624,-7596
+StoneBoulder,-8153,-8144,-7461,-7452
+StonePlantMound1,-8187,-8181,-7526,-7520

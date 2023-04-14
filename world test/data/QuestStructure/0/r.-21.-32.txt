@@ -1,0 +1,7 @@
+StoneIceBoulder2,-10791,-10782,-16827,-16818
+RLCraft_SmallUndergroundSkeleton,-10762,-10754,-16861,-16853
+RLCraft_BasicZombie,-11007,-11007,-16851,-16851
+RLCraft_UndergroundRuin1,-11010,-11001,-16854,-16845
+RLCraft_DecentZombie,-11105,-11105,-16880,-16880
+RLCraft_UndergroundRuin2,-11110,-11103,-16885,-16875
+WoodWallRemains,-11158,-11130,-16897,-16889

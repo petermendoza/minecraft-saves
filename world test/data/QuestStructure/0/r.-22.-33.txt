@@ -1,0 +1,9 @@
+VillageSavannaLibrary,-11274,-11264,-17034,-17023
+SeasonsGreenhouse,-11294,-11282,-17065,-17055
+VillageWoodMill,-11296,-11283,-17034,-17018
+RLCraft_SmallUndergroundSkeleton,-11307,-11299,-17356,-17348
+RLCraft_SmallUndergroundSkeleton,-11349,-11341,-17328,-17320
+BlazeSpawnerCrystal,-11379,-11373,-17187,-17181
+RLCraft_BasicZombie,-11388,-11388,-17097,-17097
+RLCraft_UndergroundRuin1,-11391,-11382,-17100,-17091
+RLCraft_PlainsCampRuined,-11423,-11384,-17238,-17193

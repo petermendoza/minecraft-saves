@@ -131,3 +131,5 @@ UndergroundCultChamber,-3061,-3019,-3735,-3703
 StonePlantMound3,-2949,-2940,-3646,-3635
 StonePlantMound,-2975,-2970,-3675,-3670
 StonePlantMound1,-2905,-2899,-3603,-3597
+RLCraft_SmallUndergroundSkeleton,-2927,-2919,-3705,-3697
+P_SmallShip,-2866,-2860,-3809,-3789

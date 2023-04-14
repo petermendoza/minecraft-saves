@@ -1,0 +1,11 @@
+DinosaurSkeleton,-10310,-10264,-12993,-12984
+DinosaurSkeleton,-10295,-10286,-12849,-12803
+RLCraft_SmallUndergroundSkeleton,-10327,-10319,-13084,-13076
+RLCraft_SmallUndergroundSkeleton,-10296,-10288,-13094,-13086
+RLCraft_SmallUndergroundSkeleton,-10343,-10335,-12899,-12891
+RLCraft_DecentSpider,-10349,-10349,-13158,-13158
+RLCraft_UndergroundRuin3,-10351,-10343,-13163,-13155
+SmallAbandonedMine,-10433,-10418,-13250,-13225
+RLCraft_BasicCaveSpider,-10326,-10326,-13301,-13301
+RLCraft_UndergroundRuin1,-10332,-10323,-13307,-13298
+StoneIceBoulder,-10615,-10605,-13269,-13260

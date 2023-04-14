@@ -32,3 +32,4 @@ StonePlantMound2,-6211,-6199,-6458,-6445
 StonePlantBoulder,-6455,-6445,-6248,-6238
 StonePlantMound,-6334,-6329,-6250,-6245
 StonePlantMound,-6294,-6289,-6209,-6204
+StonePlantMound3,-6567,-6556,-6274,-6265

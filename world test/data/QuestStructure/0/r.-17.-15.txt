@@ -31,3 +31,6 @@ StonePlantMound,-9164,-9159,-7875,-7870
 StonePlantMound,-9114,-9109,-7974,-7969
 P_SmallShip,-9107,-9087,-7705,-7699
 ShrineSmallFire,-9082,-9072,-7703,-7693
+RLCraft_BasicSpider,-8877,-8877,-8073,-8073
+RLCraft_UndergroundRuin1,-8880,-8871,-8079,-8070
+P_SmallShip,-8936,-8930,-8120,-8100

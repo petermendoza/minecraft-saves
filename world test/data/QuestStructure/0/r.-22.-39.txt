@@ -1,0 +1,13 @@
+StonePlantMound2,-11301,-11289,-19981,-19968
+StonePlantMound3,-11337,-11328,-19986,-19975
+StoneLeafMound,-11294,-11285,-20011,-20004
+ClayWaterMound,-11295,-11287,-20038,-20031
+DinosaurSkull,-11270,-11259,-20336,-20317
+PeacefulCrypt,-11380,-11356,-20205,-20189
+StonePlantMound,-11364,-11359,-20114,-20109
+WoodWallRemains,-11442,-11414,-20289,-20281
+StonePlantMound3,-11426,-11417,-20050,-20039
+RLCraft_BasicSpider,-11394,-11394,-20457,-20457
+RLCraft_UndergroundRuin1,-11397,-11388,-20463,-20454
+BrickHenge,-11489,-11473,-20345,-20329
+RLCraft_SmallUndergroundSkeleton,-11523,-11515,-20382,-20374

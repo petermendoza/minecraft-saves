@@ -1,0 +1,11 @@
+P_SkyCastle,-11470,-11429,-20508,-20467
+RLCraft_SmallUndergroundSkeleton,-11310,-11302,-20488,-20480
+BrickHenge,-11547,-11531,-20670,-20654
+RLCraft_BasicZombie,-11576,-11576,-20509,-20509
+RLCraft_UndergroundRuin1,-11579,-11570,-20512,-20503
+RLCraft_DecentWitch,-11629,-11629,-20567,-20567
+RLCraft_UndergroundRuin3,-11635,-11627,-20570,-20562
+WoodWallRemains,-11486,-11458,-20708,-20700
+WoodThornBig,-11530,-11517,-20721,-20708
+RLCraft_DecentZombie,-11286,-11286,-20971,-20971
+RLCraft_UndergroundRuin2,-11291,-11281,-20973,-20966

@@ -211,3 +211,8 @@ PyramidMazePath,-8660,-8658,-8452,-8450
 PyramidMazePath,-8660,-8658,-8449,-8447
 PyramidMazePath,-8690,-8688,-8419,-8417
 PyramidMazePagoda,-8690,-8643,-8455,-8408
+ShrineSmallFire,-8613,-8603,-8239,-8229
+RLCraft_UndergroundFarm,-8519,-8476,-8505,-8463
+StoneBoulder,-8408,-8399,-8593,-8584
+ShrineSmallFire,-8392,-8382,-8598,-8588
+StonePlantMound4,-8398,-8391,-8618,-8611

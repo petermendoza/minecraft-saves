@@ -1,0 +1,4 @@
+ShrineSmallAir,-9409,-9401,-12900,-12892
+IceThorn1,-9631,-9615,-12945,-12924
+DinosaurSkeleton,-9588,-9579,-12975,-12929
+StoneIceBoulder1,-9549,-9539,-12959,-12949

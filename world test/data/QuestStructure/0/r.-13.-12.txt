@@ -31,3 +31,11 @@ UndergroundTreeoid,-7139,-7113,-6652,-6629
 ShrineSmallAir,-7117,-7109,-6574,-6566
 StoneLeafMound,-7140,-7133,-6594,-6585
 StonePlantMound1,-7148,-7142,-6505,-6499
+StonePlantBoulder,-7072,-7062,-6228,-6218
+StonePlantBoulder,-7081,-7071,-6215,-6205
+AbandonedWoodTower,-7107,-7077,-6251,-6215
+ClayWaterMound1,-7122,-7111,-6184,-6174
+StonePlantMound4,-7148,-7141,-6280,-6273
+StonePlantMound1,-7142,-7136,-6230,-6224
+RLCraft_SmallUndergroundSkeleton,-7151,-7143,-6327,-6319
+StonePlantMound2,-7165,-7153,-6221,-6208

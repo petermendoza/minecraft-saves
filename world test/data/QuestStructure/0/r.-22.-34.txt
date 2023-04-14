@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,-11433,-11425,-17446,-17438
+StonePlantMound4,-11346,-11339,-17672,-17665
+StonePlantBoulder,-11302,-11292,-17688,-17678
+BlazeSpawnerCrystal,-11289,-11283,-17697,-17691
+RLCraft_DecentZombie,-11302,-11302,-17738,-17738
+RLCraft_UndergroundRuin2,-11304,-11297,-17743,-17733
+SmallAbandonedMine,-11295,-11280,-17775,-17750
+StonePlantBoulder,-11272,-11262,-17759,-17749
+StonePlantMound3,-11380,-11371,-17783,-17772
+StoneLeafMound,-11313,-11304,-17788,-17781
+AbandonedWoodTower,-11445,-11415,-17807,-17771
+StonePlantMound,-11352,-11347,-17789,-17784
+ClayWaterMound,-11271,-11263,-17868,-17861

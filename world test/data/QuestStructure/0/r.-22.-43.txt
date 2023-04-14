@@ -1,0 +1,9 @@
+ShrineSmallWater,-11344,-11336,-22038,-22030
+RLCraft_SmallUndergroundSkeleton,-11403,-11395,-22265,-22257
+RLCraft_BasicZombie,-11535,-11535,-22288,-22288
+RLCraft_UndergroundRuin1,-11538,-11529,-22294,-22285
+RLCraft_SmallUndergroundSkeleton,-11338,-11330,-22317,-22309
+StoneBoulder,-11290,-11281,-22395,-22386
+StonePlantBoulder,-11409,-11399,-22399,-22389
+StonePlantMound,-11281,-11276,-22401,-22396
+StonePlantMound2,-11354,-11341,-22512,-22500

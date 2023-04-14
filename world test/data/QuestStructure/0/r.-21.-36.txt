@@ -1,0 +1,5 @@
+StonePlantMound1,-11145,-11139,-18435,-18429
+StoneLeafMound,-11222,-11213,-18480,-18473
+P_PlainsCity,-11293,-11111,-18563,-18357
+ShrineSmallWater,-10976,-10968,-18807,-18799
+RLCraft_UndergroundFarm,-10950,-10907,-18892,-18850

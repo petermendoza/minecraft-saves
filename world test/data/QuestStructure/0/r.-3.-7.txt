@@ -6,3 +6,5 @@ BrickHenge,-2050,-2034,-3704,-3688
 BlazeSpawnerCrystal,-1840,-1834,-3714,-3708
 P_WizardTower,-1864,-1834,-3748,-3718
 ClayWaterMound1,-1896,-1885,-3745,-3735
+RLCraft_DecentSpider,-1860,-1860,-4069,-4069
+RLCraft_UndergroundRuin2,-1865,-1855,-4074,-4067
