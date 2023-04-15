@@ -1,0 +1,4 @@
+RLCraft_End_Obsidian_Spike_3,1652,1678,1041,1057
+RLCraft_End_Saucer,1616,1630,1147,1161
+RLCraft_End_Decoration_2,1649,1659,1166,1176
+RLCraft_End_Decoration_1,1550,1560,1262,1272

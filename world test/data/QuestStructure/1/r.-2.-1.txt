@@ -1,0 +1,5 @@
+RLCraft_End_Lantern,-1122,-1115,-860,-853
+RLCraft_End_Decoration_2,-1111,-1101,-770,-760
+RLCraft_End_Floating_Crystal,-1195,-1181,-603,-589
+RLCraft_End_Decoration_2,-1372,-1362,-808,-798
+RLCraft_End_Decoration_2,-1509,-1499,-807,-797

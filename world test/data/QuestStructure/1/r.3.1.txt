@@ -1,0 +1,3 @@
+RLCraft_End_Floating_Crystal,1676,1690,747,761
+RLCraft_End_Decoration_2,1817,1827,719,729
+RLCraft_End_Floating_Crystal,1988,2002,655,669

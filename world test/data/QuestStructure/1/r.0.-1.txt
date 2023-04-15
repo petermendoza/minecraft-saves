@@ -1,0 +1,3 @@
+RLCraft_End_Obsidian_Spike_1,-507,-481,-962,-949
+RLCraft_End_Ship_Split_Front,-17,7,-890,-875
+RLCraft_End_Snake_Skeleton,-5,5,-848,-783

@@ -1,0 +1,9 @@
+RLCraft_End_Obsidian_Spike_1,1049,1075,695,708
+RLCraft_End_Decoration_1,1067,1077,526,536
+RLCraft_End_Decoration_2,1060,1070,790,800
+RLCraft_End_Decoration_1,1098,1108,726,736
+RLCraft_End_Snake_Skeleton,1207,1217,788,853
+RLCraft_End_Ruins_Small,1224,1234,648,657
+RLCraft_End_Spiral_Portal_Tower,1218,1248,789,819
+RLCraft_End_Obsidian_Spike_4,1281,1293,690,705
+RLCraft_End_Obsidian_Spike_3,1508,1534,945,961

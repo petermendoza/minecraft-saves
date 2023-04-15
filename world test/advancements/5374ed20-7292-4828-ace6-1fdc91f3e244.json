@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2023-04-14 14:59:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-04-08 07:12:52 -0500"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2023-04-08 15:43:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-04-14 14:59:59 -0500"
     },
     "done": true
   },
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-04-14 13:25:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-04-08 01:55:26 -0500"
@@ -176,6 +194,12 @@
   "defiledlands:recipes/armor/scale_chestplate": {
     "criteria": {
       "has_material": "2023-04-09 19:11:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-04-14 13:44:26 -0500"
     },
     "done": true
   },
@@ -398,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2023-04-14 14:59:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2023-04-08 07:15:44 -0500"
@@ -419,6 +449,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2023-04-08 08:09:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2023-04-14 15:00:58 -0500"
     },
     "done": true
   },
@@ -495,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2023-04-14 13:29:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2023-04-08 01:16:40 -0500"
@@ -504,6 +546,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 07:28:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-04-14 14:12:16 -0500"
     },
     "done": true
   },
@@ -552,6 +600,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "stray": "2023-04-10 00:50:31 -0500",
+      "shulker": "2023-04-14 13:25:29 -0500",
       "wither_skeleton": "2023-04-08 14:50:21 -0500",
       "zombie_villager": "2023-04-08 07:51:48 -0500",
       "polar_bear": "2023-04-08 21:28:21 -0500",
@@ -768,6 +817,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2023-04-14 13:29:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2023-04-14 15:00:00 -0500"
+    },
+    "done": true
+  },
   "spartanweaponry:upgrade_quiver": {
     "criteria": {
       "quiver_bolt": "2023-04-08 14:25:27 -0500"
@@ -921,6 +982,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 07:28:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2023-04-14 13:29:46 -0500"
     },
     "done": true
   },
@@ -1114,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-04-14 13:44:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2023-04-09 19:33:45 -0500"
@@ -1210,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-04-14 15:00:01 -0500"
+    },
+    "done": true
+  },
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2023-04-08 01:38:03 -0500"
@@ -1228,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-04-14 15:17:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2023-04-09 17:09:23 -0500"
@@ -1237,6 +1322,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-08 08:25:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-04-14 13:25:32 -0500"
     },
     "done": true
   },
@@ -1324,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-04-14 15:00:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-04-08 01:37:38 -0500"
@@ -1357,6 +1454,12 @@
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
     "criteria": {
       "has_stick": "2023-04-08 01:55:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2023-04-14 13:29:46 -0500"
     },
     "done": true
   },
@@ -2029,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-04-14 14:59:55 -0500"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/arrow_vilespine": {
     "criteria": {
       "has_material": "2023-04-09 19:13:09 -0500"
@@ -2083,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2023-04-14 15:00:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2023-04-09 17:58:12 -0500"
@@ -2122,6 +2237,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2023-04-08 06:55:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-04-14 13:47:00 -0500"
     },
     "done": true
   },
@@ -2311,6 +2432,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-04-14 13:47:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2023-04-09 23:33:50 -0500"
@@ -2344,6 +2471,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-04-08 01:26:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-04-14 13:36:43 -0500"
     },
     "done": true
   },
@@ -2398,6 +2531,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2023-04-08 10:52:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2023-04-14 14:59:55 -0500"
     },
     "done": true
   },
@@ -2470,6 +2609,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2023-04-08 07:12:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-04-14 13:44:26 -0500"
     },
     "done": true
   },
@@ -2560,6 +2705,12 @@
   "defiledlands:recipes/baubles/phytoprostasia_amulet": {
     "criteria": {
       "has_material": "2023-04-08 12:10:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-04-14 13:31:26 -0500"
     },
     "done": true
   },

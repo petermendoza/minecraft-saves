@@ -1,0 +1,6 @@
+RLCraft_End_MegaCity_Top_Treasure_False,-660,-646,-1122,-1108
+RLCraft_End_MegaCity_Vertical_Rainbow,-656,-650,-1118,-1112
+RLCraft_End_MegaCity_Base_Tower,-662,-644,-1124,-1106
+RLCraft_End_MegaCity_Start,-662,-662,-1124,-1124
+RLCraft_End_Floating_Crystal,-569,-555,-1222,-1208
+RLCraft_End_Meteor_Site,-602,-567,-1293,-1272

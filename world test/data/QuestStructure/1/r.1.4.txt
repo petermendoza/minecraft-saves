@@ -1,0 +1,4 @@
+RLCraft_End_Meteor_Site,970,1005,2041,2062
+RLCraft_End_Decoration_1,949,959,2344,2354
+RLCraft_End_Ruins_Large,897,914,2370,2387
+RLCraft_End_Decoration_2,759,769,2474,2484

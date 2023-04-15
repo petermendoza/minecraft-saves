@@ -1,0 +1,8 @@
+RLCraft_End_Obsidian_Spike_3,1382,1398,3099,3125
+RLCraft_End_Decoration_1,1442,1452,3172,3182
+RLCraft_End_Giest_Tower,1301,1316,3228,3241
+RLCraft_End_Obsidian_Spike_1,1465,1478,3133,3159
+RLCraft_End_Giest_Tower,1423,1436,3270,3285
+RLCraft_End_Obsidian_Spike_3,1450,1466,3304,3330
+RLCraft_End_Ship_Split_Front,1451,1466,3388,3412
+RLCraft_End_Obsidian_Spike_3,1190,1206,3443,3469

@@ -1,0 +1,5 @@
+RLCraft_End_Obsidian_Spike_1,1502,1515,3705,3731
+RLCraft_End_Spiral_Portal_Tower,1483,1513,3901,3931
+RLCraft_End_Battletower_Broken,1368,1407,4024,4062
+RLCraft_End_Obsidian_Spike_1,1229,1255,4041,4054
+RLCraft_End_Decoration_2,1247,1257,4069,4079

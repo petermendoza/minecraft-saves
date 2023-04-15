@@ -1,0 +1,17 @@
+RLCraft_End_Decoration_2,1237,1247,1658,1668
+RLCraft_End_MegaCity_Bridge_Cannon,1192,1198,1691,1706
+RLCraft_End_MegaCity_Middle_Tavern,1158,1172,1706,1720
+RLCraft_End_MegaCity_Bridge,1173,1188,1710,1716
+RLCraft_End_MegaCity_Middle_Tavern,1218,1232,1706,1720
+RLCraft_End_MegaCity_Bridge,1202,1217,1710,1716
+RLCraft_End_MegaCity_Middle_Arcade,1188,1202,1736,1750
+RLCraft_End_MegaCity_Bridge,1192,1198,1720,1735
+RLCraft_End_MegaCity_Floor_Duskstone,1188,1202,1706,1720
+RLCraft_End_MegaCity_Vertical_Purpur,1192,1198,1710,1716
+RLCraft_End_MegaCity_Base,1188,1202,1706,1720
+RLCraft_End_MegaCity_Start,1188,1188,1706,1706
+RLCraft_End_Decoration_2,1387,1397,1700,1710
+RLCraft_End_Decoration_2,1388,1398,1731,1741
+RLCraft_End_Floating_Tower,1478,1496,1771,1789
+RLCraft_End_Monolyth,1087,1103,1725,1741
+RLCraft_End_Decoration_1,1134,1144,2007,2017

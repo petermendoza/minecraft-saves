@@ -1,0 +1,6 @@
+RLCraft_End_Decoration_1,940,950,552,562
+RLCraft_End_Flipped_Castle,885,929,650,695
+RLCraft_End_Decoration_2,1018,1028,533,543
+RLCraft_End_Decoration_1,991,1001,787,797
+RLCraft_End_Meteor_Site,825,860,855,876
+RLCraft_End_Decoration_2,953,963,914,924

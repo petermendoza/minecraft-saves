@@ -1,0 +1,6 @@
+RLCraft_End_Giest_Tower,1290,1303,4237,4252
+RLCraft_End_Obsidian_Spike_3,1321,1337,4440,4466
+RLCraft_End_MegaCity_Top_Treasure_False,1349,1363,4452,4466
+RLCraft_End_MegaCity_Vertical_Purpur,1353,1359,4456,4462
+RLCraft_End_MegaCity_Base_Tower,1347,1365,4450,4468
+RLCraft_End_MegaCity_Start,1347,1347,4450,4450

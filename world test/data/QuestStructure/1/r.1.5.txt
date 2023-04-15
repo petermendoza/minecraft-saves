@@ -1,0 +1,5 @@
+RLCraft_End_Obsidian_Spike_3,783,809,2621,2637
+RLCraft_End_Decoration_1,915,925,2730,2740
+RLCraft_End_Decoration_2,715,725,2718,2728
+RLCraft_End_Floating_Crystal,705,719,2721,2735
+RLCraft_End_Decoration_2,699,709,2648,2658

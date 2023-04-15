@@ -1,0 +1,4 @@
+RLCraft_End_Decoration_1,-1554,-1544,-880,-870
+RLCraft_End_Decoration_1,-1701,-1691,-557,-547
+RLCraft_End_Obsidian_Spike_4,-1764,-1752,-753,-738
+RLCraft_End_Decoration_1,-1805,-1795,-682,-672

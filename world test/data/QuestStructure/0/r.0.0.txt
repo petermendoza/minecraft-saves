@@ -18,3 +18,8 @@ RLCraft_BasicCaveSpider,224,224,202,202
 RLCraft_UndergroundRuin1,218,227,199,208
 P_WitchDungeon,221,255,80,97
 RLCraft_SmallUndergroundSkeleton,283,291,7,15
+StonePlantMound4,-121,-114,-82,-75
+StonePlantMound2,31,44,-113,-101
+StonePlantMound2,62,75,-83,-71
+Tree_Oak_TheMushroomOak_v3,45,95,-129,-70
+StonePlantMound1,106,112,-106,-100

@@ -1,0 +1,2 @@
+RLCraft_End_Decoration_1,1012,1022,1698,1708
+RLCraft_End_Snake_Skeleton,1014,1024,1954,2019

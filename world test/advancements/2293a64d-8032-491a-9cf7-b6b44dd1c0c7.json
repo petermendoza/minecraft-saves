@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-04-14 14:15:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-04-08 01:19:25 -0500"
@@ -569,6 +575,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "stray": "2023-04-10 00:36:17 -0500",
+      "shulker": "2023-04-14 14:02:39 -0500",
       "wither_skeleton": "2023-04-10 14:54:03 -0500",
       "zombie_villager": "2023-04-10 15:28:20 -0500",
       "magma_cube": "2023-04-13 21:01:12 -0500",
@@ -1289,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-04-14 14:02:39 -0500"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2023-04-10 01:58:07 -0500"
@@ -1580,6 +1593,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2023-04-08 01:20:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-04-14 13:52:57 -0500"
     },
     "done": true
   },
@@ -2391,6 +2410,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-04-14 14:10:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2023-04-13 21:01:19 -0500"
@@ -2424,6 +2449,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-04-08 14:51:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-04-14 14:01:35 -0500"
     },
     "done": true
   },
@@ -2634,6 +2665,12 @@
   "defiledlands:recipes/baubles/phytoprostasia_amulet": {
     "criteria": {
       "has_material": "2023-04-10 15:06:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-04-14 13:31:26 -0500"
     },
     "done": true
   },

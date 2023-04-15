@@ -1,0 +1,6 @@
+RLCraft_End_Monolyth,1052,1068,2702,2718
+RLCraft_End_Decoration_1,1087,1097,2777,2787
+RLCraft_End_Lantern,1345,1352,2749,2756
+RLCraft_End_Decoration_2,1332,1342,2583,2593
+RLCraft_End_Crystal_Shrine,1154,1312,2863,3043
+RLCraft_End_Snake_Skeleton,1405,1470,2941,2951
