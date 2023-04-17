@@ -1,0 +1,14 @@
+RLCraft_DecentSkeleton,-9221,-9221,-18419,-18419
+RLCraft_UndergroundRuin2,-9226,-9216,-18424,-18417
+SmallClockworkSite,-9277,-9258,-18441,-18419
+RLCraft_4Towers,-9268,-9208,-18372,-18320
+P_WitchDungeon,-9299,-9265,-18164,-18147
+ShrineSmallAir,-9388,-9380,-18091,-18083
+BigClockworkSite,-9465,-9420,-18237,-18202
+SmallClockworkSite,-9514,-9492,-18227,-18208
+RLCraft_DecentWitch,-9504,-9504,-18351,-18351
+RLCraft_UndergroundRuin2,-9509,-9499,-18356,-18349
+RLCraft_SmallUndergroundSkeleton,-9708,-9700,-18307,-18299
+RLCraft_Lyquix,-9692,-9676,-18011,-17995
+RLCraft_BasicWitch,-9641,-9641,-18152,-18152
+RLCraft_UndergroundRuin1,-9647,-9638,-18158,-18149

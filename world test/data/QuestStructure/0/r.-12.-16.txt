@@ -1,0 +1,5 @@
+StonePlantMound1,-6182,-6176,-8309,-8303
+StonePlantBoulder,-6196,-6186,-8356,-8346
+ShrineSmallAir,-6260,-6252,-8295,-8287
+StonePlantMound3,-6312,-6303,-8258,-8247
+P_AncientTeleporter,-6321,-6288,-8340,-8305

@@ -1,0 +1,12 @@
+RLCraft_DecentSpider,-12836,-12836,-17042,-17042
+RLCraft_UndergroundRuin3,-12842,-12834,-17047,-17039
+RLCraft_Lyquix,-12943,-12927,-17005,-16989
+StoneLeafMound,-13047,-13040,-16969,-16960
+RLCraft_LargeUndergroundTown,-13013,-12876,-17098,-16985
+StonePlantMound2,-13099,-13087,-16929,-16916
+RLCraft_PlainsCamp,-13115,-13069,-16978,-16939
+StoneLeafMound,-13138,-13129,-16923,-16916
+StoneLeafMound,-13139,-13130,-17012,-17005
+DinosaurSkull,-13138,-13127,-17090,-17071
+RLCraft_DecentSkeleton,-13282,-13282,-17189,-17189
+RLCraft_UndergroundRuin2,-13287,-13280,-17194,-17184

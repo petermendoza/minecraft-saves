@@ -1,0 +1,2 @@
+StoneIceBoulder1,-1534,-1524,-7637,-7627
+ShrineSmallFire,-1511,-1501,-7642,-7632

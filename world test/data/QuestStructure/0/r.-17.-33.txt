@@ -1,0 +1,9 @@
+SmallWoodenCottage2,-9083,-9075,-16956,-16948
+ShrineSmallFire,-9062,-9052,-17177,-17167
+RLCraft_DecentZombie,-9208,-9208,-17247,-17247
+RLCraft_UndergroundRuin3,-9213,-9205,-17253,-17245
+RLCraft_SmallUndergroundSkeleton,-8997,-8989,-17321,-17313
+SmallAbandonedMine,-9125,-9100,-17362,-17347
+ShrineSmallFire,-9168,-9158,-17353,-17343
+TribalJungleHead,-9194,-9184,-17357,-17347
+FallenPalmTree,-8998,-8988,-17367,-17363

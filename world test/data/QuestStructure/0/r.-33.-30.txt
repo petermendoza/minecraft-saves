@@ -1,0 +1,13 @@
+StonePlantMound,-16913,-16908,-15490,-15485
+StoneLeafMound,-16925,-16918,-15467,-15458
+RLCraft_SmallUndergroundSkeleton,-16996,-16988,-15467,-15459
+RLCraft_DecentSkeleton,-16996,-16996,-15403,-15403
+RLCraft_UndergroundRuin2,-17001,-16991,-15408,-15401
+RLCraft_SmallUndergroundSkeleton,-17018,-17010,-15677,-15669
+DinosaurSkeleton,-17102,-17056,-15741,-15732
+SmallWoodenCottage,-16944,-16936,-15373,-15362
+RLCraft_SmallUndergroundSkeleton,-17119,-17111,-15533,-15525
+RLCraft_DecentCaveSpider,-17359,-17359,-15750,-15750
+RLCraft_UndergroundRuin2,-17364,-17357,-15755,-15745
+RLCraft_SmallUndergroundSkeleton,-17121,-17113,-15376,-15368
+UndergroundTreeoid,-17186,-17160,-15720,-15697

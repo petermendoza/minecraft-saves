@@ -1,0 +1,7 @@
+UndergroundCultChamber,-3701,-3659,-289,-257
+StonePlantMound4,-3835,-3828,-337,-330
+RLCraft_BasicZombie,-3895,-3895,-351,-351
+RLCraft_UndergroundRuin1,-3901,-3892,-354,-345
+RLCraft_DecentWitch,-3803,-3803,69,69
+RLCraft_UndergroundRuin2,-3808,-3801,64,74
+ShrineSmallWater,-3658,-3650,79,87

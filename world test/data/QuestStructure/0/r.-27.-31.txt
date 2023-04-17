@@ -1,0 +1,14 @@
+P_VillageBlacksmith,-13972,-13939,-16378,-16364
+P_VillageHouse,-13990,-13979,-16378,-16369
+VillageForgeLarge,-14024,-14008,-16378,-16366
+RLCraft_BasicSkeleton,-14013,-14013,-16382,-16382
+RLCraft_UndergroundRuin1,-14019,-14010,-16385,-16376
+P_VillageFarmhouse,-13994,-13982,-16367,-16355
+RLCraft_Lyquix,-13874,-13858,-16257,-16241
+SmallClockworkSite,-14148,-14126,-16241,-16222
+RLCraft_SmallUndergroundSkeleton,-14078,-14070,-16176,-16168
+MeteorSite,-13843,-13828,-16172,-16142
+RLCraft_SmallUndergroundSkeleton,-14096,-14088,-16126,-16118
+DesertWatchtower,-14302,-14292,-16289,-16279
+RLCraft_DecentCaveSpider,-14310,-14310,-16218,-16218
+RLCraft_UndergroundRuin3,-14315,-14307,-16220,-16212

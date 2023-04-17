@@ -1,0 +1,6 @@
+StonePlantMound4,-5159,-5152,-8189,-8182
+StonePlantMound1,-5235,-5229,-8189,-8183
+StonePlantMound4,-5368,-5361,-8177,-8170
+RLCraft_DecentSpider,-5190,-5190,-8137,-8137
+RLCraft_UndergroundRuin2,-5195,-5188,-8142,-8132
+StoneBoulder,-5542,-5533,-8190,-8181

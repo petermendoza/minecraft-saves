@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,-8186,-8178,-11916,-11908
+ShrineSmallEarth,-7986,-7974,-11784,-11772
+P_WitchDungeon,-8122,-8105,-11983,-11949
+UndergroundTreeoid,-7875,-7852,-11904,-11878
+FallenPalmTree,-8056,-8046,-12106,-12102
+UndergroundCultChamber,-8085,-8053,-12139,-12097
+ShrineSmallFire,-8006,-7996,-12266,-12256

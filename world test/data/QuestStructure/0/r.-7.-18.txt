@@ -1,0 +1,5 @@
+DinosaurSkeleton,-4064,-4055,-9658,-9612
+DinosaurSkeleton,-4044,-3998,-9589,-9580
+IceThorn2,-4056,-4046,-9550,-9538
+P_SkyCastle,-4090,-4049,-9559,-9518
+ShrineSmallFire,-4072,-4062,-9459,-9449

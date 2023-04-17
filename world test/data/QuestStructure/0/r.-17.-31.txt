@@ -1,0 +1,5 @@
+P_VillageInn,-9066,-9057,-15889,-15878
+RLCraft_DecentCaveSpider,-8998,-8998,-15912,-15912
+RLCraft_UndergroundRuin2,-9000,-8993,-15917,-15907
+StonePlantMound1,-9109,-9103,-16050,-16044
+StoneLeafMound,-8896,-8889,-16059,-16050

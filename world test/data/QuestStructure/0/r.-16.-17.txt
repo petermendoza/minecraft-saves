@@ -15,3 +15,11 @@ StonePlantBoulder,-8565,-8555,-8850,-8840
 StoneLeafMound,-8562,-8555,-8746,-8737
 StonePlantMound1,-8661,-8655,-9067,-9061
 StonePlantMound2,-8494,-8482,-8729,-8716
+RLCraft_BasicZombie,-8239,-8239,-9113,-9113
+RLCraft_UndergroundRuin1,-8242,-8233,-9119,-9110
+MysticalTree1,-8267,-8254,-9183,-9172
+DinosaurSkeleton,-8378,-8369,-9178,-9132
+StonePlantMound2,-8518,-8506,-9213,-9200
+RLCraft_DecentWitch,-8520,-8520,-9138,-9138
+RLCraft_UndergroundRuin2,-8525,-8515,-9140,-9133
+RLCraft_SmallUndergroundSkeleton,-8609,-8601,-9201,-9193

@@ -1,0 +1,17 @@
+SmallWoodenCottage,-12299,-12288,-17290,-17282
+RLCraft_DecentZombie,-12306,-12306,-17294,-17294
+RLCraft_UndergroundRuin3,-12308,-12300,-17297,-17289
+DinosaurSkeleton,-12394,-12385,-17296,-17250
+RLCraft_SmallUndergroundSkeleton,-12441,-12433,-17070,-17062
+P_WitchDungeon,-12461,-12444,-17202,-17168
+P_DesertTemple,-12465,-12416,-17001,-16951
+MeteorSite,-12471,-12456,-17178,-17148
+PeacefulCrypt,-12523,-12499,-17099,-17083
+RLCraft_UndergroundFarm,-12557,-12514,-17140,-17098
+PeacefulCrypt,-12575,-12551,-16932,-16916
+BigClockworkSite,-12579,-12544,-17113,-17068
+DinosaurSkull,-12608,-12589,-16987,-16976
+RLCraft_SmallUndergroundSkeleton,-12659,-12651,-17146,-17138
+UndergroundCultChamber,-12690,-12648,-17103,-17071
+RLCraft_SmallUndergroundSkeleton,-12702,-12694,-17070,-17062
+ShrineSmallFire,-12765,-12755,-16936,-16926

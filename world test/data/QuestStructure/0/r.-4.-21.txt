@@ -1,0 +1,3 @@
+StoneBoulder,-2110,-2101,-10807,-10798
+RLCraft_DecentCaveSpider,-2174,-2174,-10823,-10823
+RLCraft_UndergroundRuin2,-2176,-2169,-10828,-10818

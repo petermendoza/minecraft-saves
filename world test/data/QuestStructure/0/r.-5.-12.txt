@@ -2,3 +2,12 @@ RLCraft_SmallUndergroundSkeleton,-2632,-2624,-6377,-6369
 RLCraft_BasicCaveSpider,-2566,-2566,-6389,-6389
 RLCraft_UndergroundRuin1,-2569,-2560,-6392,-6383
 StonePlantMound,-2568,-2563,-6497,-6492
+StoneBoulder,-2631,-2622,-6537,-6528
+RLCraft_DecentZombie,-2628,-2628,-6539,-6539
+RLCraft_UndergroundRuin3,-2634,-2626,-6542,-6534
+BlazeSpawnerCrystal,-2632,-2626,-6463,-6457
+DinosaurSkull,-2686,-2675,-6529,-6510
+RLCraft_BasicSpider,-2734,-2734,-6433,-6433
+RLCraft_UndergroundRuin1,-2740,-2731,-6436,-6427
+ClayWaterMound1,-2576,-2565,-6258,-6248
+SmallWoodenCottage,-2591,-2583,-6216,-6205

@@ -1,0 +1,5 @@
+P_VillageFarmhouse,-3031,-3019,-369,-357
+VillageTriplets,-3031,-3017,-346,-332
+VillageLargeLibrary,-3029,-3009,-316,-297
+RLCraft_Vineyard,-3050,-3022,-295,-275
+VillageWoodMill,-3002,-2986,-342,-329

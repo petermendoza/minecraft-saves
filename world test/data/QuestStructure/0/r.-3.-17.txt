@@ -1,0 +1,17 @@
+StonePlantBoulder,-1648,-1638,-8718,-8708
+P_Crater,-1707,-1624,-8750,-8674
+ShrineSmallFire,-1819,-1809,-8717,-8707
+StonePlantMound3,-1655,-1644,-8764,-8755
+RLCraft_DecentCaveSpider,-1877,-1877,-8755,-8755
+RLCraft_UndergroundRuin3,-1882,-1874,-8757,-8749
+StonePlantMound1,-1555,-1549,-8839,-8833
+StonePlantMound1,-1746,-1740,-8855,-8849
+StonePlantMound2,-1583,-1570,-8874,-8862
+StonePlantBoulder,-1728,-1718,-8886,-8876
+StoneBoulder,-1815,-1806,-8909,-8900
+DinosaurSkull,-1688,-1677,-8942,-8923
+StonePlantMound1,-1841,-1835,-8934,-8928
+P_WitchDungeon,-1678,-1644,-8949,-8932
+ClayWaterMound1,-1674,-1663,-9024,-9014
+RLCraft_DecentZombie,-1544,-1544,-9013,-9013
+RLCraft_UndergroundRuin2,-1546,-1539,-9018,-9008

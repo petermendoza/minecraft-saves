@@ -1,2 +1,5 @@
 DinosaurSkeleton,-7639,-7630,-7191,-7145
 StonePlantMound4,-7647,-7640,-7217,-7210
+RLCraft_BasicWitch,-7194,-7194,-7476,-7476
+RLCraft_UndergroundRuin1,-7200,-7191,-7482,-7473
+ShrineSmallAir,-7263,-7255,-7613,-7605

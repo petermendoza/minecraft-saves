@@ -39,3 +39,13 @@ RLCraft_BasicSpider,-8069,-8069,-8783,-8783
 RLCraft_UndergroundRuin1,-8075,-8066,-8786,-8777
 StonePlantMound2,-8079,-8067,-8953,-8940
 StonePlantBoulder,-8105,-8095,-9049,-9039
+StoneBoulder,-7829,-7820,-9198,-9189
+ShrineSmallFire,-7834,-7824,-9220,-9210
+WoodThornBig,-8033,-8020,-9096,-9083
+StoneBoulder,-8059,-8050,-9106,-9097
+RLCraft_SmallUndergroundSkeleton,-8076,-8068,-9135,-9127
+StonePlantMound2,-8065,-8052,-9102,-9090
+MeteorSite,-8108,-8078,-9126,-9111
+StoneBoulder,-8069,-8060,-9074,-9065
+StonePlantMound,-8173,-8168,-9192,-9187
+StonePlantBoulder,-8196,-8186,-9163,-9153

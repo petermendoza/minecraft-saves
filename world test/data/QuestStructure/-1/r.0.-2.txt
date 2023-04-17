@@ -2,3 +2,10 @@ NetherThorn3,231,257,-1057,-1039
 NetherThorn4,241,261,-1134,-1112
 NetherThorn4,333,353,-1230,-1208
 NetherThorn3,407,425,-1191,-1165
+NetherThorn1,-242,-226,-1337,-1318
+NetherThorn2,-186,-174,-1334,-1321
+NetherThorn,-167,-141,-1209,-1191
+NetherThorn,-140,-122,-1334,-1308
+NetherThorn2,-132,-119,-1219,-1207
+NetherThorn,-140,-122,-1200,-1174
+NetherThorn,-48,-22,-1349,-1331

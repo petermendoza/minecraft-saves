@@ -1,0 +1,7 @@
+StonePlantMound4,-6884,-6877,-7658,-7651
+StonePlantBoulder,-6938,-6928,-7600,-7590
+StonePlantMound3,-6980,-6969,-7430,-7421
+ShrineSmallAir,-7026,-7018,-7589,-7581
+UndergroundTreeoid,-7034,-7011,-7546,-7520
+StonePlantMound,-7071,-7066,-7426,-7421
+UndergroundTreeoid,-7170,-7147,-7669,-7643

@@ -4,3 +4,4 @@ RLCraft_SmallUndergroundSkeleton,-10190,-10182,-14807,-14799
 StoneIceBoulder,-10164,-10154,-14827,-14818
 StoneIceBoulder2,-10240,-10231,-14844,-14835
 StoneIceBoulder3,-10139,-10129,-14851,-14841
+StoneIceBoulder,-9768,-9759,-14723,-14713

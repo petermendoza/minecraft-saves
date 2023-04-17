@@ -1,0 +1,11 @@
+SmallClockworkSite,-13371,-13349,-17200,-17181
+P_DesertTemple,-13490,-13441,-17244,-17194
+BlazeSpawnerCrystal,-13601,-13595,-17264,-17258
+P_DesertDungeon,-13675,-13623,-16964,-16911
+RLCraft_BasicSpider,-13683,-13683,-17116,-17116
+RLCraft_UndergroundRuin1,-13686,-13677,-17119,-17110
+DinosaurSkeleton,-13679,-13670,-17078,-17032
+P_DesertTemple,-13698,-13649,-16948,-16898
+P_DesertTemple,-13734,-13684,-17186,-17137
+RLCraft_BasicWitch,-13761,-13761,-16997,-16997
+RLCraft_UndergroundRuin1,-13764,-13755,-17003,-16994

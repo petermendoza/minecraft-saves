@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,-8180,-8180,-11735,-11735
+RLCraft_UndergroundRuin2,-8185,-8178,-11740,-11730
+BigClockworkSite,-8142,-8097,-11720,-11685
+RLCraft_SmallUndergroundSkeleton,-7980,-7972,-11730,-11722

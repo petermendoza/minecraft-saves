@@ -6,3 +6,7 @@ RLCraft_UndergroundRuin2,-4082,-4072,-1444,-1437
 RLCraft_BasicZombie,-3811,-3811,-1319,-1319
 RLCraft_UndergroundRuin1,-3814,-3805,-1325,-1316
 ShrineSmallWater,-3714,-3706,-1452,-1444
+RLCraft_DecentCaveSpider,-3960,-3960,-1237,-1237
+RLCraft_UndergroundRuin2,-3965,-3958,-1242,-1232
+RLCraft_DecentWitch,-3995,-3995,-1079,-1079
+RLCraft_UndergroundRuin3,-3998,-3990,-1085,-1077

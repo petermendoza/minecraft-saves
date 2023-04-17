@@ -1,0 +1,7 @@
+StoneBoulder,-498,-489,-10750,-10741
+DinosaurSkeleton,-492,-446,-10359,-10350
+StonePlantBoulder,-451,-441,-10285,-10275
+RLCraft_SmallUndergroundSkeleton,-384,-376,-10276,-10268
+SmallWoodenCottage,-376,-365,-10301,-10293
+StonePlantMound,-365,-360,-10339,-10334
+MysticalTree,-266,-250,-10290,-10275

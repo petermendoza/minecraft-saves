@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2023-04-08 17:46:11 -0500"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2023-04-08 01:44:39 -0500"
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-16 19:23:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2023-04-08 18:12:27 -0500"
@@ -356,6 +374,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 01:22:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-04-16 19:46:41 -0500"
     },
     "done": true
   },
@@ -426,6 +450,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2023-04-08 18:33:42 -0500"
@@ -434,6 +464,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "desert_defiled": "2023-04-16 19:18:39 -0500",
       "forest_vilespine": "2023-04-13 21:01:08 -0500",
       "forest_tenebra": "2023-04-12 19:57:12 -0500"
     },
@@ -450,6 +481,12 @@
       "has_planks": "2023-04-08 01:31:03 -0500"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "shambler": "2023-04-16 19:18:40 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -535,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-04-16 19:46:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-04-08 15:55:16 -0500"
@@ -553,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-04-16 19:46:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-12 00:19:21 -0500"
@@ -562,6 +611,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-08 18:33:42 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
     },
     "done": true
   },
@@ -829,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-04-16 19:23:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-12 00:19:21 -0500"
@@ -840,6 +901,7 @@
       "stray": "2023-04-10 19:13:47 -0500",
       "wither_skeleton": "2023-04-09 18:10:07 -0500",
       "zombie_villager": "2023-04-12 00:47:36 -0500",
+      "magma_cube": "2023-04-16 19:29:11 -0500",
       "vindicator": "2023-04-08 18:33:08 -0500",
       "skeleton": "2023-04-08 15:43:26 -0500",
       "husk": "2023-04-12 00:09:40 -0500",
@@ -868,6 +930,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2023-04-13 22:18:01 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/idol_sorrow": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
     },
     "done": true
   },
@@ -1084,6 +1152,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2023-04-08 18:12:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2023-04-16 19:30:07 -0500"
     },
     "done": true
   },
@@ -1333,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2023-04-16 19:23:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2023-04-08 17:46:11 -0500"
@@ -1372,6 +1452,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-04-08 18:12:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-16 19:23:38 -0500"
     },
     "done": true
   },
@@ -1453,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2023-04-16 19:23:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-04-08 01:22:06 -0500"
@@ -1519,6 +1611,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2023-04-08 18:10:05 -0500"
@@ -1552,6 +1650,18 @@
   "defiledlands:recipes/tools/concussion_smasher": {
     "criteria": {
       "has_material": "2023-04-08 18:08:22 -0500"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-16 19:23:38 -0500"
     },
     "done": true
   },
@@ -1870,6 +1980,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2023-04-16 20:07:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2023-04-13 21:09:26 -0500"
@@ -1945,6 +2061,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-04-12 00:19:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2023-04-16 19:23:39 -0500"
     },
     "done": true
   },

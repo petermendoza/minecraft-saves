@@ -1,0 +1,11 @@
+RLCraft_BasicCaveSpider,-4063,-4063,-9190,-9190
+RLCraft_UndergroundRuin1,-4069,-4060,-9193,-9184
+RLCraft_DecentZombie,-3832,-3832,-9154,-9154
+RLCraft_UndergroundRuin2,-3837,-3827,-9156,-9149
+StoneMazePath,-4096,-4094,-8928,-8926
+StoneMazePath,-4096,-4094,-8919,-8917
+StoneMazePath,-4096,-4094,-8922,-8920
+StoneMazePath,-4096,-4094,-8925,-8923
+WoodThornBig,-4065,-4052,-8945,-8932
+StonePlantMound1,-4068,-4062,-8919,-8913
+ForestBeacon,-4080,-4072,-8836,-8828

@@ -1,0 +1,13 @@
+RLCraft_FriendlyOutpost,-15005,-14937,-15774,-15735
+RLCraft_LargeUndergroundTown,-15005,-14868,-15807,-15694
+StonePlantMound,-15036,-15031,-15693,-15688
+IceThorn3,-15197,-15183,-15798,-15784
+MysticalTree2,-15124,-15114,-15715,-15705
+StonePlantBoulder,-15157,-15147,-15702,-15692
+StonePlantMound2,-15077,-15065,-15678,-15665
+RLCraft_DecentCaveSpider,-15335,-15335,-15766,-15766
+RLCraft_UndergroundRuin3,-15340,-15332,-15772,-15764
+StoneLeafMound,-15175,-15168,-15653,-15644
+StonePlantMound4,-15106,-15099,-15646,-15639
+StonePlantMound,-15187,-15182,-15618,-15613
+StonePlantMound3,-15190,-15179,-15589,-15580

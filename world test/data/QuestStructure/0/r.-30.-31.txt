@@ -1,0 +1,4 @@
+UndergroundCrypt,-15535,-15521,-15891,-15863
+StonePlantBoulder,-15620,-15610,-15916,-15906
+RLCraft_BasicCaveSpider,-15734,-15734,-15900,-15900
+RLCraft_UndergroundRuin1,-15740,-15731,-15906,-15897

@@ -1,0 +1,16 @@
+BlazeSpawnerCrystal,-9748,-9742,-18338,-18332
+RLCraft_DecentZombie,-9869,-9869,-18430,-18430
+RLCraft_UndergroundRuin3,-9875,-9867,-18433,-18425
+DesertBeacon,-10192,-10186,-18377,-18371
+BigClockworkSite,-10086,-10041,-18243,-18208
+ShrineSmallFire,-10022,-10012,-18352,-18342
+P_VillageFarmhouse,-9963,-9951,-18202,-18190
+VillageWoodMill,-9966,-9953,-18172,-18156
+VillageHouseRich,-9944,-9929,-18172,-18153
+P_Village2Story,-9930,-9924,-18226,-18213
+VillageLargeLibrary,-9928,-9908,-18172,-18153
+SeasonsGreenhouse,-9924,-9914,-18202,-18190
+VillageHouseRich1,-9921,-9903,-18257,-18236
+RLCraft_Vineyard,-9903,-9875,-18181,-18161
+P_VillageLibrary,-9907,-9891,-18231,-18212
+P_WitchDungeon,-9990,-9956,-18387,-18370

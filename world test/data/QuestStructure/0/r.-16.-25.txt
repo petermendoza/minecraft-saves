@@ -1,0 +1,17 @@
+RLCraft_DecentSpider,-8303,-8303,-12835,-12835
+RLCraft_UndergroundRuin3,-8305,-8297,-12840,-12832
+StoneIceBoulder1,-8241,-8231,-13010,-13000
+RLCraft_LargeUndergroundTown,-8469,-8332,-12899,-12786
+StoneIceBoulder3,-8314,-8304,-13113,-13103
+P_Tent,-8365,-8356,-13195,-13186
+StoneIceBoulder,-8321,-8311,-13293,-13284
+SpiderPit,-8434,-8424,-13074,-13065
+RLCraft_DecentZombie,-8359,-8359,-13284,-13284
+RLCraft_UndergroundRuin2,-8364,-8357,-13289,-13279
+ShrineSmallEarth,-8436,-8424,-13251,-13239
+RLCraft_DecentZombie,-8465,-8465,-13207,-13207
+RLCraft_UndergroundRuin2,-8470,-8460,-13212,-13205
+StoneIceBoulder2,-8489,-8480,-13242,-13233
+StoneIceBoulder3,-8549,-8539,-13262,-13252
+RLCraft_DecentSkeleton,-8630,-8630,-13256,-13256
+RLCraft_UndergroundRuin2,-8635,-8625,-13261,-13254

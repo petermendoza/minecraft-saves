@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,-7212,-7204,-8454,-8446
+StoneLeafMound,-7178,-7169,-8425,-8418
+BrickHenge,-7176,-7160,-8432,-8416
+P_SmallShip,-7371,-7351,-8244,-8238
+StonePlantMound3,-7181,-7172,-8296,-8285
+ShrineSmallFire,-7297,-7287,-8634,-8624
+ShrineSmallAir,-7201,-7193,-8652,-8644

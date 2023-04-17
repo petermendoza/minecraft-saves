@@ -9,6 +9,12 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-240 29 -1236 -232 36 -1228 LargeNetherHouse.tml
+-219 38 -1378 -214 43 -1372 VanillaVillageCobbleHouse-r.tml
+-166 43 -1282 -156 58 -1272 DoomTower.tml
+-95 41 -1192 -87 47 -1183 NetherShrine.tml
+-69 69 -1379 -57 93 -1367 Tower-ruined-short.tml
+-16 98 -1267 -7 105 -1258 WoodHouse2_Ruined.tml
 189 20 -1244 195 25 -1239 VanillaVillageCobbleHouse-r.tml
 198 120 -1055 210 215 -1043 Tower-nether.tml
 204 29 -1079 212 36 -1071 LargeNetherHouse.tml

@@ -1,0 +1,15 @@
+StonePlantMound3,-7745,-7736,-9228,-9217
+RLCraft_AgentStarbuck_WaterBase,-7774,-7757,-9391,-9379
+DinosaurSkeleton,-7795,-7749,-9304,-9295
+BlazeSpawnerCrystal,-7799,-7793,-9368,-9362
+StonePlantMound2,-7866,-7854,-9247,-9234
+StonePlantBoulder,-7885,-7875,-9283,-9273
+StonePlantMound2,-7913,-7900,-9282,-9270
+SmallOutpost,-7915,-7885,-9309,-9287
+StonePlantMound2,-7903,-7891,-9449,-9436
+StonePlantMound2,-7946,-7933,-9468,-9456
+StonePlantMound4,-7955,-7948,-9421,-9414
+ShrineSmallAir,-7996,-7988,-9291,-9283
+StonePlantMound2,-8037,-8024,-9391,-9379
+StonePlantMound,-8129,-8124,-9258,-9253
+StonePlantMound3,-8168,-8157,-9306,-9297

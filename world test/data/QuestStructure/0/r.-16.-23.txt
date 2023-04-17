@@ -1,1 +1,8 @@
 MysticalTree1,-8571,-8558,-11858,-11847
+BigClockworkSite,-8372,-8327,-11904,-11869
+DinosaurSkull,-8350,-8331,-11914,-11903
+RLCraft_BasicSpider,-8241,-8241,-11810,-11810
+RLCraft_UndergroundRuin1,-8247,-8238,-11813,-11804
+RLCraft_SmallUndergroundSkeleton,-8221,-8213,-11818,-11810
+UndergroundCrypt,-8294,-8280,-11941,-11913
+RLCraft_UndergroundFarm,-8407,-8364,-12171,-12129

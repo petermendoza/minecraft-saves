@@ -1,0 +1,9 @@
+StonePlantMound,-10281,-10276,-18831,-18826
+RLCraft_BasicWitch,-10284,-10284,-18892,-18892
+RLCraft_UndergroundRuin1,-10287,-10278,-18895,-18886
+StoneBoulder,-10311,-10302,-18943,-18934
+SmallAbandonedMine,-10368,-10343,-18902,-18887
+StonePlantMound4,-10432,-10425,-18902,-18895
+BlazeSpawnerCrystal,-10445,-10439,-18675,-18669
+SmallClockworkSite,-10274,-10252,-18557,-18538
+Tree_Oak_TheMushroomOak_v3,-10495,-10436,-18479,-18429

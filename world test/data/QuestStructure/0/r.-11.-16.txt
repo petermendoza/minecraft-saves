@@ -1,0 +1,16 @@
+WoodThornBig,-5656,-5643,-8476,-8463
+StoneLeafMound,-5670,-5661,-8572,-8565
+RLCraft_SmallUndergroundSkeleton,-5693,-5685,-8432,-8424
+StonePlantBoulder,-5753,-5743,-8404,-8394
+StonePlantMound,-5773,-5768,-8392,-8387
+StoneBoulder,-5801,-5792,-8401,-8392
+RLCraft_BasicSkeleton,-5817,-5817,-8296,-8296
+RLCraft_UndergroundRuin1,-5820,-5811,-8299,-8290
+BrickHenge,-5834,-5818,-8227,-8211
+MeteorSite,-5832,-5802,-8461,-8446
+StonePlantMound4,-5858,-5851,-8447,-8440
+StonePlantMound3,-5915,-5906,-8383,-8372
+StoneBoulder,-5951,-5942,-8311,-8302
+Tree_Oak_TheMushroomOak_v3,-6060,-6010,-8260,-8201
+StoneBoulder,-6100,-6091,-8288,-8279
+RLCraft_SmallUndergroundSkeleton,-6084,-6076,-8343,-8335

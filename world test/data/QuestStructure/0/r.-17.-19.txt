@@ -152,3 +152,6 @@ StoneBoulder,-9058,-9049,-10169,-10160
 StonePlantMound2,-9180,-9167,-10186,-10174
 StonePlantMound1,-9072,-9066,-10182,-10176
 StoneBoulder,-8955,-8946,-10087,-10078
+StonePlantMound,-8723,-8718,-9748,-9743
+RLCraft_SmallUndergroundSkeleton,-8723,-8715,-9844,-9836
+RLCraft_LargeUndergroundTown,-8800,-8687,-10226,-10089

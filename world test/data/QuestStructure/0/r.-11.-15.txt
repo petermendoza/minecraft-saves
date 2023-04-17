@@ -1,0 +1,9 @@
+ShrineSmallFire,-5675,-5665,-8181,-8171
+DinosaurSkull,-5691,-5680,-8155,-8136
+DinosaurSkull,-5819,-5800,-8172,-8161
+P_WitchDungeon,-6027,-6010,-8169,-8135
+StonePlantMound2,-6058,-6045,-8002,-7990
+StonePlantMound3,-6087,-6076,-7966,-7957
+StonePlantMound,-6041,-6036,-7955,-7950
+P_WitchDungeon,-6152,-6135,-7917,-7883
+StonePlantMound,-6139,-6134,-7904,-7899

@@ -1,0 +1,10 @@
+IceThorn1,-8764,-8743,-13595,-13579
+IceThorn2,-8808,-8796,-13603,-13593
+StoneIceBoulder,-8842,-8832,-13406,-13397
+MeteorSite,-8836,-8821,-13736,-13706
+RLCraft_SmallUndergroundSkeleton,-8732,-8724,-13763,-13755
+StoneIceBoulder2,-8824,-8815,-13800,-13791
+DinosaurSkeleton,-8826,-8780,-13821,-13812
+RLCraft_UndergroundRuin1,-8721,-8712,-13828,-13819
+UndergroundTreeoid,-9021,-8998,-13706,-13680
+ShrineSmallEarth,-9025,-9013,-13625,-13613

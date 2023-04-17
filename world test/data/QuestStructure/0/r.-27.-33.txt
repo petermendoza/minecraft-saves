@@ -1,0 +1,4 @@
+UndergroundCultChamber,-13927,-13895,-17026,-16984
+RLCraft_SmallUndergroundSkeleton,-13889,-13881,-17065,-17057
+UndergroundTreeoid,-13898,-13875,-17079,-17053
+P_WitchDungeon,-13920,-13903,-17088,-17054

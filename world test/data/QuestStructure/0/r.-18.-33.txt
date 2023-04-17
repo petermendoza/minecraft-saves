@@ -1,0 +1,3 @@
+RLCraft_DecentCaveSpider,-9510,-9510,-16934,-16934
+RLCraft_UndergroundRuin2,-9515,-9508,-16939,-16929
+CuboneSkull,-9284,-9226,-17283,-17222

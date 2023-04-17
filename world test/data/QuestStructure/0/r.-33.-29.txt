@@ -1,0 +1,4 @@
+DinosaurSkull,-16967,-16956,-15353,-15334
+StonePlantMound1,-16946,-16940,-15334,-15328
+StonePlantMound4,-17026,-17019,-15339,-15332
+WoodWallRemains,-17082,-17074,-15327,-15299

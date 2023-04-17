@@ -1,2 +1,11 @@
 ShrineSmallFire,-4698,-4688,-8089,-8079
 RLCraft_SmallUndergroundSkeleton,-4737,-4729,-8126,-8118
+RLCraft_DecentWitch,-4830,-4830,-8153,-8153
+RLCraft_UndergroundRuin3,-4835,-4827,-8159,-8151
+DinosaurSkull,-4850,-4839,-8193,-8174
+StoneBoulder,-4978,-4969,-8125,-8116
+StoneLeafMound,-4962,-4953,-8131,-8124
+StonePlantMound1,-4993,-4987,-8174,-8168
+StonePlantMound3,-5000,-4989,-8193,-8184
+StonePlantMound4,-5084,-5077,-8174,-8167
+VillageMarketplace,-5085,-5071,-8186,-8172

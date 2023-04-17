@@ -1,0 +1,7 @@
+StoneIceBoulder,-8193,-8183,-13016,-13007
+StoneIceBoulder1,-8093,-8083,-13009,-12999
+StoneIceBoulder,-8102,-8093,-13123,-13113
+P_Tent,-8073,-8064,-13170,-13161
+RLCraft_DecentCaveSpider,-8159,-8159,-13200,-13200
+RLCraft_UndergroundRuin3,-8164,-8156,-13202,-13194
+StoneIceBoulder,-8133,-8123,-13276,-13267

@@ -1,0 +1,10 @@
+RLCraft_BasicZombie,-14622,-14622,-15840,-15840
+RLCraft_UndergroundRuin1,-14625,-14616,-15843,-15834
+RLCraft_SmallUndergroundSkeleton,-14786,-14778,-15790,-15782
+VillageForgeLarge,-14778,-14766,-15734,-15718
+VillageLargeLibrary,-14764,-14744,-15735,-15716
+P_VillageInn,-14810,-14799,-15706,-15697
+VillageMarketplace,-14743,-14729,-15700,-15686
+P_VillageFarmhouse,-14778,-14766,-15704,-15692
+SeasonsGreenhouse,-14797,-14787,-15683,-15671
+VillageWoodMill,-14776,-14763,-15683,-15667

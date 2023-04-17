@@ -1,2 +1,10 @@
 StoneIceBoulder3,-10220,-10210,-14963,-14953
 StoneIceBoulder2,-10220,-10211,-14978,-14969
+StoneIceBoulder,-9739,-9729,-15008,-14999
+StoneIceBoulder,-9736,-9726,-14951,-14942
+StoneIceBoulder3,-9734,-9724,-14983,-14973
+StoneIceBoulder2,-9786,-9777,-14884,-14875
+P_IceSkeletonLookout,-9776,-9766,-14858,-14848
+StoneIceBoulder,-9850,-9841,-14925,-14915
+StoneIceBoulder3,-9838,-9828,-14894,-14884
+StoneIceBoulder2,-9794,-9785,-15173,-15164

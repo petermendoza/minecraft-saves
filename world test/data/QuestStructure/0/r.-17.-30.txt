@@ -1,0 +1,13 @@
+RLCraft_DecentWitch,-9207,-9207,-15365,-15365
+RLCraft_UndergroundRuin3,-9209,-9201,-15368,-15360
+StoneIceBoulder1,-9206,-9196,-15382,-15372
+RLCraft_SmallUndergroundSkeleton,-9189,-9181,-15513,-15505
+ElvenPond,-9205,-9175,-15823,-15794
+ShrineSmallAir,-9146,-9138,-15805,-15797
+SeasonsGreenhouse,-9123,-9111,-15811,-15801
+PeacefulCrypt,-9198,-9182,-15852,-15828
+P_VillageFarmhouse,-9046,-9034,-15822,-15810
+VillageWoodMill,-9066,-9050,-15847,-15834
+ThreeTowers,-9029,-8998,-15841,-15809
+RLCraft_4Towers,-9063,-9011,-15483,-15423
+StoneIceBoulder1,-9123,-9113,-15386,-15376

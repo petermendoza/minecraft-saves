@@ -1,0 +1,2 @@
+RLCraft_DecentZombie,-8124,-8124,-10157,-10157
+RLCraft_UndergroundRuin3,-8130,-8122,-10160,-10152

@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,-8031,-8031,-12512,-12512
+RLCraft_UndergroundRuin1,-8034,-8025,-12518,-12509
+StonePlantMound,-7999,-7994,-12560,-12555
+DinosaurSkeleton,-7986,-7940,-12542,-12533
+P_SmallShip,-8045,-8025,-12687,-12681

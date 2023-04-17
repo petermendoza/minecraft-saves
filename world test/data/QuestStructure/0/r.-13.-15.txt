@@ -1,0 +1,14 @@
+StonePlantMound3,-6784,-6773,-7986,-7977
+StoneBoulder,-6762,-6753,-7919,-7910
+StoneBoulder,-6802,-6793,-7910,-7901
+UndergroundCrypt,-6786,-6758,-7894,-7880
+StoneMazePath,-6657,-6655,-7783,-7781
+StoneMazePath,-6657,-6655,-7786,-7784
+RLCraft_UndergroundFarm,-6746,-6704,-7845,-7802
+StonePlantMound2,-6820,-6808,-7857,-7844
+ShrineSmallAir,-6832,-6824,-7816,-7808
+DinosaurSkeleton,-6987,-6941,-7734,-7725
+StonePlantMound2,-6997,-6985,-7691,-7678
+ShrineSmallFire,-7039,-7029,-7996,-7986
+RLCraft_BasicCaveSpider,-7036,-7036,-8137,-8137
+RLCraft_UndergroundRuin1,-7039,-7030,-8143,-8134

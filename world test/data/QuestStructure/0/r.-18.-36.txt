@@ -1,0 +1,10 @@
+StonePlantMound,-9226,-9221,-18505,-18500
+RLCraft_DecentWitch,-9271,-9271,-18551,-18551
+RLCraft_UndergroundRuin3,-9277,-9269,-18554,-18546
+RLCraft_DecentSpider,-9424,-9424,-18464,-18464
+RLCraft_UndergroundRuin2,-9429,-9422,-18469,-18459
+RLCraft_SmallUndergroundSkeleton,-9615,-9607,-18597,-18589
+P_WizardTower,-9721,-9691,-18692,-18662
+RLCraft_DecentCaveSpider,-9627,-9627,-18665,-18665
+RLCraft_UndergroundRuin3,-9633,-9625,-18670,-18662
+ShrineSmallAir,-9606,-9598,-18695,-18687

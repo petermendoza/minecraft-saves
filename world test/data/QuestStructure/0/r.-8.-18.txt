@@ -1,0 +1,7 @@
+StonePlantMound2,-4150,-4138,-9688,-9675
+ShrineSmallAir,-4257,-4249,-9412,-9404
+DinosaurSkeleton,-4433,-4387,-9497,-9488
+StonePlantMound1,-4424,-4418,-9418,-9412
+StonePlantBoulder,-4398,-4388,-9381,-9371
+CuboneSkull,-4153,-4095,-9327,-9266
+StoneLeafMound,-4368,-4359,-9244,-9237

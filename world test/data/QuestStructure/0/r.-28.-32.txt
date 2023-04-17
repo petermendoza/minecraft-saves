@@ -1,0 +1,2 @@
+DinosaurSkeleton,-14402,-14393,-16486,-16440
+RLCraft_AgentStarbuck_WaterBase,-14620,-14603,-16522,-16510

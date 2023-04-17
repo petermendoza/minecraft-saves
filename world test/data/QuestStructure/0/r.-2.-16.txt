@@ -1,0 +1,4 @@
+StoneIceBoulder2,-1526,-1517,-8634,-8625
+ShrineSmallWater,-1492,-1484,-8694,-8686
+RLCraft_BasicSkeleton,-1475,-1475,-8540,-8540
+RLCraft_UndergroundRuin1,-1478,-1469,-8543,-8534

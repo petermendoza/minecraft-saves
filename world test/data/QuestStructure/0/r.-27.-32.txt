@@ -1,0 +1,15 @@
+RLCraft_DecentWitch,-13881,-13881,-16832,-16832
+RLCraft_UndergroundRuin3,-13886,-13878,-16838,-16830
+ShrineSmallAir,-13847,-13839,-16745,-16737
+DinosaurSkull,-13909,-13890,-16558,-16547
+UndergroundTreeoid,-13954,-13928,-16541,-16518
+DinosaurSkull,-13946,-13935,-16516,-16497
+P_SkyCastle,-14019,-13978,-16614,-16573
+RLCraft_BasicWitch,-14010,-14010,-16523,-16523
+RLCraft_UndergroundRuin1,-14016,-14007,-16526,-16517
+RLCraft_DesertTown,-14130,-14064,-16432,-16366
+RLCraft_DecentSpider,-14197,-14197,-16501,-16501
+RLCraft_UndergroundRuin3,-14203,-14195,-16504,-16496
+RLCraft_DecentCaveSpider,-14206,-14206,-16520,-16520
+RLCraft_UndergroundRuin2,-14208,-14201,-16525,-16515
+SmallWoodenCottage1,-14305,-14299,-16435,-16424

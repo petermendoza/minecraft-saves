@@ -1,0 +1,9 @@
+StonePlantMound3,-12621,-12612,-16897,-16886
+RLCraft_DecentWitch,-12654,-12654,-16798,-16798
+RLCraft_UndergroundRuin2,-12659,-12652,-16803,-16793
+RLCraft_FriendlyOutpost,-12754,-12686,-16846,-16807
+StonePlantMound4,-12674,-12667,-16767,-16760
+SmallAbandonedMine,-12693,-12668,-16777,-16762
+StonePlantMound2,-12753,-12741,-16786,-16773
+RLCraft_BasicCaveSpider,-12727,-12727,-16714,-16714
+RLCraft_UndergroundRuin1,-12733,-12724,-16717,-16708

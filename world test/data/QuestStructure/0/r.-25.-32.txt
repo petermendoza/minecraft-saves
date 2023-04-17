@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,-12835,-12827,-16891,-16883
+StoneBoulder,-12890,-12881,-16834,-16825
+DesertWatchtower,-12874,-12864,-16811,-16801
+StoneBoulder,-12908,-12899,-16829,-16820
+StoneBoulder,-12944,-12935,-16783,-16774
+StonePlantMound3,-12878,-12867,-16692,-16683
+StonePlantBoulder,-12917,-12907,-16699,-16689
+StonePlantMound2,-13001,-12988,-16826,-16814
+StoneLeafMound,-12990,-12983,-16776,-16767
+StonePlantMound,-13050,-13045,-16858,-16853
+RLCraft_4Towers,-13079,-13019,-16917,-16865
+StonePlantMound4,-13145,-13138,-16778,-16771
+WoodWallRemains,-13171,-13143,-16828,-16820
+StonePlantMound,-13162,-13157,-16886,-16881
+RLCraft_PlainsWindmill,-13278,-13193,-16665,-16594

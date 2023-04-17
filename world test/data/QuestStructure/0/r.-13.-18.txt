@@ -1,0 +1,7 @@
+StonePlantMound4,-7093,-7086,-9287,-9280
+StoneLeafMound,-7040,-7033,-9284,-9275
+StonePlantMound,-7107,-7102,-9336,-9331
+RLCraft_DecentSkeleton,-7039,-7039,-9345,-9345
+RLCraft_UndergroundRuin3,-7045,-7037,-9350,-9342
+StonePlantMound3,-7144,-7133,-9505,-9496
+StonePlantMound,-7123,-7118,-9470,-9465
