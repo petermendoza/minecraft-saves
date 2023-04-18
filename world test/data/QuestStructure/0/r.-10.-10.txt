@@ -212,3 +212,10 @@ StoneMazePath,-5394,-5392,-5525,-5523
 StoneMazePath,-5394,-5392,-5528,-5526
 StoneMazePath,-5391,-5389,-5528,-5526
 StoneMazeHuge,-5427,-5368,-5540,-5481
+RLCraft_BasicWitch,-5407,-5407,-5337,-5337
+RLCraft_UndergroundRuin1,-5410,-5401,-5343,-5334
+StonePlantBoulder,-5402,-5392,-5428,-5418
+StonePlantMound3,-5409,-5398,-5485,-5476
+StonePlantMound1,-5427,-5421,-5466,-5460
+ElvenPond,-5452,-5423,-5469,-5439
+StonePlantMound2,-5452,-5439,-5343,-5331
