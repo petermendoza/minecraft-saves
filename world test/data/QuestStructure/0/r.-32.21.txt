@@ -1,0 +1,4 @@
+MeteorSite,-16455,-16440,11150,11180
+RLCraft_SmallUndergroundSkeleton,-16587,-16579,11132,11140
+ShrineSmallFire,-16640,-16630,10984,10994
+SmallClockworkSite,-16687,-16665,11174,11193

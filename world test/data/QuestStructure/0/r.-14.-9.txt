@@ -1,1 +1,16 @@
 RLCraft_SmallUndergroundSkeleton,-7676,-7668,-5085,-5077
+StonePlantMound4,-7224,-7217,-5108,-5101
+StonePlantMound4,-7258,-7251,-5098,-5091
+RLCraft_DecentSkeleton,-7288,-7288,-5076,-5076
+RLCraft_UndergroundRuin2,-7293,-7286,-5081,-5071
+MysticalTree1,-7309,-7298,-5054,-5041
+ShrineSmallWater,-7282,-7274,-4781,-4773
+UndergroundCrypt,-7199,-7185,-4730,-4702
+StoneLeafMound,-7547,-7540,-5007,-4998
+StonePlantMound4,-7542,-7535,-5029,-5022
+DinosaurSkeleton,-7608,-7562,-5046,-5037
+RLCraft_DecentZombie,-7310,-7310,-4681,-4681
+RLCraft_UndergroundRuin3,-7315,-7307,-4687,-4679
+ClayWaterMound1,-7628,-7617,-5010,-5000
+StonePlantMound2,-7654,-7642,-5030,-5017
+StoneLeafMound,-7669,-7662,-4982,-4973

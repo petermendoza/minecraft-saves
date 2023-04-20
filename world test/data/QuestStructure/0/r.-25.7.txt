@@ -1,0 +1,17 @@
+StonePlantMound3,-13295,-13286,3644,3655
+RLCraft_DecentCaveSpider,-13177,-13177,3681,3681
+RLCraft_UndergroundRuin2,-13179,-13172,3676,3686
+RLCraft_SmallUndergroundSkeleton,-13210,-13202,3695,3703
+StonePlantMound2,-13174,-13162,3722,3735
+ClayWaterMound,-13178,-13171,3726,3734
+RLCraft_SmallUndergroundSkeleton,-13251,-13243,3737,3745
+BlazeSpawnerCrystal,-13162,-13156,3736,3742
+StonePlantMound1,-13311,-13305,3756,3762
+StoneBoulder,-13218,-13209,3750,3759
+StonePlantMound3,-13209,-13200,3761,3772
+RLCraft_BasicSpider,-13306,-13306,3789,3789
+RLCraft_UndergroundRuin1,-13312,-13303,3783,3792
+StonePlantMound2,-13316,-13303,3957,3969
+StonePlantMound3,-13258,-13249,4022,4033
+RLCraft_DecentZombie,-13234,-13234,4070,4070
+RLCraft_UndergroundRuin3,-13237,-13229,4064,4072

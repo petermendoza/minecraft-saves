@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-11797,-11789,188,196
+StonePlantMound1,-11797,-11791,357,363
+StoneBoulder,-11808,-11799,273,282
+StonePlantMound2,-11854,-11841,410,422
+StoneBoulder,-11866,-11857,223,232
+CuboneSkull,-11866,-11808,217,278
+StonePlantBoulder,-11847,-11837,363,373
+StoneLeafMound,-11854,-11847,475,484

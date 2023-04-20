@@ -1,0 +1,17 @@
+StonePlantMound3,-12255,-12246,1571,1582
+ThreeTowers,-11979,-11947,1586,1617
+P_VillageFarmhouse,-12024,-12012,1593,1605
+SeasonsGreenhouse,-11994,-11982,1602,1612
+StoneLeafMound,-12230,-12223,1628,1637
+StonePlantMound3,-12071,-12060,1729,1738
+UndergroundCrypt,-12084,-12056,1687,1701
+StonePlantMound2,-12123,-12110,1720,1732
+RLCraft_SmallUndergroundSkeleton,-12220,-12212,1637,1645
+StonePlantMound2,-12104,-12091,1663,1675
+StoneLeafMound,-12261,-12252,1695,1702
+StonePlantMound4,-12213,-12206,1702,1709
+StonePlantMound2,-12168,-12156,1685,1698
+StonePlantMound3,-12290,-12279,1739,1748
+StonePlantMound4,-12160,-12153,1735,1742
+RLCraft_DecentWitch,-12257,-12257,1790,1790
+RLCraft_UndergroundRuin2,-12262,-12252,1785,1792

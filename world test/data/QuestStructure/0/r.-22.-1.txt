@@ -1,0 +1,5 @@
+RLCraft_SmallTown,-11348,-11277,-852,-777
+StonePlantMound3,-11342,-11333,-686,-675
+StoneLeafMound,-11349,-11340,-642,-635
+StonePlantMound3,-11275,-11264,-541,-532
+StoneLeafMound,-11392,-11383,-593,-586

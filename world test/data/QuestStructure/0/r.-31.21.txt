@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,-15937,-15929,11225,11233
+RLCraft_DecentSpider,-16049,-16049,11136,11136
+RLCraft_UndergroundRuin2,-16054,-16044,11131,11138
+RLCraft_DecentSkeleton,-16054,-16054,11036,11036
+RLCraft_UndergroundRuin2,-16056,-16049,11031,11041
+RLCraft_DecentSpider,-16213,-16213,11071,11071
+RLCraft_UndergroundRuin3,-16216,-16208,11069,11077
+RLCraft_DecentSkeleton,-16340,-16340,11213,11213
+RLCraft_UndergroundRuin2,-16345,-16335,11211,11218
+RLCraft_SmallUndergroundSkeleton,-16289,-16281,11132,11140
+ShrineSmallAir,-16132,-16124,10968,10976

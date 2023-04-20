@@ -1,0 +1,7 @@
+StonePlantMound4,-13532,-13525,5266,5273
+StonePlantMound3,-13622,-13613,5423,5434
+ShrineSmallWater,-13705,-13697,5487,5495
+RLCraft_DecentWitch,-13804,-13804,5293,5293
+RLCraft_UndergroundRuin2,-13806,-13799,5288,5298
+RLCraft_DecentSkeleton,-13530,-13530,5622,5622
+RLCraft_UndergroundRuin2,-13535,-13528,5617,5627

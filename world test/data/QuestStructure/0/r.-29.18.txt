@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,-14887,-14879,9633,9641
+MeteorSite,-15000,-14985,9512,9542
+ShrineSmallFire,-15002,-14992,9717,9727

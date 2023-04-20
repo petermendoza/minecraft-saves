@@ -1,0 +1,8 @@
+RLCraft_FriendlyOutpost,-13696,-13657,8171,8239
+RLCraft_DecentSpider,-13775,-13775,8204,8204
+RLCraft_UndergroundRuin3,-13780,-13772,8198,8206
+StoneBoulder,-13696,-13687,8305,8314
+DinosaurSkeleton,-13701,-13692,8304,8350
+StonePlantMound,-13761,-13756,8369,8374
+RLCraft_SmallUndergroundSkeleton,-13808,-13800,8544,8552
+WoodThornBig,-13749,-13736,8505,8518

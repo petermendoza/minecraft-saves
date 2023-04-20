@@ -1,0 +1,3 @@
+ShrineSmallAir,-8829,-8821,-4353,-4345
+ShrineSmallFire,-8854,-8844,-4156,-4146
+StoneBoulder,-9105,-9096,-4121,-4112

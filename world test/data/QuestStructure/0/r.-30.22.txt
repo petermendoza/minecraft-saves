@@ -1,0 +1,4 @@
+RLCraft_BasicWitch,-15761,-15761,11434,11434
+RLCraft_UndergroundRuin1,-15767,-15758,11428,11437
+RLCraft_BasicSpider,-15726,-15726,11496,11496
+RLCraft_UndergroundRuin1,-15729,-15720,11490,11499

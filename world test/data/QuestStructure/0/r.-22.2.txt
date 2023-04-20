@@ -1,0 +1,3 @@
+StonePlantMound2,-11777,-11765,1378,1391
+Tree_Oak_TheMushroomOak_v3,-11775,-11716,1186,1236
+StonePlantMound3,-11754,-11745,1358,1369

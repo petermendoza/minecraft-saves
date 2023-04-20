@@ -1,0 +1,17 @@
+BlazeSpawnerCrystal,-9856,-9850,-3419,-3413
+StonePlantMound1,-9875,-9869,-3512,-3506
+StoneLeafMound,-9925,-9918,-3561,-3552
+StonePlantBoulder,-9927,-9917,-3380,-3370
+SmallAbandonedMine,-9931,-9916,-3403,-3378
+ThreeTowers,-9975,-9944,-3419,-3387
+RLCraft_SmallTown,-9982,-9911,-3349,-3274
+RLCraft_DecentSkeleton,-9984,-9984,-3331,-3331
+RLCraft_UndergroundRuin2,-9986,-9979,-3336,-3326
+StonePlantMound2,-9982,-9969,-3151,-3139
+RLCraft_DecentSpider,-9974,-9974,-3374,-3374
+RLCraft_Vineyard,-10005,-9977,-3399,-3379
+RLCraft_UndergroundRuin3,-9980,-9972,-3379,-3371
+ShrineSmallFire,-10004,-9994,-3221,-3211
+StonePlantMound4,-9999,-9992,-3176,-3169
+StonePlantMound1,-10040,-10034,-3265,-3259
+ShrineSmallAir,-10121,-10113,-3192,-3184

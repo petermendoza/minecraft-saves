@@ -1,2 +1,11 @@
 StoneBoulder,-9223,-9214,-3115,-3106
 ShrineSmallAir,-9221,-9213,-3123,-3115
+RLCraft_SmallUndergroundSkeleton,-9381,-9373,-3563,-3555
+RLCraft_DecentWitch,-9597,-9597,-3563,-3563
+RLCraft_UndergroundRuin2,-9599,-9592,-3568,-3558
+StoneLeafMound,-9364,-9357,-3540,-3531
+StonePlantMound1,-9628,-9622,-3502,-3496
+RLCraft_SmallUndergroundSkeleton,-9602,-9594,-3480,-3472
+StonePlantMound3,-9640,-9631,-3456,-3445
+StonePlantMound1,-9560,-9554,-3364,-3358
+VillageTriplets,-9538,-9524,-3305,-3291

@@ -1,0 +1,14 @@
+StonePlantMound3,-10774,-10765,-1902,-1891
+StoneLeafMound,-10764,-10755,-1955,-1948
+StonePlantMound1,-10813,-10807,-1775,-1769
+StonePlantMound4,-10818,-10811,-1643,-1636
+DinosaurSkeleton,-10828,-10782,-1602,-1593
+StonePlantMound1,-10775,-10769,-1539,-1533
+StonePlantMound2,-10866,-10853,-1621,-1609
+RLCraft_DecentCaveSpider,-10865,-10865,-1592,-1592
+RLCraft_UndergroundRuin3,-10870,-10862,-1598,-1590
+StonePlantMound3,-10884,-10873,-1584,-1575
+RLCraft_DecentWitch,-10923,-10923,-1536,-1536
+RLCraft_UndergroundRuin2,-10928,-10921,-1541,-1531
+MeteorSite,-10926,-10896,-1728,-1713
+StonePlantMound3,-10973,-10964,-1685,-1674

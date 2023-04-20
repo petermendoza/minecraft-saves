@@ -1,1 +1,6 @@
 UndergroundCultChamber,-9778,-9746,-2649,-2607
+BlazeSpawnerCrystal,-9849,-9843,-2963,-2957
+ClayWaterMound1,-10124,-10113,-2853,-2843
+ShrineSmallWater,-10150,-10142,-2899,-2891
+UndergroundCultChamber,-10197,-10165,-2870,-2828
+StonePlantMound1,-10180,-10174,-2620,-2614

@@ -10,3 +10,6 @@ StoneLeafMound,-7436,-7427,-5291,-5284
 StoneLeafMound,-7393,-7386,-5169,-5160
 RLCraft_SmallUndergroundSkeleton,-7591,-7583,-5468,-5460
 StonePlantMound2,-7661,-7649,-5474,-5461
+SmallFortRuinsJapanese,-7229,-7183,-5248,-5202
+MysticalTree1,-7321,-7308,-5226,-5215
+SmallWoodenCottage2,-7267,-7259,-5257,-5249

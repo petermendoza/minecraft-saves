@@ -1,0 +1,12 @@
+StonePlantMound3,-13039,-13030,2626,2637
+ShrineSmallAir,-12893,-12885,2719,2727
+ClayWaterMound1,-13071,-13060,2628,2638
+RLCraft_DecentSpider,-13081,-13081,2803,2803
+RLCraft_UndergroundRuin3,-13084,-13076,2797,2805
+StonePlantMound2,-13303,-13290,2953,2965
+ShrineSmallAir,-12946,-12938,2981,2989
+RLCraft_DecentSpider,-13004,-13004,3019,3019
+RLCraft_UndergroundRuin3,-13006,-12998,3016,3024
+RLCraft_DecentSkeleton,-13092,-13092,3040,3040
+RLCraft_UndergroundRuin3,-13097,-13089,3034,3042
+StoneBoulder,-13125,-13116,3044,3053

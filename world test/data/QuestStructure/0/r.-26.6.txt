@@ -1,0 +1,11 @@
+StonePlantMound4,-13316,-13309,3091,3098
+StonePlantMound3,-13339,-13328,3112,3121
+StoneIceBoulder1,-13533,-13523,3114,3124
+RLCraft_SmallUndergroundSkeleton,-13333,-13325,3263,3271
+RLCraft_DecentSpider,-13568,-13568,3090,3090
+RLCraft_UndergroundRuin2,-13573,-13563,3085,3092
+StonePlantMound,-13329,-13324,3526,3531
+P_PlainsCity,-13403,-13221,3352,3558
+StonePlantMound4,-13341,-13334,3570,3577
+MysticalTree,-13355,-13339,3564,3579
+StonePlantMound1,-13380,-13374,3575,3581

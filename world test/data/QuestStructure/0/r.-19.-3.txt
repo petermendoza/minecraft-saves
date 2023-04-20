@@ -1,0 +1,7 @@
+StonePlantMound1,-10240,-10234,-2029,-2023
+StonePlantBoulder,-10195,-10185,-2025,-2015
+MeteorSite,-10204,-10174,-1987,-1972
+StonePlantMound2,-10149,-10136,-2033,-2021
+DinosaurSkull,-9995,-9976,-2003,-1992
+StonePlantMound2,-10125,-10113,-1994,-1981
+BlazeSpawnerCrystal,-10144,-10138,-1953,-1947

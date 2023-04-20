@@ -1,0 +1,5 @@
+StonePlantMound,-13856,-13851,7201,7206
+StonePlantMound4,-13929,-13922,7334,7341
+StonePlantMound1,-13918,-13912,7281,7287
+SmallAbandonedMine,-13839,-13824,7475,7500
+StonePlantMound2,-13937,-13925,7286,7299

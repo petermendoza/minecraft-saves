@@ -1,0 +1,11 @@
+StoneIceBoulder3,-14165,-14155,8794,8804
+RLCraft_LargeUndergroundTown,-14231,-14094,8745,8858
+RLCraft_DecentWitch,-14237,-14237,8805,8805
+RLCraft_UndergroundRuin2,-14242,-14232,8803,8810
+RLCraft_SmallUndergroundSkeleton,-13910,-13902,8825,8833
+DinosaurSkeleton,-13937,-13928,8824,8870
+StoneIceBoulder1,-14307,-14297,8863,8873
+SmallAbandonedMine,-14309,-14294,8933,8958
+RLCraft_SmallUndergroundSkeleton,-14304,-14296,8995,9003
+StoneIceBoulder1,-14214,-14204,9019,9029
+P_WitchDungeon,-14226,-14209,9027,9061
