@@ -42,3 +42,5 @@ StonePlantMound1,-13556,-13550,8083,8089
 StonePlantMound2,-13568,-13555,8097,8109
 RLCraft_SmallUndergroundSkeleton,-13665,-13657,8131,8139
 StonePlantMound2,-13799,-13787,8180,8193
+StonePlantMound4,-13355,-13348,8019,8026
+RLCraft_SmallUndergroundSkeleton,-13345,-13337,8085,8093

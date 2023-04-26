@@ -1,1 +1,13 @@
 StoneIceBoulder3,-442,-432,-4607,-4597
+StoneIceBoulder2,49,58,-4136,-4127
+DinosaurSkeleton,8,17,-4151,-4105
+BrickHenge,-290,-274,-4139,-4123
+MeteorSite,188,203,-4116,-4086
+RLCraft_RuinsParkour,19,111,-4221,-4121
+UndergroundTreeoid,268,294,-4121,-4098
+StoneIceBoulder,397,407,-4134,-4125
+StoneIceBoulder2,411,420,-4161,-4152
+AbandonedWoodTower,358,394,-4324,-4294
+RLCraft_BasicWitch,217,217,-4332,-4332
+RLCraft_UndergroundRuin1,214,223,-4335,-4326
+IceThorn1,304,325,-4376,-4360

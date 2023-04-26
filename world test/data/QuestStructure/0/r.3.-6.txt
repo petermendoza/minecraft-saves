@@ -82,3 +82,10 @@ StonePlantBoulder,1584,1594,-3544,-3534
 RLCraft_DecentSpider,1882,1882,-3460,-3460
 RLCraft_UndergroundRuin2,1880,1887,-3465,-3455
 StonePlantMound3,1544,1553,-3510,-3499
+RLCraft_SmallUndergroundSkeleton,1913,1921,-3304,-3296
+RLCraft_DecentSkeleton,1725,1725,-3204,-3204
+RLCraft_UndergroundRuin3,1719,1727,-3209,-3201
+RLCraft_DecentWitch,1794,1794,-3181,-3181
+RLCraft_UndergroundRuin3,1791,1799,-3187,-3179
+RLCraft_SmallUndergroundSkeleton,1750,1758,-3165,-3157
+StoneBoulder,1728,1737,-3166,-3157

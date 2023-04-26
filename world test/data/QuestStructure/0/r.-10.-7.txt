@@ -1,0 +1,10 @@
+P_PreysPerch,-5257,-5211,-4061,-4015
+ShrineSmallFire,-5337,-5327,-4003,-3993
+RLCraft_DecentSkeleton,-5256,-5256,-3994,-3994
+RLCraft_UndergroundRuin2,-5261,-5251,-3996,-3989
+RLCraft_UndergroundFarm,-5201,-5158,-4009,-3967
+UndergroundCrypt,-5469,-5441,-4025,-4011
+RLCraft_BasicSkeleton,-5495,-5495,-4051,-4051
+RLCraft_UndergroundRuin1,-5501,-5492,-4054,-4045
+ShrineSmallWater,-5517,-5509,-3772,-3764
+P_LargeShip,-5609,-5549,-3647,-3629

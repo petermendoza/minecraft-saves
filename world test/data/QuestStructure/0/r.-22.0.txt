@@ -273,3 +273,15 @@ StoneLeafMound,-11764,-11755,236,243
 MeteorSite,-11558,-11543,334,364
 StonePlantMound,-11528,-11523,372,377
 StonePlantMound4,-11552,-11545,441,448
+StoneBoulder,-11532,-11523,-289,-280
+ClayWaterMound,-11578,-11571,-275,-267
+StonePlantMound4,-11629,-11622,-250,-243
+StonePlantMound2,-11679,-11667,-267,-254
+RLCraft_DecentSkeleton,-11692,-11692,-268,-268
+RLCraft_UndergroundRuin2,-11694,-11687,-273,-263
+StonePlantBoulder,-11740,-11730,-125,-115
+StonePlantBoulder,-11728,-11718,-217,-207
+ForestBeacon,-11743,-11735,-83,-75
+RLCraft_DecentZombie,-11759,-11759,2,2
+RLCraft_UndergroundRuin2,-11764,-11754,0,7
+StoneLeafMound,-11777,-11770,-216,-207

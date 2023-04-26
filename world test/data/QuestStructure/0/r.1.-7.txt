@@ -1,0 +1,9 @@
+RLCraft_DecentCaveSpider,568,568,-4078,-4078
+RLCraft_UndergroundRuin3,566,574,-4081,-4073
+StonePlantMound1,585,591,-3947,-3941
+StoneIceBoulder2,618,627,-4056,-4047
+RLCraft_DecentZombie,693,693,-4041,-4041
+RLCraft_UndergroundRuin3,690,698,-4043,-4035
+P_VillageHouse,864,875,-4093,-4084
+VillageTriplets,893,907,-4094,-4080
+VillageInn,893,920,-4075,-4055

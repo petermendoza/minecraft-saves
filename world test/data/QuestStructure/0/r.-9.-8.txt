@@ -10,3 +10,5 @@ StonePlantBoulder,-4654,-4644,-4444,-4434
 StonePlantMound1,-4713,-4707,-4424,-4418
 ShrineSmallAir,-4770,-4762,-4188,-4180
 StoneBoulder,-4704,-4695,-4128,-4119
+ShrineSmallWater,-5119,-5111,-4131,-4123
+ShrineSmallFire,-5040,-5030,-4125,-4115

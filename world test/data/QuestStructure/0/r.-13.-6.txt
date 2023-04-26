@@ -5,3 +5,5 @@ RLCraft_UndergroundRuin1,-6829,-6820,-3335,-3326
 ShrineSmallWater,-6936,-6928,-3304,-3296
 RLCraft_DecentCaveSpider,-6960,-6960,-3304,-3304
 RLCraft_UndergroundRuin2,-6965,-6955,-3306,-3299
+StonePlantBoulder,-6826,-6816,-3093,-3083
+OldWatchtower,-6976,-6963,-3134,-3122

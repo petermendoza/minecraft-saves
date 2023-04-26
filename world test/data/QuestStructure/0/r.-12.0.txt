@@ -1,0 +1,12 @@
+P_SmallShip,-6278,-6272,-135,-115
+RLCraft_BasicZombie,-6366,-6366,-224,-224
+RLCraft_UndergroundRuin1,-6372,-6363,-230,-221
+RLCraft_BasicCaveSpider,-6451,-6451,-119,-119
+RLCraft_UndergroundRuin1,-6457,-6448,-125,-116
+ShrineSmallAir,-6479,-6471,-143,-135
+RLCraft_SmallUndergroundSkeleton,-6518,-6510,35,43
+StonePlantMound4,-6584,-6577,-3,4
+RLCraft_DecentZombie,-6478,-6478,189,189
+RLCraft_UndergroundRuin2,-6483,-6473,184,191
+RLCraft_UndergroundFarm,-6468,-6426,183,226
+ShrineSmallWater,-6208,-6200,-276,-268

@@ -5,3 +5,6 @@ RLCraft_UndergroundRuin1,-15943,-15934,11455,11464
 UndergroundTreeoid,-15962,-15936,11551,11574
 RLCraft_SmallUndergroundSkeleton,-16343,-16335,11635,11643
 RLCraft_SmallUndergroundSkeleton,-16342,-16334,11753,11761
+StonePlantMound1,-16095,-16089,11766,11772
+StonePlantMound,-16091,-16086,11694,11699
+DesertBeacon,-15998,-15992,11718,11724

@@ -5,3 +5,7 @@ RLCraft_UndergroundRuin1,-3901,-3892,-354,-345
 RLCraft_DecentWitch,-3803,-3803,69,69
 RLCraft_UndergroundRuin2,-3808,-3801,64,74
 ShrineSmallWater,-3658,-3650,79,87
+VillageForgeLarge,-4074,-4062,87,103
+P_VillageFarmhouse,-4051,-4039,82,94
+VillageGuardTower,-4060,-4048,118,130
+RLCraft_Vineyard,-4074,-4054,138,166

@@ -1,2 +1,9 @@
 RLCraft_SmallUndergroundSkeleton,-12787,-12779,6599,6607
 SmallAbandonedMine,-12670,-12645,6616,6631
+BlazeSpawnerCrystal,-12500,-12494,6531,6537
+StonePlantMound3,-12516,-12505,6470,6479
+SmallClockworkSite,-12531,-12509,6523,6542
+WoodWallRemains,-12624,-12616,6532,6560
+StoneLeafMound,-12648,-12639,6595,6602
+RLCraft_BasicWitch,-12505,-12505,6498,6498
+RLCraft_UndergroundRuin1,-12508,-12499,6495,6504

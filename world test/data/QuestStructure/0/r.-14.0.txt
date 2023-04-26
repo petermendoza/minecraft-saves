@@ -1,0 +1,11 @@
+StonePlantMound2,-7221,-7208,-180,-168
+StonePlantMound2,-7204,-7191,-209,-197
+StonePlantBoulder,-7261,-7251,-202,-192
+WoodWallRemains,-7234,-7226,-259,-231
+RLCraft_SmallUndergroundSkeleton,-7338,-7330,-194,-186
+RLCraft_AgentStarbuck_VikingHouse,-7544,-7509,-113,-64
+StonePlantMound4,-7429,-7422,21,28
+RLCraft_BasicSpider,-7657,-7657,34,34
+RLCraft_UndergroundRuin1,-7660,-7651,28,37
+P_VillageFarmhouse,-7657,-7645,-220,-208
+StoneBoulder,-7439,-7430,111,120

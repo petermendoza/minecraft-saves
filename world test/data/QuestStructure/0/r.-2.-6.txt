@@ -53,3 +53,4 @@ StoneMazeSmall,-1287,-1264,-3431,-3408
 StoneIceBoulder3,-1292,-1282,-3480,-3470
 RLCraft_BasicSpider,-1251,-1251,-3437,-3437
 RLCraft_UndergroundRuin1,-1257,-1248,-3440,-3431
+RLCraft_UndergroundFarm,-1180,-1137,-3375,-3333

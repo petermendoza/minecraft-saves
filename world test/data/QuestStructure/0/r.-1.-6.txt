@@ -1,0 +1,8 @@
+ShrineSmallAir,-899,-891,-3451,-3443
+StoneIceBoulder3,-877,-867,-3556,-3546
+P_Tent,-775,-766,-3502,-3493
+IceThorn3,-717,-703,-3507,-3493
+RLCraft_DecentCaveSpider,-861,-861,-3312,-3312
+RLCraft_UndergroundRuin3,-864,-856,-3314,-3306
+RLCraft_BasicSkeleton,-525,-525,-3484,-3484
+RLCraft_UndergroundRuin1,-528,-519,-3487,-3478

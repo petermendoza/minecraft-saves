@@ -1,0 +1,8 @@
+RLCraft_FriendlyOutpost,-7251,-7183,-2861,-2822
+ClayWaterMound1,-7247,-7236,-2768,-2758
+DinosaurSkeleton,-7268,-7259,-2730,-2684
+StonePlantBoulder,-7275,-7265,-2749,-2739
+StonePlantMound2,-7264,-7252,-2894,-2881
+RLCraft_DecentSkeleton,-7332,-7332,-2706,-2706
+RLCraft_UndergroundRuin2,-7334,-7327,-2711,-2701
+PeacefulCrypt,-7346,-7322,-2878,-2862

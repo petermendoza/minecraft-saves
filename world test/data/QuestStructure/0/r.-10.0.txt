@@ -1,0 +1,16 @@
+P_SmallShip,-5175,-5155,-12,-6
+BlazeSpawnerCrystal,-5220,-5214,-194,-188
+UndergroundCrypt,-5251,-5223,-226,-212
+SmallAbandonedMine,-5133,-5118,-501,-476
+StonePlantMound,-5282,-5277,-114,-109
+RLCraft_DecentWitch,-5299,-5299,-365,-365
+RLCraft_UndergroundRuin3,-5305,-5297,-370,-362
+P_SwampHouse,-5344,-5314,-160,-118
+P_SwampHouse,-5372,-5330,-235,-205
+WoodWallRemains,-5362,-5334,-315,-307
+RLCraft_UndergroundFarm,-5442,-5399,-345,-303
+StonePlantMound4,-5494,-5487,-51,-44
+RLCraft_DecentZombie,-5458,-5458,13,13
+RLCraft_UndergroundRuin2,-5463,-5456,8,18
+RLCraft_BasicZombie,-5561,-5561,-381,-381
+RLCraft_UndergroundRuin1,-5567,-5558,-384,-375

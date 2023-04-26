@@ -1,0 +1,3 @@
+StoneLeafMound,-6369,-6362,-2919,-2910
+RLCraft_DecentCaveSpider,-6595,-6595,-2879,-2879
+RLCraft_UndergroundRuin2,-6600,-6593,-2884,-2874

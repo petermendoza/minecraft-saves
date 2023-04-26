@@ -1,2 +1,9 @@
 GiganticTree,-9951,-9882,7644,7722
 StonePlantMound1,-9851,-9845,7825,7831
+SmallWoodenCottage1,-10211,-10200,8124,8130
+StonePlantMound3,-10060,-10051,8065,8076
+SmallWoodenCottage2,-9930,-9922,8060,8068
+RLCraft_SmallUndergroundSkeleton,-9904,-9896,8174,8182
+Tree_Oak_TheMushroomOak_v3,-9817,-9767,8078,8137
+StonePlantMound3,-9789,-9778,8029,8038
+StoneLeafMound,-9885,-9878,8027,8036

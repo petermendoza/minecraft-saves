@@ -1,0 +1,12 @@
+StonePlantMound3,-11262,-11251,7909,7918
+StoneLeafMound,-11252,-11245,7946,7955
+StonePlantMound,-11203,-11198,8181,8186
+StonePlantMound2,-11169,-11157,7956,7969
+P_TreeDungeon,-11179,-11137,8148,8193
+StoneBoulder,-11114,-11105,8136,8145
+WoodWallRemains,-11116,-11108,7951,7979
+RLCraft_BasicWitch,-11048,-11048,8002,8002
+RLCraft_UndergroundRuin1,-11054,-11045,7999,8008
+StonePlantBoulder,-10979,-10969,8082,8092
+RLCraft_SmallUndergroundSkeleton,-10954,-10946,8172,8180
+StonePlantMound3,-10955,-10946,8083,8094

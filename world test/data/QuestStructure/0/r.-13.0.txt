@@ -1,0 +1,16 @@
+RLCraft_DecentCaveSpider,-6713,-6713,367,367
+RLCraft_UndergroundRuin2,-6715,-6708,362,372
+RLCraft_UndergroundFarm,-6788,-6745,288,330
+RLCraft_SmallUndergroundSkeleton,-6660,-6652,-179,-171
+RLCraft_DecentWitch,-6680,-6680,-107,-107
+RLCraft_UndergroundRuin2,-6685,-6675,-109,-102
+RLCraft_SmallUndergroundSkeleton,-6693,-6685,-99,-91
+StoneBoulder,-6706,-6697,-13,-4
+ForestBeacon,-6756,-6748,-40,-32
+StonePlantMound,-6733,-6728,27,32
+StonePlantMound1,-6767,-6761,-1,5
+StonePlantMound1,-6794,-6788,-23,-17
+StonePlantMound4,-6785,-6778,42,49
+StonePlantMound,-6917,-6912,-13,-8
+PeacefulCrypt,-7128,-7112,-163,-139
+RLCraft_SmallUndergroundSkeleton,-7153,-7145,-122,-114

@@ -1,0 +1,13 @@
+ClayWaterMound1,-11751,-11741,8190,8201
+RLCraft_SmallUndergroundSkeleton,-11520,-11512,8211,8219
+DinosaurSkeleton,-11549,-11503,8204,8213
+RLCraft_cryo_bit,-11501,-11476,8238,8263
+SmallWoodenCottage1,-11395,-11384,8279,8285
+DinosaurSkull,-11497,-11478,8275,8286
+RLCraft_BasicCaveSpider,-11412,-11412,8316,8316
+RLCraft_UndergroundRuin1,-11418,-11409,8310,8319
+StonePlantMound2,-11470,-11458,8316,8329
+VillageWoodMill,-11402,-11386,8334,8347
+P_VillageFarmhouse,-11433,-11421,8358,8370
+VillageLargeLibrary,-11402,-11383,8362,8382
+SeasonsGreenhouse,-11400,-11390,8388,8400

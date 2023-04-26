@@ -1,0 +1,6 @@
+StonePlantMound,-4103,-4098,45,50
+SeasonsGreenhouse,-4111,-4101,89,101
+VillageWoodMill,-4106,-4093,118,134
+ShrineSmallFire,-4332,-4322,133,143
+VillageTriplets,-4119,-4105,141,155
+ShrineSmallFire,-4588,-4578,26,36

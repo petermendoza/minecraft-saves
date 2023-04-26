@@ -8,3 +8,5 @@ P_WizardTower,-1864,-1834,-3748,-3718
 ClayWaterMound1,-1896,-1885,-3745,-3735
 RLCraft_DecentSpider,-1860,-1860,-4069,-4069
 RLCraft_UndergroundRuin2,-1865,-1855,-4074,-4067
+StoneIceBoulder,-1783,-1774,-3765,-3755
+StoneIceBoulder,-1760,-1750,-3732,-3723
